@@ -1,0 +1,7137 @@
+{
+  "examples": [
+    {
+      "id": "g-001-0001",
+      "lessonNumber": 1,
+      "grammarPoint": "名词1は名词2です",
+      "japanese": "わたしはマイク・ミラーです。",
+      "chinese": "我是迈克・米勒。"
+    },
+    {
+      "id": "g-001-0002",
+      "lessonNumber": 1,
+      "grammarPoint": "名词1は名词2です",
+      "japanese": "わたしは会社員です。",
+      "chinese": "我是公司职员。"
+    },
+    {
+      "id": "g-001-0003",
+      "lessonNumber": 1,
+      "grammarPoint": "名词1は名词2じゃ（では）ありません",
+      "japanese": "サントスさんは学生じゃありません。",
+      "chinese": "桑托斯不是学生。"
+    },
+    {
+      "id": "g-001-0004",
+      "lessonNumber": 1,
+      "grammarPoint": "名词1は名词2ですか（疑问句）",
+      "japanese": "ミラーさんはアメリカ人ですか。\nはい、アメリカ人です。",
+      "chinese": "米勒是美国人吗？\n对，是美国人。"
+    },
+    {
+      "id": "g-001-0005",
+      "lessonNumber": 1,
+      "grammarPoint": "名词1は名词2ですか（疑问句）",
+      "japanese": "あの方はどなたですか。\n［あの方は］ミラーさんです。",
+      "chinese": "那位是谁？\n［那位］是米勒先生。"
+    },
+    {
+      "id": "g-001-0006",
+      "lessonNumber": 1,
+      "grammarPoint": "名词も",
+      "japanese": "ミラーさんは会社員です。グプタさんも会社員です。",
+      "chinese": "米勒是公司职员。古普也是公司职员。"
+    },
+    {
+      "id": "g-001-0007",
+      "lessonNumber": 1,
+      "grammarPoint": "名词1の名词2",
+      "japanese": "ミラーさんはIMCの社員です。",
+      "chinese": "米勒是IMC公司的职员。"
+    },
+    {
+      "id": "g-001-0008",
+      "lessonNumber": 1,
+      "grammarPoint": "〜さん",
+      "japanese": "あの方はミラーさんです。",
+      "chinese": "那位是米勒先生。"
+    },
+    {
+      "id": "g-001-0009",
+      "lessonNumber": 1,
+      "grammarPoint": "〜さん",
+      "japanese": "鈴木：ミラーさんは学生ですか。\nミラー：いいえ、会社員です。",
+      "chinese": "铃木：米勒你是学生吗？\n米勒：不是，我是公司职员。"
+    },
+    {
+      "id": "g-001-0010",
+      "lessonNumber": 1,
+      "grammarPoint": "名词1は名词2ですか（疑问句）",
+      "japanese": "ミラーさんは先生ですか。\nいいえ、先生じゃありません。",
+      "chinese": "米勒是老师吗？\n不，不是老师。"
+    },
+    {
+      "id": "g-002-0001",
+      "lessonNumber": 2,
+      "grammarPoint": "これ/それ/あれ",
+      "japanese": "それは辞書ですか。",
+      "chinese": "那是字典吗?"
+    },
+    {
+      "id": "g-002-0002",
+      "lessonNumber": 2,
+      "grammarPoint": "これ/それ/あれ",
+      "japanese": "これはだれの傘ですか。",
+      "chinese": "这是谁的伞?"
+    },
+    {
+      "id": "g-002-0003",
+      "lessonNumber": 2,
+      "grammarPoint": "この名词/その名词/あの名词",
+      "japanese": "この本はわたしのです。",
+      "chinese": "这本书是我的。"
+    },
+    {
+      "id": "g-002-0004",
+      "lessonNumber": 2,
+      "grammarPoint": "この名词/その名词/あの名词",
+      "japanese": "あの方はどなたですか。",
+      "chinese": "那一位是谁?"
+    },
+    {
+      "id": "g-002-0005",
+      "lessonNumber": 2,
+      "grammarPoint": "そうです",
+      "japanese": "それは辞書ですか。\nはい、そうです。",
+      "chinese": "那是字典吗?\n对，（那）是字典。"
+    },
+    {
+      "id": "g-002-0006",
+      "lessonNumber": 2,
+      "grammarPoint": "そうです",
+      "japanese": "それはミラーさんのですか。\nいいえ、違います。",
+      "chinese": "那是米勒的吗?\n不，不是。"
+    },
+    {
+      "id": "g-002-0007",
+      "lessonNumber": 2,
+      "grammarPoint": "そうです",
+      "japanese": "それはシャープペンシルですか。\nいいえ、ボールペンです。",
+      "chinese": "那是自动铅笔吗?\n不，(那)是圆珠笔。"
+    },
+    {
+      "id": "g-002-0008",
+      "lessonNumber": 2,
+      "grammarPoint": "〜か、〜か",
+      "japanese": "これは「9」ですか、「7」ですか。\n「9」です。",
+      "chinese": "这是“9”，还是“7”?\n是“9”。"
+    },
+    {
+      "id": "g-002-0009",
+      "lessonNumber": 2,
+      "grammarPoint": "名词1の名词2",
+      "japanese": "これはコンピューターの本です。",
+      "chinese": "这是计算机的书。"
+    },
+    {
+      "id": "g-002-0010",
+      "lessonNumber": 2,
+      "grammarPoint": "名词1の名词2",
+      "japanese": "これはわたしの本です。",
+      "chinese": "这是我的书。"
+    },
+    {
+      "id": "g-002-0011",
+      "lessonNumber": 2,
+      "grammarPoint": "名词1の名词2",
+      "japanese": "あれはだれのかばんですか。\n佐藤さんのです。",
+      "chinese": "那是谁的提包？\n是佐藤的。"
+    },
+    {
+      "id": "g-002-0012",
+      "lessonNumber": 2,
+      "grammarPoint": "名词1の名词2",
+      "japanese": "このかばんはあなたのですか。\nいいえ、わたしのじゃありません。",
+      "chinese": "这个提包是你的吗？\n不是，不是我的。"
+    },
+    {
+      "id": "g-002-0013",
+      "lessonNumber": 2,
+      "grammarPoint": "名词1の名词2",
+      "japanese": "ミラーさんはIMCの社員ですか。\nはい、IMCの社員です。",
+      "chinese": "米勒是IMC公司的职员吗？\n对，（他）是IMC公司的职员。"
+    },
+    {
+      "id": "g-002-0014",
+      "lessonNumber": 2,
+      "grammarPoint": "そうですか",
+      "japanese": "この傘はあなたのですか。\nいいえ、違います。シュミットさんのです。\nそうですか。",
+      "chinese": "这把伞是你的吗？\n不是，那是胥米特的。\n哦，是吗。"
+    },
+    {
+      "id": "g-003-0001",
+      "lessonNumber": 3,
+      "grammarPoint": "名词は场所です",
+      "japanese": "お手洗いはあそこです。",
+      "chinese": "洗手间在那边。"
+    },
+    {
+      "id": "g-003-0002",
+      "lessonNumber": 3,
+      "grammarPoint": "名词は场所です",
+      "japanese": "電話は2階です。",
+      "chinese": "电话在二楼。"
+    },
+    {
+      "id": "g-003-0003",
+      "lessonNumber": 3,
+      "grammarPoint": "名词は场所です",
+      "japanese": "山田さんは事務所です。",
+      "chinese": "山田在事务所。"
+    },
+    {
+      "id": "g-003-0004",
+      "lessonNumber": 3,
+      "grammarPoint": "どこ/どちら",
+      "japanese": "お手洗いはどこですか。\nあそこです。",
+      "chinese": "洗手间在哪里?\n在那边。"
+    },
+    {
+      "id": "g-003-0005",
+      "lessonNumber": 3,
+      "grammarPoint": "どこ/どちら",
+      "japanese": "エレベーターはどちらですか。\nあちらです。",
+      "chinese": "电梯在哪里?\n在那边。"
+    },
+    {
+      "id": "g-003-0006",
+      "lessonNumber": 3,
+      "grammarPoint": "どこ/どちら",
+      "japanese": "学校はどこですか。",
+      "chinese": "学校是哪里？"
+    },
+    {
+      "id": "g-003-0007",
+      "lessonNumber": 3,
+      "grammarPoint": "どこ/どちら",
+      "japanese": "会社はどちらですか。",
+      "chinese": "公司是哪里？"
+    },
+    {
+      "id": "g-003-0008",
+      "lessonNumber": 3,
+      "grammarPoint": "名词1の名词2",
+      "japanese": "これはどこのコンピューターですか。\n日本のコンピューターです。\nパワー電気のコンピューターです。",
+      "chinese": "这是哪里（生产）的计算机？\n这是日本（生产）的计算机。\n这是动力电气公司（生产）的计算机。"
+    },
+    {
+      "id": "g-003-0009",
+      "lessonNumber": 3,
+      "grammarPoint": "お〜",
+      "japanese": "［お］国はどちらですか。",
+      "chinese": "您是从哪儿来的？"
+    },
+    {
+      "id": "g-004-0001",
+      "lessonNumber": 4,
+      "grammarPoint": "今‐時‐分です",
+      "japanese": "今何時ですか。\n7時10分です。",
+      "chinese": "现在几点？\n7点10分。"
+    },
+    {
+      "id": "g-004-0002",
+      "lessonNumber": 4,
+      "grammarPoint": "动词ます/动词ません/动词ました/动词ませんでした",
+      "japanese": "わたしは毎日勉強します。",
+      "chinese": "我每天学习。"
+    },
+    {
+      "id": "g-004-0003",
+      "lessonNumber": 4,
+      "grammarPoint": "动词ます/动词ません/动词ました/动词ませんでした",
+      "japanese": "毎朝6時に起きます。",
+      "chinese": "每天早上6点起床。"
+    },
+    {
+      "id": "g-004-0004",
+      "lessonNumber": 4,
+      "grammarPoint": "动词ます/动词ません/动词ました/动词ませんでした",
+      "japanese": "あした6時に起きます。",
+      "chinese": "明天6点起床。"
+    },
+    {
+      "id": "g-004-0005",
+      "lessonNumber": 4,
+      "grammarPoint": "动词ます/动词ません/动词ました/动词ませんでした",
+      "japanese": "けさ6時に起きました。",
+      "chinese": "今天早上6点起的床。"
+    },
+    {
+      "id": "g-004-0006",
+      "lessonNumber": 4,
+      "grammarPoint": "动词ます/动词ません/动词ました/动词ませんでした",
+      "japanese": "きのう勉強しましたか。\nはい、勉強しました。\nいいえ、勉強しませんでした。",
+      "chinese": "昨天学习了吗？\n是的，学习了。\n不，没有学习。"
+    },
+    {
+      "id": "g-004-0007",
+      "lessonNumber": 4,
+      "grammarPoint": "动词ます/动词ません/动词ました/动词ませんでした",
+      "japanese": "毎朝何時に起きますか。\n6時に起きます。",
+      "chinese": "每天早上几点起床？\n6点起床。"
+    },
+    {
+      "id": "g-004-0008",
+      "lessonNumber": 4,
+      "grammarPoint": "名词（时间）に动词",
+      "japanese": "6時半に起きます。",
+      "chinese": "6点半起床。"
+    },
+    {
+      "id": "g-004-0009",
+      "lessonNumber": 4,
+      "grammarPoint": "名词（时间）に动词",
+      "japanese": "7月2日に日本へ来ました。",
+      "chinese": "7月2日来日本的。"
+    },
+    {
+      "id": "g-004-0010",
+      "lessonNumber": 4,
+      "grammarPoint": "名词（时间）に动词",
+      "japanese": "きのう勉強しました。",
+      "chinese": "昨天学习了。"
+    },
+    {
+      "id": "g-004-0011",
+      "lessonNumber": 4,
+      "grammarPoint": "名词（时间）に动词",
+      "japanese": "日曜日［に］奈良へ行きます。",
+      "chinese": "星期天去奈良。"
+    },
+    {
+      "id": "g-004-0012",
+      "lessonNumber": 4,
+      "grammarPoint": "名词1から名词2まで",
+      "japanese": "9時から5時まで勉強します。",
+      "chinese": "从9点学习到5点。"
+    },
+    {
+      "id": "g-004-0013",
+      "lessonNumber": 4,
+      "grammarPoint": "名词1から名词2まで",
+      "japanese": "大阪から東京まで3時間かかります。",
+      "chinese": "从大阪到东京要3个小时。"
+    },
+    {
+      "id": "g-004-0014",
+      "lessonNumber": 4,
+      "grammarPoint": "名词1から名词2まで",
+      "japanese": "9時から働きます。",
+      "chinese": "9点开始工作。"
+    },
+    {
+      "id": "g-004-0015",
+      "lessonNumber": 4,
+      "grammarPoint": "名词1から名词2まで",
+      "japanese": "銀行は9時から3時までです。",
+      "chinese": "银行从9点营业到3点。"
+    },
+    {
+      "id": "g-004-0016",
+      "lessonNumber": 4,
+      "grammarPoint": "名词1から名词2まで",
+      "japanese": "昼休みは12時からです。",
+      "chinese": "午休从12点开始。"
+    },
+    {
+      "id": "g-004-0017",
+      "lessonNumber": 4,
+      "grammarPoint": "名词1と名词2",
+      "japanese": "銀行の休みは土曜日と日曜日です。",
+      "chinese": "银行星期六和星期天休息。"
+    },
+    {
+      "id": "g-004-0018",
+      "lessonNumber": 4,
+      "grammarPoint": "ね",
+      "japanese": "毎日10時まで勉強します。\n大変ですね。",
+      "chinese": "每天学习到10点。\n够辛苦的啊。"
+    },
+    {
+      "id": "g-004-0019",
+      "lessonNumber": 4,
+      "grammarPoint": "ね",
+      "japanese": "山田さんの電話番号は871の6813です。\n871の6813ですね。",
+      "chinese": "山田的电话号码是871-6813。\n是871-6813，对吧。"
+    },
+    {
+      "id": "g-005-0001",
+      "lessonNumber": 5,
+      "grammarPoint": "名词（场所）へ行きます/来ます/帰ります",
+      "japanese": "京都へ行きます。",
+      "chinese": "去京都。"
+    },
+    {
+      "id": "g-005-0002",
+      "lessonNumber": 5,
+      "grammarPoint": "名词（场所）へ行きます/来ます/帰ります",
+      "japanese": "日本へ来ました。",
+      "chinese": "我来到了日本。"
+    },
+    {
+      "id": "g-005-0003",
+      "lessonNumber": 5,
+      "grammarPoint": "名词（场所）へ行きます/来ます/帰ります",
+      "japanese": "うちへ帰ります。",
+      "chinese": "我回家去。"
+    },
+    {
+      "id": "g-005-0004",
+      "lessonNumber": 5,
+      "grammarPoint": "どこ［へ］も行きません/行きませんでした",
+      "japanese": "どこ［へ］も行きません。",
+      "chinese": "哪儿也不去。"
+    },
+    {
+      "id": "g-005-0005",
+      "lessonNumber": 5,
+      "grammarPoint": "どこ［へ］も行きません/行きませんでした",
+      "japanese": "何も食べません。",
+      "chinese": "什么也不吃。"
+    },
+    {
+      "id": "g-005-0006",
+      "lessonNumber": 5,
+      "grammarPoint": "どこ［へ］も行きません/行きませんでした",
+      "japanese": "だれも来ませんでした。",
+      "chinese": "谁也没来。"
+    },
+    {
+      "id": "g-005-0007",
+      "lessonNumber": 5,
+      "grammarPoint": "名词（交通工具）で行きます/来ます/帰ります",
+      "japanese": "電車で行きます。",
+      "chinese": "坐电车去。"
+    },
+    {
+      "id": "g-005-0008",
+      "lessonNumber": 5,
+      "grammarPoint": "名词（交通工具）で行きます/来ます/帰ります",
+      "japanese": "タクシーで来ました。",
+      "chinese": "坐出租车来的。"
+    },
+    {
+      "id": "g-005-0009",
+      "lessonNumber": 5,
+      "grammarPoint": "名词（交通工具）で行きます/来ます/帰ります",
+      "japanese": "駅から歩いて帰りました。",
+      "chinese": "从车站走回来的。"
+    },
+    {
+      "id": "g-005-0010",
+      "lessonNumber": 5,
+      "grammarPoint": "名词（人/动物）と动词",
+      "japanese": "家族と日本へ来ました。",
+      "chinese": "和家里人一起来日本的。"
+    },
+    {
+      "id": "g-005-0011",
+      "lessonNumber": 5,
+      "grammarPoint": "名词（人/动物）と动词",
+      "japanese": "一人で東京へ行きます。",
+      "chinese": "我自己去东京。"
+    },
+    {
+      "id": "g-005-0012",
+      "lessonNumber": 5,
+      "grammarPoint": "いつ",
+      "japanese": "いつ日本へ来ましたか。\n3月25日に来ました。",
+      "chinese": "什么时候来日本的？\n3月25号来的。"
+    },
+    {
+      "id": "g-005-0013",
+      "lessonNumber": 5,
+      "grammarPoint": "いつ",
+      "japanese": "いつ広島へ行きますか。\n来週行きます。",
+      "chinese": "什么时候去广岛？\n下星期去。"
+    },
+    {
+      "id": "g-005-0014",
+      "lessonNumber": 5,
+      "grammarPoint": "〜よ",
+      "japanese": "この電車は甲子園へ行きますか。\nいいえ、行きません。次の「普通」ですよ。",
+      "chinese": "这趟电车去甲子园吗？\n不去，下一趟慢车去。"
+    },
+    {
+      "id": "g-005-0015",
+      "lessonNumber": 5,
+      "grammarPoint": "〜よ",
+      "japanese": "北海道に馬がたくさんいますよ。",
+      "chinese": "北海道有很多马呢。"
+    },
+    {
+      "id": "g-005-0016",
+      "lessonNumber": 5,
+      "grammarPoint": "〜よ",
+      "japanese": "マリアさん、このアイスクリーム、おいしいですよ。",
+      "chinese": "玛丽亚，这冰激凌可好吃啦。"
+    },
+    {
+      "id": "g-005-0017",
+      "lessonNumber": 5,
+      "grammarPoint": "そうですね",
+      "japanese": "あしたは日曜日ですね。\nあ、そうですね。",
+      "chinese": "明天是星期天，对吧。\n啊，是啊"
+    },
+    {
+      "id": "g-006-0001",
+      "lessonNumber": 6,
+      "grammarPoint": "名词を动词（他动词）",
+      "japanese": "ジュースを飲みます。",
+      "chinese": "喝果汁。"
+    },
+    {
+      "id": "g-006-0002",
+      "lessonNumber": 6,
+      "grammarPoint": "何をしますか",
+      "japanese": "月曜日何をしますか。\n京都へ行きます。",
+      "chinese": "星期一干什么？\n去京都。"
+    },
+    {
+      "id": "g-006-0003",
+      "lessonNumber": 6,
+      "grammarPoint": "何をしますか",
+      "japanese": "きのう何をしましたか。\nサッカーをしました。",
+      "chinese": "昨天干什么了？\n去踢足球了。"
+    },
+    {
+      "id": "g-006-0004",
+      "lessonNumber": 6,
+      "grammarPoint": "なん和なに",
+      "japanese": "それは何ですか。",
+      "chinese": "那是什么？"
+    },
+    {
+      "id": "g-006-0005",
+      "lessonNumber": 6,
+      "grammarPoint": "なん和なに",
+      "japanese": "何の本ですか。",
+      "chinese": "是什么书？"
+    },
+    {
+      "id": "g-006-0006",
+      "lessonNumber": 6,
+      "grammarPoint": "なん和なに",
+      "japanese": "寝るまえに、何と言いますか。",
+      "chinese": "睡觉之前要说什么？"
+    },
+    {
+      "id": "g-006-0007",
+      "lessonNumber": 6,
+      "grammarPoint": "なん和なに",
+      "japanese": "何で東京へ行きますか。",
+      "chinese": "坐什么去东京？"
+    },
+    {
+      "id": "g-006-0008",
+      "lessonNumber": 6,
+      "grammarPoint": "なん和なに",
+      "japanese": "何で東京へ行きますか。\n新幹線で行きます。",
+      "chinese": "坐什么去东京？\n坐新干线去。"
+    },
+    {
+      "id": "g-006-0009",
+      "lessonNumber": 6,
+      "grammarPoint": "なん和なに",
+      "japanese": "テレーザちゃんは何歳ですか。",
+      "chinese": "特蕾莎几岁了？"
+    },
+    {
+      "id": "g-006-0010",
+      "lessonNumber": 6,
+      "grammarPoint": "なん和なに",
+      "japanese": "何を買いますか。",
+      "chinese": "买什么？"
+    },
+    {
+      "id": "g-006-0011",
+      "lessonNumber": 6,
+      "grammarPoint": "名词（场所）で动词",
+      "japanese": "駅で新聞を買います。",
+      "chinese": "在车站买报纸。"
+    },
+    {
+      "id": "g-006-0012",
+      "lessonNumber": 6,
+      "grammarPoint": "动词ませんか",
+      "japanese": "いっしょに京都へ行きませんか。\nええ、いいですね。",
+      "chinese": "一起去京都好吗？\n嗯，好啊。"
+    },
+    {
+      "id": "g-006-0013",
+      "lessonNumber": 6,
+      "grammarPoint": "动词ましょう",
+      "japanese": "ちょっと休みましょう。",
+      "chinese": "休息一下吧。"
+    },
+    {
+      "id": "g-006-0014",
+      "lessonNumber": 6,
+      "grammarPoint": "动词ましょう",
+      "japanese": "いっしょに昼ごはんを食べませんか。\nええ、食べましょう。",
+      "chinese": "一起吃午饭好吗？\n好啊，一起吃吧。"
+    },
+    {
+      "id": "g-006-0015",
+      "lessonNumber": 6,
+      "grammarPoint": "〜か",
+      "japanese": "日曜日京都へ行きました。\n京都ですか。いいですね。",
+      "chinese": "星期天去京都了。\n京都呀，挺好的嘛。"
+    },
+    {
+      "id": "g-007-0001",
+      "lessonNumber": 7,
+      "grammarPoint": "名词(工具/手段)で动词",
+      "japanese": "箸で食べます。",
+      "chinese": "用筷子吃饭。"
+    },
+    {
+      "id": "g-007-0002",
+      "lessonNumber": 7,
+      "grammarPoint": "名词(工具/手段)で动词",
+      "japanese": "日本語でレポートを書きます。",
+      "chinese": "用日语写报告。"
+    },
+    {
+      "id": "g-007-0003",
+      "lessonNumber": 7,
+      "grammarPoint": "词/句は〜語で何ですか",
+      "japanese": "「ありがとう」は英語で何ですか。\n「Thank you」です。",
+      "chinese": "「ありがとう」用英语怎么说?\n是“Thank you\"。"
+    },
+    {
+      "id": "g-007-0004",
+      "lessonNumber": 7,
+      "grammarPoint": "词/句は〜語で何ですか",
+      "japanese": "「Thank you」は日本語で何ですか。\n「ありがとう」です。",
+      "chinese": "“Thank you”用日语怎么说?\n是「ありがとう」。"
+    },
+    {
+      "id": "g-007-0005",
+      "lessonNumber": 7,
+      "grammarPoint": "名词1(人)に名词2をあげます等",
+      "japanese": "［わたしは］木村さんに花をあげました。",
+      "chinese": "我给木村送花了。"
+    },
+    {
+      "id": "g-007-0006",
+      "lessonNumber": 7,
+      "grammarPoint": "名词1(人)に名词2をあげます等",
+      "japanese": "［わたしは］イーさんに本を貸しました。",
+      "chinese": "我把书借给小李了。"
+    },
+    {
+      "id": "g-007-0007",
+      "lessonNumber": 7,
+      "grammarPoint": "名词1(人)に名词2をあげます等",
+      "japanese": "［わたしは］山田さんに英語を教えます。",
+      "chinese": "我教山田英语。"
+    },
+    {
+      "id": "g-007-0008",
+      "lessonNumber": 7,
+      "grammarPoint": "名词1(人)に名词2をもらいます等",
+      "japanese": "［わたしは］山田さんに花をもらいました。",
+      "chinese": "我收到了山田送的花。"
+    },
+    {
+      "id": "g-007-0009",
+      "lessonNumber": 7,
+      "grammarPoint": "名词1(人)に名词2をもらいます等",
+      "japanese": "［わたしは］カリナさんにCDを借りました。",
+      "chinese": "我从卡莉娜那儿借来了CD."
+    },
+    {
+      "id": "g-007-0010",
+      "lessonNumber": 7,
+      "grammarPoint": "名词1(人)に名词2をもらいます等",
+      "japanese": "［わたしは］ワンさんに中国語を習います。",
+      "chinese": "我跟小王学习汉语。"
+    },
+    {
+      "id": "g-007-0011",
+      "lessonNumber": 7,
+      "grammarPoint": "名词1(人)に名词2をもらいます等",
+      "japanese": "［わたしは］山田さんから花をもらいました。",
+      "chinese": "我收到了山田送的花。"
+    },
+    {
+      "id": "g-007-0012",
+      "lessonNumber": 7,
+      "grammarPoint": "名词1(人)に名词2をもらいます等",
+      "japanese": "銀行からお金を借りました。",
+      "chinese": "我从银行贷了款。"
+    },
+    {
+      "id": "g-007-0013",
+      "lessonNumber": 7,
+      "grammarPoint": "もう动词ました",
+      "japanese": "もう荷物を送りましたか。\nはい、［もう］送りました。\nいいえ、まだ送っていません。\nいいえ、まだです。",
+      "chinese": "行李已经寄走了吗？\n是的，已经寄走了。\n没有，还没寄。\n没有，还没有。"
+    },
+    {
+      "id": "g-007-0014",
+      "lessonNumber": 7,
+      "grammarPoint": "助词的省略",
+      "japanese": "このスプーン［は］、すてきですね。",
+      "chinese": "这个小勺真漂亮啊！"
+    },
+    {
+      "id": "g-007-0015",
+      "lessonNumber": 7,
+      "grammarPoint": "助词的省略",
+      "japanese": "コーヒー［を］、もう一杯いかがですか。",
+      "chinese": "再来一杯咖啡怎么样？"
+    },
+    {
+      "id": "g-008-0001",
+      "lessonNumber": 8,
+      "grammarPoint": "名词はな形容词［<s>な</s>］です<br>名词はい形容词(〜い)です",
+      "japanese": "ワット先生は親切です",
+      "chinese": "瓦特老师很和气。"
+    },
+    {
+      "id": "g-008-0002",
+      "lessonNumber": 8,
+      "grammarPoint": "名词はな形容词［<s>な</s>］です<br>名词はい形容词(〜い)です",
+      "japanese": "富士山は高いです。",
+      "chinese": "富士山很高。"
+    },
+    {
+      "id": "g-008-0003",
+      "lessonNumber": 8,
+      "grammarPoint": "名词はな形容词［<s>な</s>］です<br>名词はい形容词(〜い)です",
+      "japanese": "あそこは静かじゃ(では)ありません。",
+      "chinese": "那里不安静。"
+    },
+    {
+      "id": "g-008-0004",
+      "lessonNumber": 8,
+      "grammarPoint": "名词はな形容词［<s>な</s>］です<br>名词はい形容词(〜い)です",
+      "japanese": "この本はおもしろくないです。",
+      "chinese": "这本书没意思。"
+    },
+    {
+      "id": "g-008-0005",
+      "lessonNumber": 8,
+      "grammarPoint": "な形容词な名词<br>い形容词(〜い)名词",
+      "japanese": "ベキンは寒いですか。\nはい、寒いです。",
+      "chinese": "北京冷吗？\n是，很冷。"
+    },
+    {
+      "id": "g-008-0006",
+      "lessonNumber": 8,
+      "grammarPoint": "な形容词な名词<br>い形容词(〜い)名词",
+      "japanese": "奈良公園はにぎやかですか。\nいいえ、にぎやかじゃありません。",
+      "chinese": "奈良公园很热闹吗?\n不，不热闹。"
+    },
+    {
+      "id": "g-008-0007",
+      "lessonNumber": 8,
+      "grammarPoint": "な形容词な名词<br>い形容词(〜い)名词",
+      "japanese": "ワット先生は親切な先生です。",
+      "chinese": "瓦特老师是一位很和气的老师。"
+    },
+    {
+      "id": "g-008-0008",
+      "lessonNumber": 8,
+      "grammarPoint": "な形容词な名词<br>い形容词(〜い)名词",
+      "japanese": "富士山は高い山です。",
+      "chinese": "富士山是一座高山。"
+    },
+    {
+      "id": "g-008-0009",
+      "lessonNumber": 8,
+      "grammarPoint": "〜が、〜",
+      "japanese": "日本の食べ物はおいしいですが、高いです。",
+      "chinese": "日本的食品很好吃，但是价格很贵。"
+    },
+    {
+      "id": "g-008-0010",
+      "lessonNumber": 8,
+      "grammarPoint": "とても/あまり",
+      "japanese": "ペキンはとても寒いです。",
+      "chinese": "北京很冷。"
+    },
+    {
+      "id": "g-008-0011",
+      "lessonNumber": 8,
+      "grammarPoint": "とても/あまり",
+      "japanese": "これはとても有名な映画です。",
+      "chinese": "这是很有名的电影。"
+    },
+    {
+      "id": "g-008-0012",
+      "lessonNumber": 8,
+      "grammarPoint": "とても/あまり",
+      "japanese": "シャンハイはあまり寒くないです。",
+      "chinese": "上海不太冷。"
+    },
+    {
+      "id": "g-008-0013",
+      "lessonNumber": 8,
+      "grammarPoint": "とても/あまり",
+      "japanese": "さくら大学はあまり有名な大学じゃありません。",
+      "chinese": "樱花大学不是很有名的大学。"
+    },
+    {
+      "id": "g-008-0014",
+      "lessonNumber": 8,
+      "grammarPoint": "名词はどうですか",
+      "japanese": "日本の生活はどうですか。\n楽しいです。",
+      "chinese": "（在）日本的生活怎么样？\n很愉快。"
+    },
+    {
+      "id": "g-008-0015",
+      "lessonNumber": 8,
+      "grammarPoint": "名词1はどんな名词2ですか",
+      "japanese": "奈良はどんな町ですか。\n古い町です。",
+      "chinese": "奈良是个什么样的城市？\n是个古老的城市。"
+    },
+    {
+      "id": "g-008-0016",
+      "lessonNumber": 8,
+      "grammarPoint": "そうですね",
+      "japanese": "お仕事はどうですか。\nそうですね。忙しいですが、おもしろいです。",
+      "chinese": "工作怎么样？\n嗯，挺忙的，但是很有意思。"
+    },
+    {
+      "id": "g-009-0001",
+      "lessonNumber": 9,
+      "grammarPoint": "名词があります/わかります<br>名词が好きです/嫌いです/上手です/下手です",
+      "japanese": "わたしはイタリア料理が好きです。",
+      "chinese": "我喜欢意大利菜。"
+    },
+    {
+      "id": "g-009-0002",
+      "lessonNumber": 9,
+      "grammarPoint": "名词があります/わかります<br>名词が好きです/嫌いです/上手です/下手です",
+      "japanese": "わたしは日本語がわかります。",
+      "chinese": "我懂日语。"
+    },
+    {
+      "id": "g-009-0003",
+      "lessonNumber": 9,
+      "grammarPoint": "名词があります/わかります<br>名词が好きです/嫌いです/上手です/下手です",
+      "japanese": "わたしは車があります。",
+      "chinese": "我有车。"
+    },
+    {
+      "id": "g-009-0004",
+      "lessonNumber": 9,
+      "grammarPoint": "どんな名词",
+      "japanese": "どんなスポーツが好きですか。\nサッカーが好きです。",
+      "chinese": "你喜欢什么运动？\n喜欢踢足球。"
+    },
+    {
+      "id": "g-009-0005",
+      "lessonNumber": 9,
+      "grammarPoint": "よく/だいたい/たくさん/少し/あまり/全然",
+      "japanese": "英語がよくわかります。",
+      "chinese": "精通英语。"
+    },
+    {
+      "id": "g-009-0006",
+      "lessonNumber": 9,
+      "grammarPoint": "よく/だいたい/たくさん/少し/あまり/全然",
+      "japanese": "英語が少しわかります。",
+      "chinese": "懂一点儿英语。"
+    },
+    {
+      "id": "g-009-0007",
+      "lessonNumber": 9,
+      "grammarPoint": "よく/だいたい/たくさん/少し/あまり/全然",
+      "japanese": "英語があまりわかりません。",
+      "chinese": "不太懂英语。"
+    },
+    {
+      "id": "g-009-0008",
+      "lessonNumber": 9,
+      "grammarPoint": "よく/だいたい/たくさん/少し/あまり/全然",
+      "japanese": "お金がたくさんあります。",
+      "chinese": "有很多钱。"
+    },
+    {
+      "id": "g-009-0009",
+      "lessonNumber": 9,
+      "grammarPoint": "よく/だいたい/たくさん/少し/あまり/全然",
+      "japanese": "お金が全然ありません。",
+      "chinese": "一点儿钱也没有。"
+    },
+    {
+      "id": "g-009-0010",
+      "lessonNumber": 9,
+      "grammarPoint": "よく/だいたい/たくさん/少し/あまり/全然",
+      "japanese": "ここは少し寒いです。",
+      "chinese": "这里有点儿冷。"
+    },
+    {
+      "id": "g-009-0011",
+      "lessonNumber": 9,
+      "grammarPoint": "よく/だいたい/たくさん/少し/あまり/全然",
+      "japanese": "あの映画は全然おもしろくないです。",
+      "chinese": "那个电影一点儿意思也没有。"
+    },
+    {
+      "id": "g-009-0012",
+      "lessonNumber": 9,
+      "grammarPoint": "〜から、〜",
+      "japanese": "時間がありませんから、新聞を読みません。",
+      "chinese": "因为没有时间，所以不看报。"
+    },
+    {
+      "id": "g-009-0013",
+      "lessonNumber": 9,
+      "grammarPoint": "〜から、〜",
+      "japanese": "毎朝新聞を読みますか。\nいいえ、読みません。時間がありませんから。",
+      "chinese": "每天早晨看报吗？\n不，不看。因为没有时间。"
+    },
+    {
+      "id": "g-009-0014",
+      "lessonNumber": 9,
+      "grammarPoint": "どうして",
+      "japanese": "どうして朝新聞を読みませんか。\n時間がありませんから。",
+      "chinese": "早上为什么不看报？\n因为没有时间。"
+    },
+    {
+      "id": "g-009-0015",
+      "lessonNumber": 9,
+      "grammarPoint": "どうして",
+      "japanese": "きょうは早く帰ります。\nどうしてですか。\n子どもの誕生日ですから。",
+      "chinese": "今天要早些回去。\n为什么？\n因为是孩子的生日。"
+    },
+    {
+      "id": "g-010-0001",
+      "lessonNumber": 10,
+      "grammarPoint": "名词があります/います",
+      "japanese": "コンピューターがあります。",
+      "chinese": "有一台电脑。"
+    },
+    {
+      "id": "g-010-0002",
+      "lessonNumber": 10,
+      "grammarPoint": "名词があります/います",
+      "japanese": "桜があります。",
+      "chinese": "有樱花树。"
+    },
+    {
+      "id": "g-010-0003",
+      "lessonNumber": 10,
+      "grammarPoint": "名词があります/います",
+      "japanese": "公園があります。",
+      "chinese": "有一个公园。"
+    },
+    {
+      "id": "g-010-0004",
+      "lessonNumber": 10,
+      "grammarPoint": "名词があります/います",
+      "japanese": "男の人がいます。",
+      "chinese": "有一个男人。"
+    },
+    {
+      "id": "g-010-0005",
+      "lessonNumber": 10,
+      "grammarPoint": "名词があります/います",
+      "japanese": "犬がいます。",
+      "chinese": "有一条狗。"
+    },
+    {
+      "id": "g-010-0006",
+      "lessonNumber": 10,
+      "grammarPoint": "场所に名词があります/います",
+      "japanese": "わたしの部屋に机があります。",
+      "chinese": "我的房间里有桌子。"
+    },
+    {
+      "id": "g-010-0007",
+      "lessonNumber": 10,
+      "grammarPoint": "场所に名词があります/います",
+      "japanese": "事務所にミラーさんがいます。",
+      "chinese": "米勒在事务所里。"
+    },
+    {
+      "id": "g-010-0008",
+      "lessonNumber": 10,
+      "grammarPoint": "场所に名词があります/います",
+      "japanese": "地下に何がありますか。\nレストランがあります。",
+      "chinese": "地下有什么?\n有餐厅。"
+    },
+    {
+      "id": "g-010-0009",
+      "lessonNumber": 10,
+      "grammarPoint": "场所に名词があります/います",
+      "japanese": "受付にだれがいますか。\n木村さんがいます。",
+      "chinese": "接待处有人吗?\n木村在。"
+    },
+    {
+      "id": "g-010-0010",
+      "lessonNumber": 10,
+      "grammarPoint": "名词は场所にあります/います",
+      "japanese": "東京ティズニーランドは千葉県にあります。",
+      "chinese": "东京迪士尼乐园在千叶县。"
+    },
+    {
+      "id": "g-010-0011",
+      "lessonNumber": 10,
+      "grammarPoint": "名词は场所にあります/います",
+      "japanese": "ミラーさんは事務所にいます。",
+      "chinese": "米勒在事务所。"
+    },
+    {
+      "id": "g-010-0012",
+      "lessonNumber": 10,
+      "grammarPoint": "名词は场所にあります/います",
+      "japanese": "東京ディズニーランドはどこにありますか。\n千葉県にあります。",
+      "chinese": "东京迪士尼乐园在哪里？\n在千叶县。"
+    },
+    {
+      "id": "g-010-0013",
+      "lessonNumber": 10,
+      "grammarPoint": "名词は场所にあります/います",
+      "japanese": "ミラーさんはどこにいますか。\n事務所にいます。",
+      "chinese": "米勒在哪儿?\n在事务所。"
+    },
+    {
+      "id": "g-010-0014",
+      "lessonNumber": 10,
+      "grammarPoint": "名词は场所にあります/います",
+      "japanese": "東京ディズニーランドはどこですか。\n千葉県です。",
+      "chinese": "东京迪士尼乐园在哪里？\n在千叶县。"
+    },
+    {
+      "id": "g-010-0015",
+      "lessonNumber": 10,
+      "grammarPoint": "名词1（物/人/场所）の名词2（位置）",
+      "japanese": "机の上に写真があります。",
+      "chinese": "桌子上有照片。"
+    },
+    {
+      "id": "g-010-0016",
+      "lessonNumber": 10,
+      "grammarPoint": "名词1（物/人/场所）の名词2（位置）",
+      "japanese": "郵便局は銀行の隣にあります。",
+      "chinese": "邮局在银行的旁边。"
+    },
+    {
+      "id": "g-010-0017",
+      "lessonNumber": 10,
+      "grammarPoint": "名词1（物/人/场所）の名词2（位置）",
+      "japanese": "本屋は花屋とスーパーの間にあります。",
+      "chinese": "书店在花店和超市之间。"
+    },
+    {
+      "id": "g-010-0018",
+      "lessonNumber": 10,
+      "grammarPoint": "名词1（物/人/场所）の名词2（位置）",
+      "japanese": "駅の近くで友達に会いました。",
+      "chinese": "在车站附近遇见了朋友。"
+    },
+    {
+      "id": "g-010-0019",
+      "lessonNumber": 10,
+      "grammarPoint": "名词1や名词2",
+      "japanese": "箱の中に手紙や写真があります。",
+      "chinese": "盒子里有信和照片。"
+    },
+    {
+      "id": "g-010-0020",
+      "lessonNumber": 10,
+      "grammarPoint": "名词1や名词2",
+      "japanese": "箱の中に手紙や写真などがあります。",
+      "chinese": "盒子里有信和照片什么的。"
+    },
+    {
+      "id": "g-010-0021",
+      "lessonNumber": 10,
+      "grammarPoint": "アジアストアですか",
+      "japanese": "すみません。アジアストアはどこですか。\nアジアストアですか。（中略）あのビルの中です。",
+      "chinese": "对不起，亚洲超市在哪里？\n亚洲超市吗？（中间内容省略）在那栋大楼里。"
+    },
+    {
+      "id": "g-011-0001",
+      "lessonNumber": 11,
+      "grammarPoint": "数量词的用法",
+      "japanese": "リんごを4つ買いました。",
+      "chinese": "买了4个苹果。"
+    },
+    {
+      "id": "g-011-0002",
+      "lessonNumber": 11,
+      "grammarPoint": "数量词的用法",
+      "japanese": "外国人の学生が2人います。",
+      "chinese": "有2个外国学生。"
+    },
+    {
+      "id": "g-011-0003",
+      "lessonNumber": 11,
+      "grammarPoint": "数量词的用法",
+      "japanese": "国で2か月日本語を勉強しました。",
+      "chinese": "在国内学了两个月的日语。"
+    },
+    {
+      "id": "g-011-0004",
+      "lessonNumber": 11,
+      "grammarPoint": "数量词的用法",
+      "japanese": "みかんをいくつ買いましたか。\n8つ買いました。",
+      "chinese": "买了几个橘子？\n买了8个。"
+    },
+    {
+      "id": "g-011-0005",
+      "lessonNumber": 11,
+      "grammarPoint": "数量词的用法",
+      "japanese": "この会社に外国人が何人いますか。\n5人います。",
+      "chinese": "这家公司有几个外国人？\n有5个。"
+    },
+    {
+      "id": "g-011-0006",
+      "lessonNumber": 11,
+      "grammarPoint": "数量词的用法",
+      "japanese": "毎晩何時間日本語を勉強しますか。\n2時間勉強します。",
+      "chinese": "晚上学习几个小时日语？\n学习两个小时。"
+    },
+    {
+      "id": "g-011-0007",
+      "lessonNumber": 11,
+      "grammarPoint": "数量词的用法",
+      "japanese": "どのくらい日本語を勉強しましたか。\n3年勉強しました。",
+      "chinese": "学了多长时间日语了？\n学了3年了。"
+    },
+    {
+      "id": "g-011-0008",
+      "lessonNumber": 11,
+      "grammarPoint": "数量词的用法",
+      "japanese": "大阪から東京までどのくらいかかりますか。\n新幹線で2時間半かかります。",
+      "chinese": "从大阪到东京要多长时间？\n坐新干线要两个半小时。"
+    },
+    {
+      "id": "g-011-0009",
+      "lessonNumber": 11,
+      "grammarPoint": "数量词的用法",
+      "japanese": "学校に先生が30人ぐらいいます。",
+      "chinese": "学校里大约有30位老师。"
+    },
+    {
+      "id": "g-011-0010",
+      "lessonNumber": 11,
+      "grammarPoint": "数量词的用法",
+      "japanese": "15分ぐらいかかります。",
+      "chinese": "大约要15分钟。"
+    },
+    {
+      "id": "g-011-0011",
+      "lessonNumber": 11,
+      "grammarPoint": "数量词（期间）に～回动词",
+      "japanese": "1か月に2回映画を見ます。",
+      "chinese": "1个月看两次电影。"
+    },
+    {
+      "id": "g-011-0012",
+      "lessonNumber": 11,
+      "grammarPoint": "数量词だけ/名词だけ",
+      "japanese": "パワー電気に外国人の社員が1人だけいます。",
+      "chinese": "动力电气公司只有1个外国职员。"
+    },
+    {
+      "id": "g-011-0013",
+      "lessonNumber": 11,
+      "grammarPoint": "数量词だけ/名词だけ",
+      "japanese": "休みは日曜日だけです。",
+      "chinese": "休息日只有星期天。"
+    },
+    {
+      "id": "g-012-0001",
+      "lessonNumber": 12,
+      "grammarPoint": "名词句、な形容词句的时态：肯定・否定",
+      "japanese": "きのうは雨でした。",
+      "chinese": "昨天下雨了。"
+    },
+    {
+      "id": "g-012-0002",
+      "lessonNumber": 12,
+      "grammarPoint": "名词句、な形容词句的时态：肯定・否定",
+      "japanese": "きのうの試験は簡単じゃありませんでした。",
+      "chinese": "昨天的考试不容易。"
+    },
+    {
+      "id": "g-012-0003",
+      "lessonNumber": 12,
+      "grammarPoint": "い形容词句的时态：肯定・否定",
+      "japanese": "きのうは暑かったです。",
+      "chinese": "昨天很热。"
+    },
+    {
+      "id": "g-012-0004",
+      "lessonNumber": 12,
+      "grammarPoint": "い形容词句的时态：肯定・否定",
+      "japanese": "きのうのパーティーはあまり楽しくなかったです。",
+      "chinese": "昨天的晚会没什么意思。"
+    },
+    {
+      "id": "g-012-0005",
+      "lessonNumber": 12,
+      "grammarPoint": "名词1は名词2より形容词です",
+      "japanese": "この車はあの車より大きいです。",
+      "chinese": "这辆车比那辆车大。"
+    },
+    {
+      "id": "g-012-0006",
+      "lessonNumber": 12,
+      "grammarPoint": "名词1と名词2とどちらが形容词ですか<br>名词1/名词2のほうが形容词です",
+      "japanese": "サッカーと野球とどちらがおもしろいですか。\nサッカーのほうがおもしろいです。",
+      "chinese": "足球和棒球哪个有意思？\n足球有意思。"
+    },
+    {
+      "id": "g-012-0007",
+      "lessonNumber": 12,
+      "grammarPoint": "名词1と名词2とどちらが形容词ですか<br>名词1/名词2のほうが形容词です",
+      "japanese": "ミラーさんとサントスさんとどちらがテニスが上手ですか。",
+      "chinese": "米勒和桑托斯谁网球打得好？"
+    },
+    {
+      "id": "g-012-0008",
+      "lessonNumber": 12,
+      "grammarPoint": "名词1と名词2とどちらが形容词ですか<br>名词1/名词2のほうが形容词です",
+      "japanese": "北海道と大阪とどちらが涼しいですか。",
+      "chinese": "北海道和大阪哪里凉快？"
+    },
+    {
+      "id": "g-012-0009",
+      "lessonNumber": 12,
+      "grammarPoint": "名词1と名词2とどちらが形容词ですか<br>名词1/名词2のほうが形容词です",
+      "japanese": "春と秋とどちらが好きですか。",
+      "chinese": "春天和秋天喜欢哪个？"
+    },
+    {
+      "id": "g-012-0010",
+      "lessonNumber": 12,
+      "grammarPoint": "名词1［の中］で{何/どれ/だれ/いつ}がいちばん形容词ですか<br>名词2がいちばん形容词です",
+      "japanese": "日本料理［の中］で何がいちばんおいしいですか。\nてんぷらがいちばんおいしいです。",
+      "chinese": "日本菜（中）什么最好吃？\n天妇罗最好吃。"
+    },
+    {
+      "id": "g-012-0011",
+      "lessonNumber": 12,
+      "grammarPoint": "名词1［の中］で{何/どれ/だれ/いつ}がいちばん形容词ですか<br>名词2がいちばん形容词です",
+      "japanese": "ヨーロッパでどこがいちばんよかったですか。\nスイスがいちばんよかったです。",
+      "chinese": "欧洲哪里最好？\n瑞士最好。"
+    },
+    {
+      "id": "g-012-0012",
+      "lessonNumber": 12,
+      "grammarPoint": "名词1［の中］で{何/どれ/だれ/いつ}がいちばん形容词ですか<br>名词2がいちばん形容词です",
+      "japanese": "家族でだれがいちばん背が高いですか。\n弟がいちばん背が高いです。",
+      "chinese": "家里谁最高？\n弟弟最高。"
+    },
+    {
+      "id": "g-012-0013",
+      "lessonNumber": 12,
+      "grammarPoint": "名词1［の中］で{何/どれ/だれ/いつ}がいちばん形容词ですか<br>名词2がいちばん形容词です",
+      "japanese": "1年でいつがいちばん寒いですか。\n2月がいちばん寒いです。",
+      "chinese": "一年里什么时候最冷？\n2月最冷。"
+    },
+    {
+      "id": "g-012-0014",
+      "lessonNumber": 12,
+      "grammarPoint": "形容词の（代替名词使用的「の」）",
+      "japanese": "カリナさんのかばんはどれですか。\nあの赤くて、大きいのです。",
+      "chinese": "卡莉娜的提包是哪个？\n那个红色的大包。"
+    },
+    {
+      "id": "g-013-0001",
+      "lessonNumber": 13,
+      "grammarPoint": "名词が欲しいです",
+      "japanese": "わたしは友達が欲しいです。",
+      "chinese": "我想交朋友。"
+    },
+    {
+      "id": "g-013-0002",
+      "lessonNumber": 13,
+      "grammarPoint": "名词が欲しいです",
+      "japanese": "今何がいちばん欲しいですか。\n車が欲しいです。",
+      "chinese": "你现在最想要什么？\n想要辆汽车。"
+    },
+    {
+      "id": "g-013-0003",
+      "lessonNumber": 13,
+      "grammarPoint": "名词が欲しいです",
+      "japanese": "子どもが欲しいですか。\nいいえ、欲しくないです。",
+      "chinese": "你想要孩子吗？\n不，不想要。"
+    },
+    {
+      "id": "g-013-0004",
+      "lessonNumber": 13,
+      "grammarPoint": "动词ます形たいです",
+      "japanese": "わたしは沖縄へ行きたいです。",
+      "chinese": "我想去冲绳。"
+    },
+    {
+      "id": "g-013-0005",
+      "lessonNumber": 13,
+      "grammarPoint": "动词ます形たいです",
+      "japanese": "わたしはてんぷらを食べたいです。",
+      "chinese": "我想吃天妇罗。"
+    },
+    {
+      "id": "g-013-0006",
+      "lessonNumber": 13,
+      "grammarPoint": "动词ます形たいです",
+      "japanese": "神戸で何を買いたいですか。\n靴を買いたいです。",
+      "chinese": "想在神户买什么？\n想买鞋。"
+    },
+    {
+      "id": "g-013-0007",
+      "lessonNumber": 13,
+      "grammarPoint": "动词ます形たいです",
+      "japanese": "おなかが痛いですから、何も食べたくないです。",
+      "chinese": "我肚子疼，什么也不想吃。"
+    },
+    {
+      "id": "g-013-0008",
+      "lessonNumber": 13,
+      "grammarPoint": "名词（场所）へ{动词ます形/名词}に行きます/来ます/帰ります",
+      "japanese": "神戸へインド料理を食べに行きます。",
+      "chinese": "去神户吃印度菜。"
+    },
+    {
+      "id": "g-013-0009",
+      "lessonNumber": 13,
+      "grammarPoint": "名词（场所）へ{动词ます形/名词}に行きます/来ます/帰ります",
+      "japanese": "神戸へ買い物に行きます。",
+      "chinese": "去神户买东西。"
+    },
+    {
+      "id": "g-013-0010",
+      "lessonNumber": 13,
+      "grammarPoint": "名词（场所）へ{动词ます形/名词}に行きます/来ます/帰ります",
+      "japanese": "日本へ美術の勉強に来ました。",
+      "chinese": "来日本学习美术的。"
+    },
+    {
+      "id": "g-013-0011",
+      "lessonNumber": 13,
+      "grammarPoint": "名词（场所）へ{动词ます形/名词}に行きます/来ます/帰ります",
+      "japanese": "あした京都のお祭りに行きます。",
+      "chinese": "明天去看京都的庆典活动。"
+    },
+    {
+      "id": "g-013-0012",
+      "lessonNumber": 13,
+      "grammarPoint": "どこか/何か",
+      "japanese": "冬休みはどこか［へ］行きましたか。\nはい。北海道へスキーに行きました。",
+      "chinese": "寒假去哪儿了吗？\n嗯，去北海道滑雪了。"
+    },
+    {
+      "id": "g-013-0013",
+      "lessonNumber": 13,
+      "grammarPoint": "どこか/何か",
+      "japanese": "のどがかわきましたから、何か［を］飲みたいです。",
+      "chinese": "渴了，想喝点儿什么。"
+    },
+    {
+      "id": "g-013-0014",
+      "lessonNumber": 13,
+      "grammarPoint": "「ご」表示敬意。",
+      "japanese": "ご注文は？",
+      "chinese": "您要点什么？"
+    },
+    {
+      "id": "g-014-0001",
+      "lessonNumber": 14,
+      "grammarPoint": "动词て形ください",
+      "japanese": "すみませんが、この漢字の読み方を教えてください。",
+      "chinese": "对不起，请教我一下这个汉字的念法。"
+    },
+    {
+      "id": "g-014-0002",
+      "lessonNumber": 14,
+      "grammarPoint": "动词て形ください",
+      "japanese": "ボールペンで名前を書いてください。",
+      "chinese": "请用圆珠笔写上姓名。"
+    },
+    {
+      "id": "g-014-0003",
+      "lessonNumber": 14,
+      "grammarPoint": "动词て形ください",
+      "japanese": "どうぞたくさん食べてください。",
+      "chinese": "请多吃一点儿。"
+    },
+    {
+      "id": "g-014-0004",
+      "lessonNumber": 14,
+      "grammarPoint": "动词て形います",
+      "japanese": "ミラーさんは今電話をかけています。",
+      "chinese": "米勒正在打电话。"
+    },
+    {
+      "id": "g-014-0005",
+      "lessonNumber": 14,
+      "grammarPoint": "动词て形います",
+      "japanese": "今雨が降っていますか。\nはい、降っています。\nいいえ、降っていません。",
+      "chinese": "现在在下雨吗？\n对，正在下。\n不，没下。"
+    },
+    {
+      "id": "g-014-0006",
+      "lessonNumber": 14,
+      "grammarPoint": "动词ます形ましょうか",
+      "japanese": "あしたも来ましょうか。\nええ、10時に来てください。",
+      "chinese": "我明天也来吧。\n好，请10点来。"
+    },
+    {
+      "id": "g-014-0007",
+      "lessonNumber": 14,
+      "grammarPoint": "动词ます形ましょうか",
+      "japanese": "傘を貸しましょうか。\nすみません。お願いします。",
+      "chinese": "把伞借给你吧。\n谢谢，那就不客气了。"
+    },
+    {
+      "id": "g-014-0008",
+      "lessonNumber": 14,
+      "grammarPoint": "动词ます形ましょうか",
+      "japanese": "荷物を持ちましょうか。\nいいえ、けっこうです。",
+      "chinese": "我来帮你拿行李吧。\n谢谢，不用了。"
+    },
+    {
+      "id": "g-014-0009",
+      "lessonNumber": 14,
+      "grammarPoint": "名词が动词",
+      "japanese": "雨が降っています。",
+      "chinese": "下着雨呢。"
+    },
+    {
+      "id": "g-014-0010",
+      "lessonNumber": 14,
+      "grammarPoint": "名词が动词",
+      "japanese": "ミラーさんがいませんね。",
+      "chinese": "米勒不在。"
+    },
+    {
+      "id": "g-014-0011",
+      "lessonNumber": 14,
+      "grammarPoint": "すみませんが",
+      "japanese": "すみませんが、塩を取ってください。",
+      "chinese": "对不起，请拿点儿盐来。"
+    },
+    {
+      "id": "g-014-0012",
+      "lessonNumber": 14,
+      "grammarPoint": "すみませんが",
+      "japanese": "失礼ですが、お名前は？",
+      "chinese": "对不起，您叫什么名字？"
+    },
+    {
+      "id": "g-015-0001",
+      "lessonNumber": 15,
+      "grammarPoint": "动词て形もいいですか",
+      "japanese": "写真を撮ってもいいですか。",
+      "chinese": "可以拍照吗？"
+    },
+    {
+      "id": "g-015-0002",
+      "lessonNumber": 15,
+      "grammarPoint": "动词て形もいいですか",
+      "japanese": "ここでたばこを吸ってもいいですか。\nええ、［吸っても］いいですよ。\nすみません、ちょっと……。のどが痛いですから。",
+      "chinese": "在这儿可以吸烟吗？\n嗯，可以吸。\n对不起（，请不要）。因为我嗓子有点儿疼。"
+    },
+    {
+      "id": "g-015-0003",
+      "lessonNumber": 15,
+      "grammarPoint": "动词て形もいいですか",
+      "japanese": "ここでたばこを吸ってもいいですか。\nええ、［吸っても］いいですよ。\nいいえ、［吸っては］いけません。禁煙ですから。",
+      "chinese": "在这儿可以吸烟吗？\n嗯，可以吸。\n不行，不能吸。因为这里禁烟。"
+    },
+    {
+      "id": "g-015-0004",
+      "lessonNumber": 15,
+      "grammarPoint": "动词て形はいけません",
+      "japanese": "ここでたばこを吸ってはいけません。禁煙ですから。",
+      "chinese": "这里不准吸烟，因为这里禁烟。"
+    },
+    {
+      "id": "g-015-0005",
+      "lessonNumber": 15,
+      "grammarPoint": "动词て形います",
+      "japanese": "わたしは結婚しています。",
+      "chinese": "我结婚了。"
+    },
+    {
+      "id": "g-015-0006",
+      "lessonNumber": 15,
+      "grammarPoint": "动词て形います",
+      "japanese": "わたしは田中さんを知っています。",
+      "chinese": "我认识田中。"
+    },
+    {
+      "id": "g-015-0007",
+      "lessonNumber": 15,
+      "grammarPoint": "动词て形います",
+      "japanese": "わたしはカメラを持っています。",
+      "chinese": "我有照相机。"
+    },
+    {
+      "id": "g-015-0008",
+      "lessonNumber": 15,
+      "grammarPoint": "动词て形います",
+      "japanese": "わたしは大阪に住んでいます。",
+      "chinese": "我住在大阪。"
+    },
+    {
+      "id": "g-015-0009",
+      "lessonNumber": 15,
+      "grammarPoint": "动词て形います",
+      "japanese": "市役所の電話番号を知っていますか。\nはい、知っています。\nいいえ、知りません。",
+      "chinese": "你知道市政府的电话号码吗？\n是的，知道。\n不，不知道。"
+    },
+    {
+      "id": "g-015-0010",
+      "lessonNumber": 15,
+      "grammarPoint": "动词て形います",
+      "japanese": "IMCはコンピューターソフトを作っています。",
+      "chinese": "IMC公司制作电脑软件。"
+    },
+    {
+      "id": "g-015-0011",
+      "lessonNumber": 15,
+      "grammarPoint": "动词て形います",
+      "japanese": "スーパーでナンプラーを売っています。",
+      "chinese": "超市卖鱼酱。"
+    },
+    {
+      "id": "g-015-0012",
+      "lessonNumber": 15,
+      "grammarPoint": "动词て形います",
+      "japanese": "ミラーさんはIMCで働いています。",
+      "chinese": "米勒在IMC公司工作。"
+    },
+    {
+      "id": "g-015-0013",
+      "lessonNumber": 15,
+      "grammarPoint": "动词て形います",
+      "japanese": "妹は大学で勉強しています。",
+      "chinese": "妹妹在上大学。"
+    },
+    {
+      "id": "g-015-0014",
+      "lessonNumber": 15,
+      "grammarPoint": "名词に动词",
+      "japanese": "ここに入ってはいけません。",
+      "chinese": "这里不得入内。"
+    },
+    {
+      "id": "g-015-0015",
+      "lessonNumber": 15,
+      "grammarPoint": "名词に动词",
+      "japanese": "ここに座ってもいいですか。",
+      "chinese": "可以坐在这里吗？"
+    },
+    {
+      "id": "g-015-0016",
+      "lessonNumber": 15,
+      "grammarPoint": "名词に动词",
+      "japanese": "京都駅から16番のバスに乗ってください。",
+      "chinese": "请从京都站坐16路公共汽车。"
+    },
+    {
+      "id": "g-015-0017",
+      "lessonNumber": 15,
+      "grammarPoint": "名词1に名词2を动词",
+      "japanese": "ここに車を止めてください。",
+      "chinese": "请把车停在这里。"
+    },
+    {
+      "id": "g-015-0018",
+      "lessonNumber": 15,
+      "grammarPoint": "名词1に名词2を动词",
+      "japanese": "ここに住所を書いてください。",
+      "chinese": "请在这儿写上住址。"
+    },
+    {
+      "id": "g-016-0001",
+      "lessonNumber": 16,
+      "grammarPoint": "连接两个以上句子的方法",
+      "japanese": "朝ジョギングをして、シャワーを浴びて、会社へ行きます。",
+      "chinese": "早上先去跑步，然后冲个澡，再去公司。"
+    },
+    {
+      "id": "g-016-0002",
+      "lessonNumber": 16,
+      "grammarPoint": "连接两个以上句子的方法",
+      "japanese": "神戸へ行って、映画を見て、お茶を飲みました。",
+      "chinese": "到神户后，先去看了场电影，然后又去喝了茶。"
+    },
+    {
+      "id": "g-016-0003",
+      "lessonNumber": 16,
+      "grammarPoint": "连接两个以上句子的方法",
+      "japanese": "ミラーさんは若くて、元気です。",
+      "chinese": "米勒既年轻又健壮。"
+    },
+    {
+      "id": "g-016-0004",
+      "lessonNumber": 16,
+      "grammarPoint": "连接两个以上句子的方法",
+      "japanese": "きのうは天気がよくて、暑かったです。",
+      "chinese": "昨天天气很好，也很热。"
+    },
+    {
+      "id": "g-016-0005",
+      "lessonNumber": 16,
+      "grammarPoint": "连接两个以上句子的方法",
+      "japanese": "ミラーさんはハンサムで、親切です。",
+      "chinese": "米勒既英俊又亲切。"
+    },
+    {
+      "id": "g-016-0006",
+      "lessonNumber": 16,
+      "grammarPoint": "连接两个以上句子的方法",
+      "japanese": "奈良は静かで、きれいな町です。",
+      "chinese": "奈良是一个既安静又美丽的城市。"
+    },
+    {
+      "id": "g-016-0007",
+      "lessonNumber": 16,
+      "grammarPoint": "连接两个以上句子的方法",
+      "japanese": "カリナさんはインドネシア人で、富士大学の留学生です。",
+      "chinese": "卡莉娜是印度尼西亚人，是富士大学的留学生。"
+    },
+    {
+      "id": "g-016-0008",
+      "lessonNumber": 16,
+      "grammarPoint": "连接两个以上句子的方法",
+      "japanese": "カリナさんは学生で、マリアさんは主婦です。",
+      "chinese": "卡莉娜是学生，玛丽亚是家庭主妇。"
+    },
+    {
+      "id": "g-016-0009",
+      "lessonNumber": 16,
+      "grammarPoint": "动词1て形から、动词2",
+      "japanese": "お金を入れてから、ボタンを押してください。",
+      "chinese": "把钱放进去之后，请按一下按钮。"
+    },
+    {
+      "id": "g-016-0010",
+      "lessonNumber": 16,
+      "grammarPoint": "动词1て形から、动词2",
+      "japanese": "もう昼ごはんを食べましたか。\nこの仕事が終わってから、食べます。",
+      "chinese": "已经吃过午饭了吗？\n这件工作结束之后去吃。"
+    },
+    {
+      "id": "g-016-0011",
+      "lessonNumber": 16,
+      "grammarPoint": "名词1は名词2が形容词",
+      "japanese": "大阪は食べ物がおいしいです。",
+      "chinese": "大阪的小吃很好吃。"
+    },
+    {
+      "id": "g-016-0012",
+      "lessonNumber": 16,
+      "grammarPoint": "名词1は名词2が形容词",
+      "japanese": "ドイツのフランケンはワインが有名です。",
+      "chinese": "德国弗兰肯的葡萄酒很有名。"
+    },
+    {
+      "id": "g-016-0013",
+      "lessonNumber": 16,
+      "grammarPoint": "名词1は名词2が形容词",
+      "japanese": "マリアさんは髪が長いです。",
+      "chinese": "玛丽亚的头发很长。"
+    },
+    {
+      "id": "g-016-0014",
+      "lessonNumber": 16,
+      "grammarPoint": "名词を动词",
+      "japanese": "7時にうちを出ます。",
+      "chinese": "7点从家里出去。"
+    },
+    {
+      "id": "g-016-0015",
+      "lessonNumber": 16,
+      "grammarPoint": "名词を动词",
+      "japanese": "梅田で電車を降りました。",
+      "chinese": "在梅田下电车。"
+    },
+    {
+      "id": "g-016-0016",
+      "lessonNumber": 16,
+      "grammarPoint": "どうやって",
+      "japanese": "大学までどうやって行きますか。\n京都駅から16番のバスに乗って、大学前で降ります。",
+      "chinese": "去大学怎么走？\n从京都站坐16路公共汽车，在大学前站下车。"
+    },
+    {
+      "id": "g-016-0017",
+      "lessonNumber": 16,
+      "grammarPoint": "どれ/どの名词",
+      "japanese": "ミラーさんの傘はどれですか。\nあの青い傘です。",
+      "chinese": "米勒的雨伞是哪一把？\n是那把蓝色的伞。"
+    },
+    {
+      "id": "g-016-0018",
+      "lessonNumber": 16,
+      "grammarPoint": "どれ/どの名词",
+      "japanese": "サントスさんはどの人ですか。\nあの背が高くて、髪が黒い人です。",
+      "chinese": "桑托斯是哪一位？\n就是那个高个子、黑头发的人。"
+    },
+    {
+      "id": "g-017-0001",
+      "lessonNumber": 17,
+      "grammarPoint": "动词ない形ないでください",
+      "japanese": "ここで写真を撮らないでください。",
+      "chinese": "请不要在这里照相。"
+    },
+    {
+      "id": "g-017-0002",
+      "lessonNumber": 17,
+      "grammarPoint": "动词ない形ないでください",
+      "japanese": "わたしは元気ですから、心配しないでください。",
+      "chinese": "我身体很好，不用担心。"
+    },
+    {
+      "id": "g-017-0003",
+      "lessonNumber": 17,
+      "grammarPoint": "动词ない形なければなりません",
+      "japanese": "薬を飲まなければなりません。",
+      "chinese": "必须吃药。"
+    },
+    {
+      "id": "g-017-0004",
+      "lessonNumber": 17,
+      "grammarPoint": "动词ない形なくてもいいです",
+      "japanese": "あした来なくてもいいです。",
+      "chinese": "明天你不来也可以。"
+    },
+    {
+      "id": "g-017-0005",
+      "lessonNumber": 17,
+      "grammarPoint": "宾语的主题化",
+      "japanese": "荷物はここに置かないでください。",
+      "chinese": "行李请不要放在这里。"
+    },
+    {
+      "id": "g-017-0006",
+      "lessonNumber": 17,
+      "grammarPoint": "宾语的主题化",
+      "japanese": "昼ごはんは会社の食堂で食べます。",
+      "chinese": "午饭在公司食堂吃。"
+    },
+    {
+      "id": "g-017-0007",
+      "lessonNumber": 17,
+      "grammarPoint": "名词（时间）までに动词",
+      "japanese": "会議は5時までに終わります。",
+      "chinese": "会议在5点之前结束。"
+    },
+    {
+      "id": "g-017-0008",
+      "lessonNumber": 17,
+      "grammarPoint": "名词（时间）までに动词",
+      "japanese": "土曜日までに本を返さなければなりません。",
+      "chinese": "必须在星期六之前把书还了。"
+    },
+    {
+      "id": "g-017-0009",
+      "lessonNumber": 17,
+      "grammarPoint": "名词（时间）までに动词",
+      "japanese": "5時まで働きます。",
+      "chinese": "工作到5点。"
+    },
+    {
+      "id": "g-018-0001",
+      "lessonNumber": 18,
+      "grammarPoint": "{名词/动词字典形こと}ができます",
+      "japanese": "ミラーさんは日本語ができます。",
+      "chinese": "米勒会日语。"
+    },
+    {
+      "id": "g-018-0002",
+      "lessonNumber": 18,
+      "grammarPoint": "{名词/动词字典形こと}ができます",
+      "japanese": "雪がたくさん降りましたから、ことしはスキーができます。",
+      "chinese": "下了很多雪，今年可以去滑雪。"
+    },
+    {
+      "id": "g-018-0003",
+      "lessonNumber": 18,
+      "grammarPoint": "{名词/动词字典形こと}ができます",
+      "japanese": "ミラーさんは、漢字を読むことができます。",
+      "chinese": "米勒会念汉字。"
+    },
+    {
+      "id": "g-018-0004",
+      "lessonNumber": 18,
+      "grammarPoint": "{名词/动词字典形こと}ができます",
+      "japanese": "カードで払うことができます。",
+      "chinese": "可以用信用卡付款。"
+    },
+    {
+      "id": "g-018-0005",
+      "lessonNumber": 18,
+      "grammarPoint": "わたしの趣味は{名词/动词字典形こと}です",
+      "japanese": "わたしの趣味は音楽です。",
+      "chinese": "我的爱好是音乐。"
+    },
+    {
+      "id": "g-018-0006",
+      "lessonNumber": 18,
+      "grammarPoint": "わたしの趣味は{名词/动词字典形こと}です",
+      "japanese": "わたしの趣味は音楽を聞くことです。",
+      "chinese": "我的爱好是听音乐。"
+    },
+    {
+      "id": "g-018-0007",
+      "lessonNumber": 18,
+      "grammarPoint": "{动词1字典形/名词の/数量词（期间）}まえに、动词2",
+      "japanese": "日本へ来るまえに、日本語を勉強しました。",
+      "chinese": "我来日本之前学了日语。"
+    },
+    {
+      "id": "g-018-0008",
+      "lessonNumber": 18,
+      "grammarPoint": "{动词1字典形/名词の/数量词（期间）}まえに、动词2",
+      "japanese": "寝るまえに、本を読みます。",
+      "chinese": "我睡觉前看书。"
+    },
+    {
+      "id": "g-018-0009",
+      "lessonNumber": 18,
+      "grammarPoint": "{动词1字典形/名词の/数量词（期间）}まえに、动词2",
+      "japanese": "食事のまえに、手を洗います。",
+      "chinese": "吃饭之前要洗手。"
+    },
+    {
+      "id": "g-018-0010",
+      "lessonNumber": 18,
+      "grammarPoint": "{动词1字典形/名词の/数量词（期间）}まえに、动词2",
+      "japanese": "田中さんは1時間まえに、出かけました。",
+      "chinese": "田中1小时之前出去了。"
+    },
+    {
+      "id": "g-018-0011",
+      "lessonNumber": 18,
+      "grammarPoint": "なかなか",
+      "japanese": "日本ではなかなか馬を見ることができません。",
+      "chinese": "在日本很难看到马。"
+    },
+    {
+      "id": "g-018-0012",
+      "lessonNumber": 18,
+      "grammarPoint": "ぜひ",
+      "japanese": "ぜひ北海道へ行きたいです。",
+      "chinese": "一定要去北海道。"
+    },
+    {
+      "id": "g-018-0013",
+      "lessonNumber": 18,
+      "grammarPoint": "ぜひ",
+      "japanese": "ぜひ遊びに来てください。",
+      "chinese": "请一定来玩儿。"
+    },
+    {
+      "id": "g-019-0001",
+      "lessonNumber": 19,
+      "grammarPoint": "动词た形ことがあります",
+      "japanese": "馬に乗ったことがあります。",
+      "chinese": "我骑过马。"
+    },
+    {
+      "id": "g-019-0002",
+      "lessonNumber": 19,
+      "grammarPoint": "动词た形ことがあります",
+      "japanese": "去年北海道で馬に乗りました。",
+      "chinese": "我去年在北海道骑马了。"
+    },
+    {
+      "id": "g-019-0003",
+      "lessonNumber": 19,
+      "grammarPoint": "动词1た形り、动词2た形りします",
+      "japanese": "日曜日はテニスをしたり、映画を見たりします。",
+      "chinese": "星期天打打网球，看看电影。"
+    },
+    {
+      "id": "g-019-0004",
+      "lessonNumber": 19,
+      "grammarPoint": "动词1た形り、动词2た形りします",
+      "japanese": "日曜日はテニスをしたり、映画を見たりしました。",
+      "chinese": "星期天打了网球，看了电影。"
+    },
+    {
+      "id": "g-019-0005",
+      "lessonNumber": 19,
+      "grammarPoint": "动词1た形り、动词2た形りします",
+      "japanese": "日曜日はテニスをして、映画を見ました。",
+      "chinese": "星期天打了网球后，去看了场电影。"
+    },
+    {
+      "id": "g-019-0006",
+      "lessonNumber": 19,
+      "grammarPoint": "{い形容词（～<s>い</s>）→～く/な形容词［<s>な</s>］→～に/名词に}なります",
+      "japanese": "寒くなります",
+      "chinese": "变冷"
+    },
+    {
+      "id": "g-019-0007",
+      "lessonNumber": 19,
+      "grammarPoint": "{い形容词（～<s>い</s>）→～く/な形容词［<s>な</s>］→～に/名词に}なります",
+      "japanese": "元気になります",
+      "chinese": "恢复健康"
+    },
+    {
+      "id": "g-019-0008",
+      "lessonNumber": 19,
+      "grammarPoint": "{い形容词（～<s>い</s>）→～く/な形容词［<s>な</s>］→～に/名词に}なります",
+      "japanese": "25歳になります",
+      "chinese": "到25岁"
+    },
+    {
+      "id": "g-020-0001",
+      "lessonNumber": 20,
+      "grammarPoint": "简体的会话",
+      "japanese": "コーヒーを飲む？\nうん、飲む。",
+      "chinese": "喝咖啡吗？\n嗯，喝。"
+    },
+    {
+      "id": "g-020-0002",
+      "lessonNumber": 20,
+      "grammarPoint": "简体的会话",
+      "japanese": "今晩暇？\nうん、暇/暇だ/暇だよ。\nうん、暇/暇よ/暇だよ。\nううん、暇じゃない。",
+      "chinese": "今晚有空儿吗？\n嗯，有空儿。（男性用）\n嗯，有空儿。（女性用）\n不，没空儿。"
+    },
+    {
+      "id": "g-020-0003",
+      "lessonNumber": 20,
+      "grammarPoint": "简体的会话",
+      "japanese": "ごはん［を］食べる？",
+      "chinese": "吃饭吗？"
+    },
+    {
+      "id": "g-020-0004",
+      "lessonNumber": 20,
+      "grammarPoint": "简体的会话",
+      "japanese": "あした京都［へ］行かない？",
+      "chinese": "明天去京都好吗？"
+    },
+    {
+      "id": "g-020-0005",
+      "lessonNumber": 20,
+      "grammarPoint": "简体的会话",
+      "japanese": "このりんご［は］おいしいね。",
+      "chinese": "这苹果很好吃。"
+    },
+    {
+      "id": "g-020-0006",
+      "lessonNumber": 20,
+      "grammarPoint": "简体的会话",
+      "japanese": "そこにはさみ［が］ある?",
+      "chinese": "那里有剪刀吗？"
+    },
+    {
+      "id": "g-020-0007",
+      "lessonNumber": 20,
+      "grammarPoint": "简体的会话",
+      "japanese": "辞書、持って［い］る？\nうん、持って［い］る。\nううん、持って［い］ない。",
+      "chinese": "带字典了吗？\n嗯，带着呢。\n没，没带着。"
+    },
+    {
+      "id": "g-020-0008",
+      "lessonNumber": 20,
+      "grammarPoint": "简体的会话",
+      "japanese": "そのカレー［は］おいしい?\nうん、辛いけど、おいしい。",
+      "chinese": "那种咖喱好吃吗？\n嗯，有点儿辣，不过很好吃。"
+    },
+    {
+      "id": "g-020-0009",
+      "lessonNumber": 20,
+      "grammarPoint": "简体的会话",
+      "japanese": "相撲のチケット［が］あるけど、いっしょに行かない？\nいいね。",
+      "chinese": "有相扑比赛的票，一起去好吗？\n好啊。"
+    },
+    {
+      "id": "g-021-0001",
+      "lessonNumber": 21,
+      "grammarPoint": "普通形と思います",
+      "japanese": "あした雨が降ると思います。",
+      "chinese": "我想明天会下雨。"
+    },
+    {
+      "id": "g-021-0002",
+      "lessonNumber": 21,
+      "grammarPoint": "普通形と思います",
+      "japanese": "テレーザちゃんはもう寝たと思います。",
+      "chinese": "我想特蕾莎已经睡了。"
+    },
+    {
+      "id": "g-021-0003",
+      "lessonNumber": 21,
+      "grammarPoint": "普通形と思います",
+      "japanese": "ミラーさんはこのニュースを知っていますか。\nいいえ、知らないと思います。",
+      "chinese": "米勒知道这个消息吗?\n不，我想他不知道。"
+    },
+    {
+      "id": "g-021-0004",
+      "lessonNumber": 21,
+      "grammarPoint": "普通形と思います",
+      "japanese": "日本は物価が高いと思います。",
+      "chinese": "我觉得日本物价很高。"
+    },
+    {
+      "id": "g-021-0005",
+      "lessonNumber": 21,
+      "grammarPoint": "普通形と思います",
+      "japanese": "新しい空港についてどう思いますか。\nきれいですが、ちょっと交通が不便だと思います。",
+      "chinese": "你觉得新机场怎么样?\n很漂亮，不过，交通不太方便。"
+    },
+    {
+      "id": "g-021-0006",
+      "lessonNumber": 21,
+      "grammarPoint": "普通形と思います",
+      "japanese": "ケータイは便利ですね。\nわたしもそう思います。",
+      "chinese": "我觉得手机很方便。\n我也觉得。"
+    },
+    {
+      "id": "g-021-0007",
+      "lessonNumber": 21,
+      "grammarPoint": "{“句子”/普通形}と思います",
+      "japanese": "寝るまえに、「お休みなさい」と言います。",
+      "chinese": "睡觉之前说“晚安”。"
+    },
+    {
+      "id": "g-021-0008",
+      "lessonNumber": 21,
+      "grammarPoint": "{“句子”/普通形}と思います",
+      "japanese": "ミラーさんは「来週東京へ出張します」と言いました。",
+      "chinese": "米勒说“下周去东京出差”。"
+    },
+    {
+      "id": "g-021-0009",
+      "lessonNumber": 21,
+      "grammarPoint": "{“句子”/普通形}と思います",
+      "japanese": "ミラーさんは東京へ出張すると言いました。",
+      "chinese": "米勒说他下星期去东京出差。"
+    },
+    {
+      "id": "g-021-0010",
+      "lessonNumber": 21,
+      "grammarPoint": "{“句子”/普通形}と思います",
+      "japanese": "父に留学したいと言いました。",
+      "chinese": "我对父亲说了想去留学。"
+    },
+    {
+      "id": "g-021-0011",
+      "lessonNumber": 21,
+      "grammarPoint": "{动词普通形/い形容词普通形/な形容词普通形〜<s>だ</s>/名词普通形〜<s>だ</s>}でしょう?",
+      "japanese": "あしたパーティーに行くでしょう？\nええ、行きます。",
+      "chinese": "明天你要去参加晚会吧？\n对，要去。"
+    },
+    {
+      "id": "g-021-0012",
+      "lessonNumber": 21,
+      "grammarPoint": "{动词普通形/い形容词普通形/な形容词普通形〜<s>だ</s>/名词普通形〜<s>だ</s>}でしょう?",
+      "japanese": "北海道は寒かったでしょう？\nいいえ、そんなに寒くなかったです。",
+      "chinese": "北海道很冷吧？\n不，没那么冷。"
+    },
+    {
+      "id": "g-021-0013",
+      "lessonNumber": 21,
+      "grammarPoint": "名词1（场所）で名词2があります",
+      "japanese": "東京で日本とブラジルのサッカーの試合があります。",
+      "chinese": "在东京举行日本和巴西的足球比赛。"
+    },
+    {
+      "id": "g-021-0014",
+      "lessonNumber": 21,
+      "grammarPoint": "名词（场所）で",
+      "japanese": "会議で何か意見を言いましたか。",
+      "chinese": "你在会上提什么意见了吗？"
+    },
+    {
+      "id": "g-021-0015",
+      "lessonNumber": 21,
+      "grammarPoint": "名词でも动词",
+      "japanese": "ちょっとビールでも飲みませんか。",
+      "chinese": "喝点儿啤酒什么的吗？"
+    },
+    {
+      "id": "g-021-0016",
+      "lessonNumber": 21,
+      "grammarPoint": "动词ない形ないと……",
+      "japanese": "もう帰らないと……",
+      "chinese": "再不回去就……"
+    },
+    {
+      "id": "g-022-0001",
+      "lessonNumber": 22,
+      "grammarPoint": "名词修饰句节",
+      "japanese": "京都へ行く人\n京都へ行かない人\n京都へ行った人\n京都へ行かなかった人\n背が高くて、髪が黒い人\n親切で、きれいな人\n65歳の人",
+      "chinese": "去京都的人\n不去京都的人\n去了京都的人\n没去京都的人\n个子高、头发很黑的人\n既亲切又漂亮的人\n65岁的人"
+    },
+    {
+      "id": "g-022-0002",
+      "lessonNumber": 22,
+      "grammarPoint": "名词修饰句节",
+      "japanese": "これはミラーさんが住んでいたうちです。",
+      "chinese": "这是米勒住过的房子。"
+    },
+    {
+      "id": "g-022-0003",
+      "lessonNumber": 22,
+      "grammarPoint": "名词修饰句节",
+      "japanese": "ミラーさんが住んでいたうちは古いです。",
+      "chinese": "米勒住过的房子很旧。"
+    },
+    {
+      "id": "g-022-0004",
+      "lessonNumber": 22,
+      "grammarPoint": "名词修饰句节",
+      "japanese": "ミラーさんが住んでいたうちを買いました。",
+      "chinese": "买下了米勒住过的房子。"
+    },
+    {
+      "id": "g-022-0005",
+      "lessonNumber": 22,
+      "grammarPoint": "名词修饰句节",
+      "japanese": "わたしはミラーさんが住んでいたうちが好きです。",
+      "chinese": "我喜欢米勒住过的房子。"
+    },
+    {
+      "id": "g-022-0006",
+      "lessonNumber": 22,
+      "grammarPoint": "名词修饰句节",
+      "japanese": "ミラーさんが住んでいたうちに猫がいました。",
+      "chinese": "米勒住过的房子里有过一只猫。"
+    },
+    {
+      "id": "g-022-0007",
+      "lessonNumber": 22,
+      "grammarPoint": "名词修饰句节",
+      "japanese": "ミラーさんが住んでいたうちへ行ったことがあります。",
+      "chinese": "我去过米勒住过的房子。"
+    },
+    {
+      "id": "g-022-0008",
+      "lessonNumber": 22,
+      "grammarPoint": "名词修饰句节",
+      "japanese": "これはミラーさんが作ったケーキです。",
+      "chinese": "这是米勒做的蛋糕。"
+    },
+    {
+      "id": "g-022-0009",
+      "lessonNumber": 22,
+      "grammarPoint": "名词修饰句节",
+      "japanese": "わたしはカリナさんがかいた絵が好きです。",
+      "chinese": "我喜欢卡莉娜画的画儿。"
+    },
+    {
+      "id": "g-022-0010",
+      "lessonNumber": 22,
+      "grammarPoint": "名词修饰句节",
+      "japanese": "［あなたは］彼が生まれた所を知っていますか。",
+      "chinese": "你知道他出生的地方吗？"
+    },
+    {
+      "id": "g-022-0011",
+      "lessonNumber": 22,
+      "grammarPoint": "动词字典形時間/約束/用事",
+      "japanese": "わたしは朝ごはんを食べる時間がありません。",
+      "chinese": "我没有吃早饭的时间。"
+    },
+    {
+      "id": "g-022-0012",
+      "lessonNumber": 22,
+      "grammarPoint": "动词字典形時間/約束/用事",
+      "japanese": "わたしは友達と映画を見る約束があります。",
+      "chinese": "我和朋友约好去看电影。"
+    },
+    {
+      "id": "g-022-0013",
+      "lessonNumber": 22,
+      "grammarPoint": "动词字典形時間/約束/用事",
+      "japanese": "きょうは市役所へ行く用事があります。",
+      "chinese": "今天要去市政府办事。"
+    },
+    {
+      "id": "g-022-0014",
+      "lessonNumber": 22,
+      "grammarPoint": "动词ます形ましょうか",
+      "japanese": "この部屋、きょう見ることができますか。\nええ。今から行きましょうか。",
+      "chinese": "这个房子，今天能看一下吗?\n可以。现在就去吧。"
+    },
+    {
+      "id": "g-023-0001",
+      "lessonNumber": 23,
+      "grammarPoint": "{动词字典形/动词ない形ない/い形容词（～い）/な形容词な/名词の}とき、〜（主句）",
+      "japanese": "図書館で本を借りるとき、カードが要ります。",
+      "chinese": "在图书馆借书时，需要借书卡。"
+    },
+    {
+      "id": "g-023-0002",
+      "lessonNumber": 23,
+      "grammarPoint": "{动词字典形/动词ない形ない/い形容词（～い）/な形容词な/名词の}とき、〜（主句）",
+      "japanese": "使い方がわからないとき、わたしに聞いてください。",
+      "chinese": "不知道使用方法时，请来问我。"
+    },
+    {
+      "id": "g-023-0003",
+      "lessonNumber": 23,
+      "grammarPoint": "{动词字典形/动词ない形ない/い形容词（～い）/な形容词な/名词の}とき、〜（主句）",
+      "japanese": "体の調子が悪いとき、「元気茶」を飲みます。",
+      "chinese": "身体不好时，喝“健康茶”。"
+    },
+    {
+      "id": "g-023-0004",
+      "lessonNumber": 23,
+      "grammarPoint": "{动词字典形/动词ない形ない/い形容词（～い）/な形容词な/名词の}とき、〜（主句）",
+      "japanese": "暇なとき、うちへ遊びに来ませんか。",
+      "chinese": "有空儿的时候，来我家玩儿好吗？"
+    },
+    {
+      "id": "g-023-0005",
+      "lessonNumber": 23,
+      "grammarPoint": "{动词字典形/动词ない形ない/い形容词（～い）/な形容词な/名词の}とき、〜（主句）",
+      "japanese": "妻が病気のとき、会社を休みます。",
+      "chinese": "妻子生病的时候，跟公司请假。"
+    },
+    {
+      "id": "g-023-0006",
+      "lessonNumber": 23,
+      "grammarPoint": "{动词字典形/动词ない形ない/い形容词（～い）/な形容词な/名词の}とき、〜（主句）",
+      "japanese": "若いとき、あまり勉強しませんでした。",
+      "chinese": "年轻的时候，没怎么学习。"
+    },
+    {
+      "id": "g-023-0007",
+      "lessonNumber": 23,
+      "grammarPoint": "{动词字典形/动词ない形ない/い形容词（～い）/な形容词な/名词の}とき、〜（主句）",
+      "japanese": "子どものとき、よく川で泳ぎました。",
+      "chinese": "小时候，常去河里游泳。"
+    },
+    {
+      "id": "g-023-0008",
+      "lessonNumber": 23,
+      "grammarPoint": "{动词字典形/动词た形}とき、〜（主句）",
+      "japanese": "パリへ行くとき、かばんを買いました。",
+      "chinese": "去巴黎时，买了个提包。"
+    },
+    {
+      "id": "g-023-0009",
+      "lessonNumber": 23,
+      "grammarPoint": "{动词字典形/动词た形}とき、〜（主句）",
+      "japanese": "パリへ行ったとき、かばんを買いました。",
+      "chinese": "去巴黎时，在那儿买了个提包。"
+    },
+    {
+      "id": "g-023-0010",
+      "lessonNumber": 23,
+      "grammarPoint": "动词字典形と、〜（主句）",
+      "japanese": "このボタンを押すと、お釣りが出ます。",
+      "chinese": "一按这个按钮，找的零钱就会出来。"
+    },
+    {
+      "id": "g-023-0011",
+      "lessonNumber": 23,
+      "grammarPoint": "动词字典形と、〜（主句）",
+      "japanese": "これを回すと、音が大きくなります。",
+      "chinese": "一转这个，声音就会变大。"
+    },
+    {
+      "id": "g-023-0012",
+      "lessonNumber": 23,
+      "grammarPoint": "动词字典形と、〜（主句）",
+      "japanese": "右へ曲がると、郵便局があります。",
+      "chinese": "往右一拐，就是邮局。"
+    },
+    {
+      "id": "g-023-0013",
+      "lessonNumber": 23,
+      "grammarPoint": "名词が形容词",
+      "japanese": "音が小さいです。",
+      "chinese": "声音很小。"
+    },
+    {
+      "id": "g-023-0014",
+      "lessonNumber": 23,
+      "grammarPoint": "名词を移动动词",
+      "japanese": "公園を散歩します。",
+      "chinese": "在公园散步。"
+    },
+    {
+      "id": "g-023-0015",
+      "lessonNumber": 23,
+      "grammarPoint": "名词を移动动词",
+      "japanese": "道を渡ります。",
+      "chinese": "过马路。"
+    },
+    {
+      "id": "g-023-0016",
+      "lessonNumber": 23,
+      "grammarPoint": "名词を移动动词",
+      "japanese": "交差点を右へ曲がります。",
+      "chinese": "在十字路口往右拐。"
+    },
+    {
+      "id": "g-024-0001",
+      "lessonNumber": 24,
+      "grammarPoint": "くれます",
+      "japanese": "わたしは佐藤さんに花をあげました。",
+      "chinese": "我送佐藤花了。"
+    },
+    {
+      "id": "g-024-0002",
+      "lessonNumber": 24,
+      "grammarPoint": "くれます",
+      "japanese": "佐藤さんはわたしにクリスマスカードをくれました。",
+      "chinese": "佐藤送我圣诞卡了。"
+    },
+    {
+      "id": "g-024-0003",
+      "lessonNumber": 24,
+      "grammarPoint": "くれます",
+      "japanese": "佐藤さんは妹にお菓子をくれました。",
+      "chinese": "佐藤给我妹妹点心了。"
+    },
+    {
+      "id": "g-024-0004",
+      "lessonNumber": 24,
+      "grammarPoint": "动词て形{あげます/もらいます/くれます}",
+      "japanese": "わたしは木村さんに本を貸してあげました。",
+      "chinese": "我把书借给了木村。"
+    },
+    {
+      "id": "g-024-0005",
+      "lessonNumber": 24,
+      "grammarPoint": "动词て形{あげます/もらいます/くれます}",
+      "japanese": "タクシーを呼びましょうか。",
+      "chinese": "要叫辆出租车吗？"
+    },
+    {
+      "id": "g-024-0006",
+      "lessonNumber": 24,
+      "grammarPoint": "动词て形{あげます/もらいます/くれます}",
+      "japanese": "手伝いましょうか。",
+      "chinese": "要帮忙吗？"
+    },
+    {
+      "id": "g-024-0007",
+      "lessonNumber": 24,
+      "grammarPoint": "动词て形{あげます/もらいます/くれます}",
+      "japanese": "わたしは山田さんに図書館の電話番号を教えてもらいました。",
+      "chinese": "我向山田问了图书馆的电话号码。"
+    },
+    {
+      "id": "g-024-0008",
+      "lessonNumber": 24,
+      "grammarPoint": "动词て形{あげます/もらいます/くれます}",
+      "japanese": "母は［わたしに］セーターを送ってくれました。",
+      "chinese": "妈妈给我寄来了毛衣。"
+    },
+    {
+      "id": "g-024-0009",
+      "lessonNumber": 24,
+      "grammarPoint": "名词1は名词2が动词",
+      "japanese": "おいしいワインですね。\nええ、［このワインは］佐藤さんがくれました。",
+      "chinese": "真好喝的葡萄酒啊。\n嗯，（这葡萄酒）是佐藤送我的。"
+    },
+    {
+      "id": "g-025-0001",
+      "lessonNumber": 25,
+      "grammarPoint": "普通形过去ら、～（主句）",
+      "japanese": "お金があったら、旅行します。",
+      "chinese": "如果有钱的话，就去旅行。"
+    },
+    {
+      "id": "g-025-0002",
+      "lessonNumber": 25,
+      "grammarPoint": "普通形过去ら、～（主句）",
+      "japanese": "時間がなかったら、テレビを見ません。",
+      "chinese": "如果没有时间的话，就不看电视。"
+    },
+    {
+      "id": "g-025-0003",
+      "lessonNumber": 25,
+      "grammarPoint": "普通形过去ら、～（主句）",
+      "japanese": "安かったら、パソコンを買いたいです。",
+      "chinese": "如果便宜的话，想买台电脑。"
+    },
+    {
+      "id": "g-025-0004",
+      "lessonNumber": 25,
+      "grammarPoint": "普通形过去ら、～（主句）",
+      "japanese": "暇だったら、手伝ってください。",
+      "chinese": "如果有空儿的话，请帮我一下。"
+    },
+    {
+      "id": "g-025-0005",
+      "lessonNumber": 25,
+      "grammarPoint": "普通形过去ら、～（主句）",
+      "japanese": "いい天気だったら、散歩しませんか。",
+      "chinese": "如果天气好的话，去散步好吗？"
+    },
+    {
+      "id": "g-025-0006",
+      "lessonNumber": 25,
+      "grammarPoint": "动词た形ら、～（主句）",
+      "japanese": "10時になったら、出かけましょう。",
+      "chinese": "到10点就出发吧。"
+    },
+    {
+      "id": "g-025-0007",
+      "lessonNumber": 25,
+      "grammarPoint": "动词た形ら、～（主句）",
+      "japanese": "うちへ帰ったら、すぐシャワーを浴びます。",
+      "chinese": "到家后马上冲个澡。"
+    },
+    {
+      "id": "g-025-0008",
+      "lessonNumber": 25,
+      "grammarPoint": "{动词て形/动词ない形なくて/い形容词（<s>い</s>）→～くて/な形容词［<s>な</s>］→～で/名词で}も、～（主句）",
+      "japanese": "雨が降っても、洗濯します。",
+      "chinese": "即使下雨也要洗衣服。"
+    },
+    {
+      "id": "g-025-0009",
+      "lessonNumber": 25,
+      "grammarPoint": "{动词て形/动词ない形なくて/い形容词（<s>い</s>）→～くて/な形容词［<s>な</s>］→～で/名词で}も、～（主句）",
+      "japanese": "安くても、わたしはグループ旅行が嫌いです。",
+      "chinese": "即使便宜，我也不愿意参加团体旅行。"
+    },
+    {
+      "id": "g-025-0010",
+      "lessonNumber": 25,
+      "grammarPoint": "{动词て形/动词ない形なくて/い形容词（<s>い</s>）→～くて/な形容词［<s>な</s>］→～で/名词で}も、～（主句）",
+      "japanese": "便利でも、パソコンを使いません。",
+      "chinese": "即使方便也不用电脑。"
+    },
+    {
+      "id": "g-025-0011",
+      "lessonNumber": 25,
+      "grammarPoint": "{动词て形/动词ない形なくて/い形容词（<s>い</s>）→～くて/な形容词［<s>な</s>］→～で/名词で}も、～（主句）",
+      "japanese": "日曜日でも、働きます。",
+      "chinese": "即使是星期天也要工作。"
+    },
+    {
+      "id": "g-025-0012",
+      "lessonNumber": 25,
+      "grammarPoint": "もし",
+      "japanese": "もし1億円あったら、いろいろな国を旅行したいです。",
+      "chinese": "如果有一亿日元的话，我想去很多国家旅行。"
+    },
+    {
+      "id": "g-025-0013",
+      "lessonNumber": 25,
+      "grammarPoint": "从属句中的主语",
+      "japanese": "友達が来るまえに、部屋を掃除します。",
+      "chinese": "在朋友来之前，要把房间打扫干净。"
+    },
+    {
+      "id": "g-025-0014",
+      "lessonNumber": 25,
+      "grammarPoint": "从属句中的主语",
+      "japanese": "妻が病気のとき、会社を休みます。",
+      "chinese": "妻子生病的时候，跟公司请假。"
+    },
+    {
+      "id": "g-025-0015",
+      "lessonNumber": 25,
+      "grammarPoint": "从属句中的主语",
+      "japanese": "友達が約束の時間に来なかったら、どうしますか。",
+      "chinese": "要是朋友在约好的时间没来怎么办？"
+    },
+    {
+      "id": "g-026-0001",
+      "lessonNumber": 26,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}んです",
+      "japanese": "（ぬれた傘を持っている人を見て）雨が降っているんですか。",
+      "chinese": "（看见拿着淋湿了的雨伞的人）下着雨呢吗？"
+    },
+    {
+      "id": "g-026-0002",
+      "lessonNumber": 26,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}んです",
+      "japanese": "おもしろいデザインの靴ですね。どこで買ったんですか。",
+      "chinese": "真是一双样式很别致的鞋子啊，在哪儿买的？"
+    },
+    {
+      "id": "g-026-0003",
+      "lessonNumber": 26,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}んです",
+      "japanese": "どうして遅れたんですか。",
+      "chinese": "你为什么迟到了？"
+    },
+    {
+      "id": "g-026-0004",
+      "lessonNumber": 26,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}んです",
+      "japanese": "どうしたんですか。",
+      "chinese": "你怎么了？"
+    },
+    {
+      "id": "g-026-0005",
+      "lessonNumber": 26,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}んです",
+      "japanese": "どうして遅れたんですか。\nバスが来なかったんです。",
+      "chinese": "你为什么迟到了？\n公共汽车老不来。"
+    },
+    {
+      "id": "g-026-0006",
+      "lessonNumber": 26,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}んです",
+      "japanese": "どうしたんですか。\nちょっと気分が悪いんです。",
+      "chinese": "你怎么了？\n有点儿不舒服。"
+    },
+    {
+      "id": "g-026-0007",
+      "lessonNumber": 26,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}んです",
+      "japanese": "よくカラオケに行きますか。\nいいえ、あまり行きません。カラオケは好きじゃないんです。",
+      "chinese": "你经常去卡拉OK吗？\n不，不怎么去，我不喜欢卡拉OK。"
+    },
+    {
+      "id": "g-026-0008",
+      "lessonNumber": 26,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}んです",
+      "japanese": "頭が痛いんですが、帰ってもいいですか。",
+      "chinese": "我有点儿头疼，可以回去吗？"
+    },
+    {
+      "id": "g-026-0009",
+      "lessonNumber": 26,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}んです",
+      "japanese": "来週友達とスキーに行くんですが、ミラーさんもいっしょに行きませんか。",
+      "chinese": "我下星期和朋友去滑雪，米勒（你）不一起去吗？"
+    },
+    {
+      "id": "g-026-0010",
+      "lessonNumber": 26,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}んです",
+      "japanese": "お湯が出ないんですが……。",
+      "chinese": "还没有热水……。"
+    },
+    {
+      "id": "g-026-0011",
+      "lessonNumber": 26,
+      "grammarPoint": "动词て形いただけませんか",
+      "japanese": "いい先生を紹介していただけませんか。",
+      "chinese": "您能帮我介绍一位好老师吗？"
+    },
+    {
+      "id": "g-026-0012",
+      "lessonNumber": 26,
+      "grammarPoint": "疑问词动词た形らいいですか",
+      "japanese": "どこでカメラを買ったらいいですか。\nABCストアが安いですよ。",
+      "chinese": "在哪儿买照相机好呢？\nABC商场比较便宜。"
+    },
+    {
+      "id": "g-026-0013",
+      "lessonNumber": 26,
+      "grammarPoint": "疑问词动词た形らいいですか",
+      "japanese": "国会議事堂を見学したいんですが、どうしたらいいですか。\n直接行ったらいいですよ。",
+      "chinese": "我想去参观国会议事堂，应该怎么做呢？\n直接去就行了。"
+    },
+    {
+      "id": "g-026-0014",
+      "lessonNumber": 26,
+      "grammarPoint": "名词（对象）は{好きです/嫌いです/上手です/下手です/あります等等}",
+      "japanese": "よくカラオケに行きますか。\nいいえ、あまり行きません。カラオケは好きじゃないんです。",
+      "chinese": "你经常去卡拉OK吗？\n不，不怎么去。我不喜欢卡拉OK。"
+    },
+    {
+      "id": "g-027-0001",
+      "lessonNumber": 27,
+      "grammarPoint": "可以使用可能动词的句子",
+      "japanese": "わたしは日本語を話します。",
+      "chinese": "我说日语。"
+    },
+    {
+      "id": "g-027-0002",
+      "lessonNumber": 27,
+      "grammarPoint": "可以使用可能动词的句子",
+      "japanese": "わたしは日本語が話せます。",
+      "chinese": "我能说日语。"
+    },
+    {
+      "id": "g-027-0003",
+      "lessonNumber": 27,
+      "grammarPoint": "可以使用可能动词的句子",
+      "japanese": "一人で病院へ行けますか。",
+      "chinese": "你能一个人去医院吗？"
+    },
+    {
+      "id": "g-027-0004",
+      "lessonNumber": 27,
+      "grammarPoint": "可以使用可能动词的句子",
+      "japanese": "田中さんに会えませんでした。",
+      "chinese": "我没能见到田中。"
+    },
+    {
+      "id": "g-027-0005",
+      "lessonNumber": 27,
+      "grammarPoint": "可以使用可能动词的句子",
+      "japanese": "ミラーさんは漢字が読めます。",
+      "chinese": "米勒会念汉字。"
+    },
+    {
+      "id": "g-027-0006",
+      "lessonNumber": 27,
+      "grammarPoint": "可以使用可能动词的句子",
+      "japanese": "この銀行でドルが換えられます。",
+      "chinese": "这家银行可以兑换美元。"
+    },
+    {
+      "id": "g-027-0007",
+      "lessonNumber": 27,
+      "grammarPoint": "見えます和聞こえます",
+      "japanese": "新幹線から富士山が見えます。",
+      "chinese": "从新干线上可以看到富士山。"
+    },
+    {
+      "id": "g-027-0008",
+      "lessonNumber": 27,
+      "grammarPoint": "見えます和聞こえます",
+      "japanese": "ラジオの音が聞こえます。",
+      "chinese": "能听到收音机的声音。"
+    },
+    {
+      "id": "g-027-0009",
+      "lessonNumber": 27,
+      "grammarPoint": "見えます和聞こえます",
+      "japanese": "新宿で今黒沢の映画が見られます。",
+      "chinese": "在新宿，现在可以看黑泽导演的电影。"
+    },
+    {
+      "id": "g-027-0010",
+      "lessonNumber": 27,
+      "grammarPoint": "見えます和聞こえます",
+      "japanese": "電話で天気予報が聞けます。",
+      "chinese": "可以用电话听天气预报。"
+    },
+    {
+      "id": "g-027-0011",
+      "lessonNumber": 27,
+      "grammarPoint": "できます",
+      "japanese": "駅の前に大きいスーパーができました。",
+      "chinese": "车站前面建起了一家大超市。"
+    },
+    {
+      "id": "g-027-0012",
+      "lessonNumber": 27,
+      "grammarPoint": "できます",
+      "japanese": "時計の修理はいつできますか。",
+      "chinese": "表什么时候能修好？"
+    },
+    {
+      "id": "g-027-0013",
+      "lessonNumber": 27,
+      "grammarPoint": "しか",
+      "japanese": "ローマ字しか書けません。",
+      "chinese": "只会写罗马字。"
+    },
+    {
+      "id": "g-027-0014",
+      "lessonNumber": 27,
+      "grammarPoint": "しか",
+      "japanese": "ローマ字だけ書けます。",
+      "chinese": "只会写罗马字。"
+    },
+    {
+      "id": "g-027-0015",
+      "lessonNumber": 27,
+      "grammarPoint": "名词は（对比）",
+      "japanese": "ワインは飲みますが、ビールは飲みません。",
+      "chinese": "我喝葡萄酒，但不喝啤酒。"
+    },
+    {
+      "id": "g-027-0016",
+      "lessonNumber": 27,
+      "grammarPoint": "名词は（对比）",
+      "japanese": "きのうは山が見えましたが、きょうは見えません。",
+      "chinese": "昨天能看见山，今天看不见。"
+    },
+    {
+      "id": "g-027-0017",
+      "lessonNumber": 27,
+      "grammarPoint": "用来提示带有助词的词语的「は」",
+      "japanese": "日本では馬を見ることができません。",
+      "chinese": "在日本看不到马。"
+    },
+    {
+      "id": "g-027-0018",
+      "lessonNumber": 27,
+      "grammarPoint": "用来提示带有助词的词语的「は」",
+      "japanese": "天気のいい日には海が見えるんです。",
+      "chinese": "天气好的日子可以看到大海。"
+    },
+    {
+      "id": "g-027-0019",
+      "lessonNumber": 27,
+      "grammarPoint": "用来提示带有助词的词语的「は」",
+      "japanese": "ここからは東京スカイツリーが見えません。",
+      "chinese": "从这儿看不到东京晴空塔。"
+    },
+    {
+      "id": "g-028-0001",
+      "lessonNumber": 28,
+      "grammarPoint": "动词1ます形ながら动词2",
+      "japanese": "音楽を聞きながら食事します。",
+      "chinese": "一边听音乐一边吃饭。"
+    },
+    {
+      "id": "g-028-0002",
+      "lessonNumber": 28,
+      "grammarPoint": "动词1ます形ながら动词2",
+      "japanese": "働きながら日本語を勉強しています。",
+      "chinese": "一边工作一边学习日语。"
+    },
+    {
+      "id": "g-028-0003",
+      "lessonNumber": 28,
+      "grammarPoint": "动词て形います",
+      "japanese": "毎朝ジョギングをしています。",
+      "chinese": "每天早上都跑步。"
+    },
+    {
+      "id": "g-028-0004",
+      "lessonNumber": 28,
+      "grammarPoint": "动词て形います",
+      "japanese": "子どものとき、毎晩8時に寝ていました。",
+      "chinese": "我小时候，每天晚上8点睡觉。"
+    },
+    {
+      "id": "g-028-0005",
+      "lessonNumber": 28,
+      "grammarPoint": "普通形し、普通形し、～",
+      "japanese": "鈴木さんはピアノも弾けるし、歌も歌えるし、ダンスもできます。",
+      "chinese": "铃木既会弹钢琴，又会唱歌，还会跳舞。"
+    },
+    {
+      "id": "g-028-0006",
+      "lessonNumber": 28,
+      "grammarPoint": "普通形し、普通形し、～",
+      "japanese": "田中さんはまじめだし、中国語も上手だし、それに経験もあります。",
+      "chinese": "田中很认真，中文也很好，而且有经验。"
+    },
+    {
+      "id": "g-028-0007",
+      "lessonNumber": 28,
+      "grammarPoint": "普通形し、普通形し、～",
+      "japanese": "ここは値段も安いし、魚も新しいし、よく食べに来ます。",
+      "chinese": "这里价钱既便宜，鱼又新鲜，所以我常来吃。"
+    },
+    {
+      "id": "g-028-0008",
+      "lessonNumber": 28,
+      "grammarPoint": "普通形し、普通形し、～",
+      "japanese": "どうしてこの店へ来るんですか。\nここは値段も安いし、魚も新しいし……。",
+      "chinese": "为什么来这家店？\n这里价钱既便宜，鱼又新鲜……"
+    },
+    {
+      "id": "g-028-0009",
+      "lessonNumber": 28,
+      "grammarPoint": "普通形し、普通形し、～",
+      "japanese": "どうして日本のアニメが好きなんですか。\n話もおもしろいし、音楽もすてきですから。",
+      "chinese": "为什么喜欢日本的动画片？\n因为情节很有意思，而且音乐也很棒。"
+    },
+    {
+      "id": "g-028-0010",
+      "lessonNumber": 28,
+      "grammarPoint": "それで",
+      "japanese": "将来小説家になりたいです。それで今はアルバイトをしながら小説を書いています。",
+      "chinese": "我将来想当个小说家，所以现在一边打工，一边写小说。"
+    },
+    {
+      "id": "g-028-0011",
+      "lessonNumber": 28,
+      "grammarPoint": "それで",
+      "japanese": "ここはコーヒーもおいしいし、食事もできるし……。\nそれで人気があるんですね。",
+      "chinese": "这里咖啡很好喝，还可以吃饭……\n所以才会这么受欢迎啊。"
+    },
+    {
+      "id": "g-028-0012",
+      "lessonNumber": 28,
+      "grammarPoint": "～とき＋助词",
+      "japanese": "勉強するときは、音楽を聞きません。",
+      "chinese": "学习的时候不听音乐。"
+    },
+    {
+      "id": "g-028-0013",
+      "lessonNumber": 28,
+      "grammarPoint": "～とき＋助词",
+      "japanese": "疲れたときや寂しいとき、よく田舎の青い空を思い出す。",
+      "chinese": "在疲惫或寂寞的时候，我常常会想起家乡的蓝天。"
+    },
+    {
+      "id": "g-029-0001",
+      "lessonNumber": 29,
+      "grammarPoint": "动词て形います",
+      "japanese": "窓が割れています。",
+      "chinese": "窗户碎了。"
+    },
+    {
+      "id": "g-029-0002",
+      "lessonNumber": 29,
+      "grammarPoint": "动词て形います",
+      "japanese": "電気がついています。",
+      "chinese": "灯开着。"
+    },
+    {
+      "id": "g-029-0003",
+      "lessonNumber": 29,
+      "grammarPoint": "动词て形います",
+      "japanese": "このいすは壊れています。",
+      "chinese": "这把椅子坏了。"
+    },
+    {
+      "id": "g-029-0004",
+      "lessonNumber": 29,
+      "grammarPoint": "动词て形しまいました/しまいます",
+      "japanese": "シュミットさんが持って来たワインはみんなで飲んでしまいました。",
+      "chinese": "大家喝完了胥米特拿来的葡萄酒。"
+    },
+    {
+      "id": "g-029-0005",
+      "lessonNumber": 29,
+      "grammarPoint": "动词て形しまいました/しまいます",
+      "japanese": "漢字の宿題はもうやってしまいました。",
+      "chinese": "汉字作业已经做完了。"
+    },
+    {
+      "id": "g-029-0006",
+      "lessonNumber": 29,
+      "grammarPoint": "动词て形しまいました/しまいます",
+      "japanese": "昼ごはんまでにレポートを書いてしまいます。",
+      "chinese": "我要在午饭之前把报告写完。"
+    },
+    {
+      "id": "g-029-0007",
+      "lessonNumber": 29,
+      "grammarPoint": "动词て形しまいました/しまいます",
+      "japanese": "パスポートをなくしてしまいました。",
+      "chinese": "把护照弄丢了。"
+    },
+    {
+      "id": "g-029-0008",
+      "lessonNumber": 29,
+      "grammarPoint": "动词て形しまいました/しまいます",
+      "japanese": "パソコンが故障してしまいました。",
+      "chinese": "电脑出故障了。"
+    },
+    {
+      "id": "g-029-0009",
+      "lessonNumber": 29,
+      "grammarPoint": "名词（场所）に行きます/来ます/帰ります",
+      "japanese": "どこかで財布を落としてしまったんです。\nそれは大変ですね。すぐ交番に行かないと。",
+      "chinese": "不知在哪里把钱包弄丢了。\n那可糟了，得赶紧去派出所。"
+    },
+    {
+      "id": "g-029-0010",
+      "lessonNumber": 29,
+      "grammarPoint": "それ/その/そう",
+      "japanese": "どこかで財布を落としてしまったんです。\nそれは大変ですね。すぐ交番に行かないと。",
+      "chinese": "不知在哪里把钱包弄丢了。\n那可糟了，得赶紧去派出所。"
+    },
+    {
+      "id": "g-029-0011",
+      "lessonNumber": 29,
+      "grammarPoint": "それ/その/そう",
+      "japanese": "来月から大阪の本社に転勤なんです。\nそれはおめでとうございます。",
+      "chinese": "从下个月起，我要调到大阪的总公司去了。\n那祝贺您了。"
+    },
+    {
+      "id": "g-029-0012",
+      "lessonNumber": 29,
+      "grammarPoint": "それ/その/そう",
+      "japanese": "あのう、途中でやめたい場合は？\nその場合は、近くの係員に名前を言って、帰ってください。",
+      "chinese": "那如果中途想退出的话呢？\n那样的话，请跟附近的工作人员说一下自己的名字再回去。"
+    },
+    {
+      "id": "g-029-0013",
+      "lessonNumber": 29,
+      "grammarPoint": "それ/その/そう",
+      "japanese": "うちへ帰って、休んだほうがいいですよ。\nええ、そうします。",
+      "chinese": "还是回家休息一下的好。\n嗯，这就回去。"
+    },
+    {
+      "id": "g-029-0014",
+      "lessonNumber": 29,
+      "grammarPoint": "それ/その/そう",
+      "japanese": "一人でコンサートや展覧会に出かけると、いいでしょう。そのとき会った人が将来の恋人になるかもしれません。",
+      "chinese": "一个人去音乐会和展览会也不错嘛，或许那时遇到的人会成为将来的恋人呢。"
+    },
+    {
+      "id": "g-029-0015",
+      "lessonNumber": 29,
+      "grammarPoint": "ありました",
+      "japanese": "［かばんが］ありましたよ。",
+      "chinese": "［包］找到了。"
+    },
+    {
+      "id": "g-029-0016",
+      "lessonNumber": 29,
+      "grammarPoint": "どこかで/どこかに",
+      "japanese": "どこかで財布をなくしてしまいました。",
+      "chinese": "不知在哪里把钱包弄丢了。"
+    },
+    {
+      "id": "g-029-0017",
+      "lessonNumber": 29,
+      "grammarPoint": "どこかで/どこかに",
+      "japanese": "どこかに電話がありますか。",
+      "chinese": "哪儿有电话？"
+    },
+    {
+      "id": "g-030-0001",
+      "lessonNumber": 30,
+      "grammarPoint": "动词て形あります",
+      "japanese": "机の上にメモが置いてあります。",
+      "chinese": "桌子上放着留言条。"
+    },
+    {
+      "id": "g-030-0002",
+      "lessonNumber": 30,
+      "grammarPoint": "动词て形あります",
+      "japanese": "カレンダーに今月の予定が書いてあります。",
+      "chinese": "月历上写着这个月的计划。"
+    },
+    {
+      "id": "g-030-0003",
+      "lessonNumber": 30,
+      "grammarPoint": "动词て形あります",
+      "japanese": "メモはどこですか。\n［メモは］机の上に置いてあります。",
+      "chinese": "留言条在哪里？\n［留言条］放在桌子上。"
+    },
+    {
+      "id": "g-030-0004",
+      "lessonNumber": 30,
+      "grammarPoint": "动词て形あります",
+      "japanese": "今月の予定はカレンダーに書いてあります。",
+      "chinese": "这个月的计划写在月历上。"
+    },
+    {
+      "id": "g-030-0005",
+      "lessonNumber": 30,
+      "grammarPoint": "动词て形あります",
+      "japanese": "窓が閉まっています。",
+      "chinese": "窗户关着。"
+    },
+    {
+      "id": "g-030-0006",
+      "lessonNumber": 30,
+      "grammarPoint": "动词て形あります",
+      "japanese": "窓が閉めてあります。",
+      "chinese": "窗户关上了。"
+    },
+    {
+      "id": "g-030-0007",
+      "lessonNumber": 30,
+      "grammarPoint": "动词て形おきます",
+      "japanese": "旅行のまえに、切符を買っておきます。",
+      "chinese": "去旅行之前先买好票。"
+    },
+    {
+      "id": "g-030-0008",
+      "lessonNumber": 30,
+      "grammarPoint": "动词て形おきます",
+      "japanese": "次の会議までに何をしておいたらいいですか。\nこの資料を読んでおいてください。",
+      "chinese": "下次会议之前要先做些什么准备好呢？\n请先看一下这份资料。"
+    },
+    {
+      "id": "g-030-0009",
+      "lessonNumber": 30,
+      "grammarPoint": "动词て形おきます",
+      "japanese": "はさみを使ったら、元の所に戻しておいてください。",
+      "chinese": "剪刀用完之后，请放回原处。"
+    },
+    {
+      "id": "g-030-0010",
+      "lessonNumber": 30,
+      "grammarPoint": "动词て形おきます",
+      "japanese": "あした会議がありますから、いすはこのままにしておいてください。",
+      "chinese": "明天有会，椅子就那样放着吧。"
+    },
+    {
+      "id": "g-030-0011",
+      "lessonNumber": 30,
+      "grammarPoint": "动词て形おきます",
+      "japanese": "そこに置いといて（置いておいて）ください。",
+      "chinese": "请放在那里吧。"
+    },
+    {
+      "id": "g-030-0012",
+      "lessonNumber": 30,
+      "grammarPoint": "まだ＋肯定",
+      "japanese": "まだ雨が降っています。",
+      "chinese": "雨还在下。"
+    },
+    {
+      "id": "g-030-0013",
+      "lessonNumber": 30,
+      "grammarPoint": "まだ＋肯定",
+      "japanese": "道具を片づけましょうか。\nまだ使っていますから、そのままにしておいてください。",
+      "chinese": "把工具收拾起来吧？\n还在用呢，先那么放着吧。"
+    },
+    {
+      "id": "g-030-0014",
+      "lessonNumber": 30,
+      "grammarPoint": "とか",
+      "japanese": "どんなスポーツをしていますか。\nそうですね。テニスとか水泳とか……。",
+      "chinese": "你都做些什么运动？\n嗯，打打网球、游游泳什么的。"
+    },
+    {
+      "id": "g-030-0015",
+      "lessonNumber": 30,
+      "grammarPoint": "格助词＋も",
+      "japanese": "ほかにもいろいろあります。",
+      "chinese": "还有很多其他各种各样的。"
+    },
+    {
+      "id": "g-030-0016",
+      "lessonNumber": 30,
+      "grammarPoint": "格助词＋も",
+      "japanese": "どこ［へ］も行きません。",
+      "chinese": "哪儿也不去。"
+    },
+    {
+      "id": "g-031-0001",
+      "lessonNumber": 31,
+      "grammarPoint": "意向形的用法",
+      "japanese": "ちょっと休まない？\nうん、休もう。",
+      "chinese": "不休息一下吗？\n好，休息一下吧。"
+    },
+    {
+      "id": "g-031-0002",
+      "lessonNumber": 31,
+      "grammarPoint": "意向形的用法",
+      "japanese": "手伝おうか。",
+      "chinese": "我帮你一下吧。"
+    },
+    {
+      "id": "g-031-0003",
+      "lessonNumber": 31,
+      "grammarPoint": "意向形的用法",
+      "japanese": "傘を持って行こうか。",
+      "chinese": "带伞去吧。"
+    },
+    {
+      "id": "g-031-0004",
+      "lessonNumber": 31,
+      "grammarPoint": "意向形的用法",
+      "japanese": "週末は海へ行こうと思っています。",
+      "chinese": "我周末想去海边。"
+    },
+    {
+      "id": "g-031-0005",
+      "lessonNumber": 31,
+      "grammarPoint": "意向形的用法",
+      "japanese": "今から銀行へ行こうと思います。",
+      "chinese": "我现在想去银行。"
+    },
+    {
+      "id": "g-031-0006",
+      "lessonNumber": 31,
+      "grammarPoint": "意向形的用法",
+      "japanese": "彼は学校を作ろうと思っています。",
+      "chinese": "他想建一所学校。"
+    },
+    {
+      "id": "g-031-0007",
+      "lessonNumber": 31,
+      "grammarPoint": "{动词字典形/动词ない形ない}つもりです",
+      "japanese": "国へ帰っても、日本語の勉強を続けるつもりです。",
+      "chinese": "我回国以后也准备继续学习日语。"
+    },
+    {
+      "id": "g-031-0008",
+      "lessonNumber": 31,
+      "grammarPoint": "{动词字典形/动词ない形ない}つもりです",
+      "japanese": "あしたからはたばこを吸わないつもりです。",
+      "chinese": "我准备从明天开始就不吸烟了。"
+    },
+    {
+      "id": "g-031-0009",
+      "lessonNumber": 31,
+      "grammarPoint": "{动词字典形/名词の}予定です",
+      "japanese": "7月の終わりにドイツへ出張する予定です。",
+      "chinese": "7月底预定去德国出差。"
+    },
+    {
+      "id": "g-031-0010",
+      "lessonNumber": 31,
+      "grammarPoint": "{动词字典形/名词の}予定です",
+      "japanese": "旅行は1週間ぐらいの予定です。",
+      "chinese": "旅行预定去一星期左右。"
+    },
+    {
+      "id": "g-031-0011",
+      "lessonNumber": 31,
+      "grammarPoint": "まだ动词て形いません",
+      "japanese": "銀行はまだ開いていません。",
+      "chinese": "银行还没开门。"
+    },
+    {
+      "id": "g-031-0012",
+      "lessonNumber": 31,
+      "grammarPoint": "まだ动词て形いません",
+      "japanese": "レポートはもう書きましたか。\nいいえ、まだ書いていません。",
+      "chinese": "报告已经写了吗？\n没，还没写呢。"
+    },
+    {
+      "id": "g-031-0013",
+      "lessonNumber": 31,
+      "grammarPoint": "帰ります-帰り",
+      "japanese": "帰りの新幹線はどこから乗りますか。",
+      "chinese": "回去的新干线从哪里乘车？"
+    },
+    {
+      "id": "g-031-0014",
+      "lessonNumber": 31,
+      "grammarPoint": "帰ります-帰り",
+      "japanese": "休みは何曜日ですか。",
+      "chinese": "休息（日）是星期几？"
+    },
+    {
+      "id": "g-032-0001",
+      "lessonNumber": 32,
+      "grammarPoint": "{动词た形/动词ない形ない}ほうがいいです",
+      "japanese": "毎日運動したほうがいいです。",
+      "chinese": "最好每天运动。"
+    },
+    {
+      "id": "g-032-0002",
+      "lessonNumber": 32,
+      "grammarPoint": "{动词た形/动词ない形ない}ほうがいいです",
+      "japanese": "熱があるんです。\nじゃ、おふろに入らないほうがいいですよ。",
+      "chinese": "发烧了。\n那最好不要洗澡。"
+    },
+    {
+      "id": "g-032-0003",
+      "lessonNumber": 32,
+      "grammarPoint": "{动词た形/动词ない形ない}ほうがいいです",
+      "japanese": "日本のお寺が見たいんですが……。\nじゃ、京都へ行ったらいいですよ。",
+      "chinese": "想去看看日本的寺庙。\n那你可以去京都。"
+    },
+    {
+      "id": "g-032-0004",
+      "lessonNumber": 32,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>}でしょう",
+      "japanese": "あしたは雨が降るでしょう。",
+      "chinese": "明天会下雨吧。"
+    },
+    {
+      "id": "g-032-0005",
+      "lessonNumber": 32,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>}でしょう",
+      "japanese": "タワポンさんは合格するでしょうか。\nきっと合格するでしょう。",
+      "chinese": "瓦朋会通过考试吧？\n一定会通过的。"
+    },
+    {
+      "id": "g-032-0006",
+      "lessonNumber": 32,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>}かもしれません",
+      "japanese": "約束の時間に間に合わないかもしれません。",
+      "chinese": "或许赶不上约定的时间了。"
+    },
+    {
+      "id": "g-032-0007",
+      "lessonNumber": 32,
+      "grammarPoint": "动词ます形ましょう",
+      "japanese": "エンジンの音がおかしいんですが。\nそうですね。故障かもしれません。ちょっと調べましょう。",
+      "chinese": "发动机的声音有点儿怪啊。\n是啊。也许是出故障了。我们来检查一下吧。"
+    },
+    {
+      "id": "g-032-0008",
+      "lessonNumber": 32,
+      "grammarPoint": "数量词で",
+      "japanese": "駅まで30分で行けますか。",
+      "chinese": "30分钟能到车站吗？"
+    },
+    {
+      "id": "g-032-0009",
+      "lessonNumber": 32,
+      "grammarPoint": "数量词で",
+      "japanese": "3万円でパソコンが買えますか。",
+      "chinese": "3万日元能买台电脑吗？"
+    },
+    {
+      "id": "g-032-0010",
+      "lessonNumber": 32,
+      "grammarPoint": "何か心配なこと",
+      "japanese": "何か心配なことがあるんですか。",
+      "chinese": "有什么担心的事情吗？"
+    },
+    {
+      "id": "g-032-0011",
+      "lessonNumber": 32,
+      "grammarPoint": "何か心配なこと",
+      "japanese": "スキーに行きたいんですが、どこかいい所、ありますか。",
+      "chinese": "我想去滑雪，有什么好地方吗？"
+    },
+    {
+      "id": "g-033-0001",
+      "lessonNumber": 33,
+      "grammarPoint": "命令形和禁止形的用法",
+      "japanese": "早く寝ろ。",
+      "chinese": "早点儿睡！"
+    },
+    {
+      "id": "g-033-0002",
+      "lessonNumber": 33,
+      "grammarPoint": "命令形和禁止形的用法",
+      "japanese": "遅れるな。",
+      "chinese": "别迟到！"
+    },
+    {
+      "id": "g-033-0003",
+      "lessonNumber": 33,
+      "grammarPoint": "命令形和禁止形的用法",
+      "japanese": "あしたうちへ来い［よ］。",
+      "chinese": "明天到我家来！"
+    },
+    {
+      "id": "g-033-0004",
+      "lessonNumber": 33,
+      "grammarPoint": "命令形和禁止形的用法",
+      "japanese": "あまり飲むな［よ］。",
+      "chinese": "别喝多了！"
+    },
+    {
+      "id": "g-033-0005",
+      "lessonNumber": 33,
+      "grammarPoint": "命令形和禁止形的用法",
+      "japanese": "逃げろ。",
+      "chinese": "快逃！"
+    },
+    {
+      "id": "g-033-0006",
+      "lessonNumber": 33,
+      "grammarPoint": "命令形和禁止形的用法",
+      "japanese": "エレベーターを使うな。",
+      "chinese": "别用电梯！"
+    },
+    {
+      "id": "g-033-0007",
+      "lessonNumber": 33,
+      "grammarPoint": "命令形和禁止形的用法",
+      "japanese": "休め。",
+      "chinese": "稍息！"
+    },
+    {
+      "id": "g-033-0008",
+      "lessonNumber": 33,
+      "grammarPoint": "命令形和禁止形的用法",
+      "japanese": "休むな。",
+      "chinese": "不要休息！"
+    },
+    {
+      "id": "g-033-0009",
+      "lessonNumber": 33,
+      "grammarPoint": "命令形和禁止形的用法",
+      "japanese": "頑張れ。",
+      "chinese": "加油！"
+    },
+    {
+      "id": "g-033-0010",
+      "lessonNumber": 33,
+      "grammarPoint": "命令形和禁止形的用法",
+      "japanese": "負けるな。",
+      "chinese": "不能输！"
+    },
+    {
+      "id": "g-033-0011",
+      "lessonNumber": 33,
+      "grammarPoint": "命令形和禁止形的用法",
+      "japanese": "止まれ。",
+      "chinese": "停！"
+    },
+    {
+      "id": "g-033-0012",
+      "lessonNumber": 33,
+      "grammarPoint": "命令形和禁止形的用法",
+      "japanese": "入るな。",
+      "chinese": "禁止入内！"
+    },
+    {
+      "id": "g-033-0013",
+      "lessonNumber": 33,
+      "grammarPoint": "命令形和禁止形的用法",
+      "japanese": "勉強しなさい。",
+      "chinese": "快学习去！"
+    },
+    {
+      "id": "g-033-0014",
+      "lessonNumber": 33,
+      "grammarPoint": "～と書いてあります/～と読みます",
+      "japanese": "あの漢字は何と読むんですか。",
+      "chinese": "那个汉字念什么？"
+    },
+    {
+      "id": "g-033-0015",
+      "lessonNumber": 33,
+      "grammarPoint": "～と書いてあります/～と読みます",
+      "japanese": "あそこに「止まれ」と書いてあります。",
+      "chinese": "那里写着“停”。"
+    },
+    {
+      "id": "g-033-0016",
+      "lessonNumber": 33,
+      "grammarPoint": "XはYという意味です",
+      "japanese": "「立入禁止」は入るなという意味です。",
+      "chinese": "「たちいりきんし」就是别进去的意思。"
+    },
+    {
+      "id": "g-033-0017",
+      "lessonNumber": 33,
+      "grammarPoint": "XはYという意味です",
+      "japanese": "このマークはどういう意味ですか。\n洗濯機で洗えるという意味です。",
+      "chinese": "这个标志是什么意思？\n是可以用洗衣机洗的意思。"
+    },
+    {
+      "id": "g-033-0018",
+      "lessonNumber": 33,
+      "grammarPoint": "{“句子”/普通形}と言っていました",
+      "japanese": "田中さんは「あした休みます」と言っていました。",
+      "chinese": "田中说“明天休息”。"
+    },
+    {
+      "id": "g-033-0019",
+      "lessonNumber": 33,
+      "grammarPoint": "{“句子”/普通形}と言っていました",
+      "japanese": "田中さんはあした休むと言っていました。",
+      "chinese": "田中说他明天休息。"
+    },
+    {
+      "id": "g-033-0020",
+      "lessonNumber": 33,
+      "grammarPoint": "{“句子”/普通形}と伝えていただけませんか",
+      "japanese": "ワンさんに「あとで電話をください」と伝えていただけませんか。",
+      "chinese": "请转告小王回头给我打个电话好吗？"
+    },
+    {
+      "id": "g-033-0021",
+      "lessonNumber": 33,
+      "grammarPoint": "{“句子”/普通形}と伝えていただけませんか",
+      "japanese": "すみませんが、渡辺さんにあしたのパーティーは6時からだと伝えていただけませんか。",
+      "chinese": "对不起，请转告渡边小姐明天的晚会是从6点开始。"
+    },
+    {
+      "id": "g-034-0001",
+      "lessonNumber": 34,
+      "grammarPoint": "{动词1た形/名词の}とおりに、动词2",
+      "japanese": "わたしがやったとおりに、やってください。",
+      "chinese": "请照着我做的样子做。"
+    },
+    {
+      "id": "g-034-0002",
+      "lessonNumber": 34,
+      "grammarPoint": "{动词1た形/名词の}とおりに、动词2",
+      "japanese": "見たとおりに、話してください。",
+      "chinese": "请按照你所看到的来说。"
+    },
+    {
+      "id": "g-034-0003",
+      "lessonNumber": 34,
+      "grammarPoint": "{动词1た形/名词の}とおりに、动词2",
+      "japanese": "線のとおりに、紙を切ってください。",
+      "chinese": "请沿着这条线把纸裁开。"
+    },
+    {
+      "id": "g-034-0004",
+      "lessonNumber": 34,
+      "grammarPoint": "{动词1た形/名词の}とおりに、动词2",
+      "japanese": "説明書のとおりに、組み立てました。",
+      "chinese": "按照说明书组装好了。"
+    },
+    {
+      "id": "g-034-0005",
+      "lessonNumber": 34,
+      "grammarPoint": "{动词1た形/名词の}とおりに、动词2",
+      "japanese": "このとおりに、書いてください。",
+      "chinese": "请照这样写。"
+    },
+    {
+      "id": "g-034-0006",
+      "lessonNumber": 34,
+      "grammarPoint": "{动词1た形/名词の}あとで、动词2",
+      "japanese": "新しいのを買ったあとで、なくした時計が見つかりました。",
+      "chinese": "在买了新的之后，丢了的那块表又找到了。"
+    },
+    {
+      "id": "g-034-0007",
+      "lessonNumber": 34,
+      "grammarPoint": "{动词1た形/名词の}あとで、动词2",
+      "japanese": "仕事のあとで、飲みに行きませんか。",
+      "chinese": "工作之后不去喝一杯吗？"
+    },
+    {
+      "id": "g-034-0008",
+      "lessonNumber": 34,
+      "grammarPoint": "{动词1て形/动词1ない形ないで}动词2",
+      "japanese": "しょうゆをつけて食べます。",
+      "chinese": "蘸酱油吃。"
+    },
+    {
+      "id": "g-034-0009",
+      "lessonNumber": 34,
+      "grammarPoint": "{动词1て形/动词1ない形ないで}动词2",
+      "japanese": "しょうゆをつけないで食べます。",
+      "chinese": "不蘸酱油吃。"
+    },
+    {
+      "id": "g-034-0010",
+      "lessonNumber": 34,
+      "grammarPoint": "{动词1て形/动词1ない形ないで}动词2",
+      "japanese": "日曜日はどこも行かないで、うちでゆっくり休みます。",
+      "chinese": "星期天哪儿也不去，在家好好休息。"
+    },
+    {
+      "id": "g-035-0001",
+      "lessonNumber": 35,
+      "grammarPoint": "假定形、～",
+      "japanese": "ボタンを押せば、窓が開きます。",
+      "chinese": "按一下按钮，窗户就会打开。"
+    },
+    {
+      "id": "g-035-0002",
+      "lessonNumber": 35,
+      "grammarPoint": "假定形、～",
+      "japanese": "彼が行けば、わたしも行きます。",
+      "chinese": "如果他去，我也去。"
+    },
+    {
+      "id": "g-035-0003",
+      "lessonNumber": 35,
+      "grammarPoint": "假定形、～",
+      "japanese": "あした都合がよければ、来てください。",
+      "chinese": "明天方便的话，请来一下。"
+    },
+    {
+      "id": "g-035-0004",
+      "lessonNumber": 35,
+      "grammarPoint": "假定形、～",
+      "japanese": "いい天気なら、向こうに島が見えます。",
+      "chinese": "天气好的时候，可以看见对面的小岛。"
+    },
+    {
+      "id": "g-035-0005",
+      "lessonNumber": 35,
+      "grammarPoint": "假定形、～",
+      "japanese": "ボールペンがないんですが。\nボールペンがなければ、鉛筆で書いてください。",
+      "chinese": "没有圆珠笔。\n没有圆珠笔的话，用铅笔写吧。"
+    },
+    {
+      "id": "g-035-0006",
+      "lessonNumber": 35,
+      "grammarPoint": "假定形、～",
+      "japanese": "あしたまでにレポートを出さなければなりませんか。\n無理なら、金曜日までに出してください。",
+      "chinese": "报告必须在明天之前交吗？\n如果有些勉强的话，那就在星期五之前交吧。"
+    },
+    {
+      "id": "g-035-0007",
+      "lessonNumber": 35,
+      "grammarPoint": "假定形、～",
+      "japanese": "ここを押すと、ドアが開きます。",
+      "chinese": "一按这里，门就会打开。"
+    },
+    {
+      "id": "g-035-0008",
+      "lessonNumber": 35,
+      "grammarPoint": "假定形、～",
+      "japanese": "ここを押せば、ドアが開きます。",
+      "chinese": "按这里的话，门就会打开。"
+    },
+    {
+      "id": "g-035-0009",
+      "lessonNumber": 35,
+      "grammarPoint": "假定形、～",
+      "japanese": "東京へ来たら、ぜひ連絡してください。",
+      "chinese": "到了东京的话，请一定跟我联系。"
+    },
+    {
+      "id": "g-035-0010",
+      "lessonNumber": 35,
+      "grammarPoint": "假定形、～",
+      "japanese": "田中さんが東京へ来れば、［わたしは］会いに行きます。",
+      "chinese": "田中来东京的话，我去见他。"
+    },
+    {
+      "id": "g-035-0011",
+      "lessonNumber": 35,
+      "grammarPoint": "疑问句动词假定形いいですか",
+      "japanese": "本を借りたいんですが、どうすればいいですか。",
+      "chinese": "我想借书，怎么做好呢？"
+    },
+    {
+      "id": "g-035-0012",
+      "lessonNumber": 35,
+      "grammarPoint": "疑问句动词假定形いいですか",
+      "japanese": "本を借りたいんですが、どうしたらいいですか。",
+      "chinese": "我想借书，怎么做才好呢？"
+    },
+    {
+      "id": "g-035-0013",
+      "lessonNumber": 35,
+      "grammarPoint": "名词なら、～",
+      "japanese": "温泉に行きたいんですが、どこがいいですか。\n温泉なら、白馬がいいですよ。",
+      "chinese": "我想去温泉，哪儿好？\n温泉的话，白马不错啊。"
+    },
+    {
+      "id": "g-035-0014",
+      "lessonNumber": 35,
+      "grammarPoint": "～はありませんか（否定疑问句）",
+      "japanese": "2、3日旅行をしようと思っているんですが、どこかいい所はありませんか。",
+      "chinese": "我想去旅行两三天，有什么好的地方吗？"
+    },
+    {
+      "id": "g-036-0001",
+      "lessonNumber": 36,
+      "grammarPoint": "{动词1字典形/动词1ない形ない}ように、动词2",
+      "japanese": "速く泳げるように、毎日練習しています。",
+      "chinese": "为了能游得快，每天都在练习。"
+    },
+    {
+      "id": "g-036-0002",
+      "lessonNumber": 36,
+      "grammarPoint": "{动词1字典形/动词1ない形ない}ように、动词2",
+      "japanese": "忘れないように、メモしてください。",
+      "chinese": "请记笔记，免得忘记。"
+    },
+    {
+      "id": "g-036-0003",
+      "lessonNumber": 36,
+      "grammarPoint": "动词字典形ようになります",
+      "japanese": "毎日練習すれば、泳げるようになります。",
+      "chinese": "如果每天都练习的话，就能学会游泳。"
+    },
+    {
+      "id": "g-036-0004",
+      "lessonNumber": 36,
+      "grammarPoint": "动词字典形ようになります",
+      "japanese": "やっと自転車に乗れるようになりました。",
+      "chinese": "终于会骑自行车了。"
+    },
+    {
+      "id": "g-036-0005",
+      "lessonNumber": 36,
+      "grammarPoint": "动词字典形ようになります",
+      "japanese": "ショパンの曲が弾けるようになりましたか。\nいいえ、まだ弾けません。",
+      "chinese": "会弹肖邦的曲子了吗？\n不，还不会弹。"
+    },
+    {
+      "id": "g-036-0006",
+      "lessonNumber": 36,
+      "grammarPoint": "动词字典形ようになります",
+      "japanese": "日本人は100年ぐらいまえから牛肉や豚肉を食べるようになりました。",
+      "chinese": "日本人大约是从100年前开始吃牛肉和猪肉的。"
+    },
+    {
+      "id": "g-036-0007",
+      "lessonNumber": 36,
+      "grammarPoint": "{动词字典形/动词ない形ない}ようにします",
+      "japanese": "毎日運動して、何でも食べるようにしています。",
+      "chinese": "我每天都注意坚持运动，什么都吃。"
+    },
+    {
+      "id": "g-036-0008",
+      "lessonNumber": 36,
+      "grammarPoint": "{动词字典形/动词ない形ない}ようにします",
+      "japanese": "歯に悪いですから、甘い物を食べないようにしています。",
+      "chinese": "因为对牙不好，我很注意不吃甜食。"
+    },
+    {
+      "id": "g-036-0009",
+      "lessonNumber": 36,
+      "grammarPoint": "{动词字典形/动词ない形ない}ようにします",
+      "japanese": "もっと野菜を食べるようにしてください。",
+      "chinese": "要再多吃些蔬菜。"
+    },
+    {
+      "id": "g-036-0010",
+      "lessonNumber": 36,
+      "grammarPoint": "{动词字典形/动词ない形ない}ようにします",
+      "japanese": "絶対にパスポートをなくさないようにしてください。",
+      "chinese": "注意一定不要把护照弄丢了。"
+    },
+    {
+      "id": "g-036-0011",
+      "lessonNumber": 36,
+      "grammarPoint": "{动词字典形/动词ない形ない}ようにします",
+      "japanese": "すみませんが、塩を取ってください。",
+      "chinese": "对不起，请拿一下盐。"
+    },
+    {
+      "id": "g-036-0012",
+      "lessonNumber": 36,
+      "grammarPoint": "早い→早く&nbsp;上手な→上手に",
+      "japanese": "早く上手にお茶がたてられるようになりたいです。",
+      "chinese": "我很想能快点儿学会把茶沏好。"
+    },
+    {
+      "id": "g-037-0001",
+      "lessonNumber": 37,
+      "grammarPoint": "名词1（人1）は名词2（人2）に被动动词",
+      "japanese": "わたしは先生に褒められました。",
+      "chinese": "我受到了老师的表扬。"
+    },
+    {
+      "id": "g-037-0002",
+      "lessonNumber": 37,
+      "grammarPoint": "名词1（人1）は名词2（人2）に被动动词",
+      "japanese": "わたしは母に買い物を頼まれました。",
+      "chinese": "妈妈托我买东西。"
+    },
+    {
+      "id": "g-037-0003",
+      "lessonNumber": 37,
+      "grammarPoint": "名词1（人1）は名词2（人2）に被动动词",
+      "japanese": "わたしは犬にかまれました。",
+      "chinese": "我被狗咬了。"
+    },
+    {
+      "id": "g-037-0004",
+      "lessonNumber": 37,
+      "grammarPoint": "名词1（人1）は名词2（人2）に名词3を被动动词",
+      "japanese": "わたしは弟にパソコンを壊されました。",
+      "chinese": "我被弟弟弄坏了电脑。"
+    },
+    {
+      "id": "g-037-0005",
+      "lessonNumber": 37,
+      "grammarPoint": "名词1（人1）は名词2（人2）に名词3を被动动词",
+      "japanese": "わたしは犬に手をかまれました。",
+      "chinese": "我被狗咬了手。"
+    },
+    {
+      "id": "g-037-0006",
+      "lessonNumber": 37,
+      "grammarPoint": "名词1（人1）は名词2（人2）に名词3を被动动词",
+      "japanese": "わたしは友達に自転車を修理してもらいました。",
+      "chinese": "请朋友帮我修好了自行车。"
+    },
+    {
+      "id": "g-037-0007",
+      "lessonNumber": 37,
+      "grammarPoint": "名词（物/事）が/は被动动词",
+      "japanese": "大阪で展覧会が開かれました。",
+      "chinese": "展览会在大阪开幕。"
+    },
+    {
+      "id": "g-037-0008",
+      "lessonNumber": 37,
+      "grammarPoint": "名词（物/事）が/は被动动词",
+      "japanese": "電話は19世紀に発明されました。",
+      "chinese": "电话是在19世纪发明的。"
+    },
+    {
+      "id": "g-037-0009",
+      "lessonNumber": 37,
+      "grammarPoint": "名词（物/事）が/は被动动词",
+      "japanese": "この本は世界中で読まれています。",
+      "chinese": "这本书在全世界受到欢迎。"
+    },
+    {
+      "id": "g-037-0010",
+      "lessonNumber": 37,
+      "grammarPoint": "名词から/名词でつくります",
+      "japanese": "ビールは麦から造られます。",
+      "chinese": "啤酒是用小麦酿造的。"
+    },
+    {
+      "id": "g-037-0011",
+      "lessonNumber": 37,
+      "grammarPoint": "名词から/名词でつくります",
+      "japanese": "昔日本の家は木で造られました。",
+      "chinese": "过去，日本的房子是用木材建造的。"
+    },
+    {
+      "id": "g-037-0012",
+      "lessonNumber": 37,
+      "grammarPoint": "名词1の名词2",
+      "japanese": "ビールは麦から造られます。\nこれが原料の麦です。",
+      "chinese": "啤酒是用小麦酿造的。\n这就是原料小麦。"
+    },
+    {
+      "id": "g-037-0013",
+      "lessonNumber": 37,
+      "grammarPoint": "この/その/あの名词（位置）",
+      "japanese": "あの中に入れますか。",
+      "chinese": "可以进到那里面去吗？"
+    },
+    {
+      "id": "g-038-0001",
+      "lessonNumber": 38,
+      "grammarPoint": "动词字典形のは形容词です",
+      "japanese": "テニスはおもしろいです。",
+      "chinese": "网球很有意思。"
+    },
+    {
+      "id": "g-038-0002",
+      "lessonNumber": 38,
+      "grammarPoint": "动词字典形のは形容词です",
+      "japanese": "テニスをするのはおもしろいです。",
+      "chinese": "打网球很有意思。"
+    },
+    {
+      "id": "g-038-0003",
+      "lessonNumber": 38,
+      "grammarPoint": "动词字典形のは形容词です",
+      "japanese": "テニスを見るのはおもしろいです。",
+      "chinese": "看网球很有意思。"
+    },
+    {
+      "id": "g-038-0004",
+      "lessonNumber": 38,
+      "grammarPoint": "动词字典形のが形容词です",
+      "japanese": "わたしは花が好きです。",
+      "chinese": "我喜欢花。"
+    },
+    {
+      "id": "g-038-0005",
+      "lessonNumber": 38,
+      "grammarPoint": "动词字典形のが形容词です",
+      "japanese": "わたしは花を育てるのが好きです。",
+      "chinese": "我喜欢养花。"
+    },
+    {
+      "id": "g-038-0006",
+      "lessonNumber": 38,
+      "grammarPoint": "动词字典形のが形容词です",
+      "japanese": "東京の人は歩くのが速いです。",
+      "chinese": "东京人走路很快。"
+    },
+    {
+      "id": "g-038-0007",
+      "lessonNumber": 38,
+      "grammarPoint": "动词字典形のを忘れました",
+      "japanese": "かぎを忘れました。",
+      "chinese": "把钥匙忘了。"
+    },
+    {
+      "id": "g-038-0008",
+      "lessonNumber": 38,
+      "grammarPoint": "动词字典形のを忘れました",
+      "japanese": "牛乳を買うのを忘れました。",
+      "chinese": "忘了买牛奶了。"
+    },
+    {
+      "id": "g-038-0009",
+      "lessonNumber": 38,
+      "grammarPoint": "动词字典形のを忘れました",
+      "japanese": "車の窓を閉めるのを忘れました。",
+      "chinese": "忘了关车窗了。"
+    },
+    {
+      "id": "g-038-0010",
+      "lessonNumber": 38,
+      "grammarPoint": "动词普通形のを知っていますか",
+      "japanese": "鈴木さんが来月結婚するのを知っていますか。",
+      "chinese": "你知道铃木下个月要结婚吗？"
+    },
+    {
+      "id": "g-038-0011",
+      "lessonNumber": 38,
+      "grammarPoint": "动词普通形のを知っていますか",
+      "japanese": "木村さんに赤ちゃんが生まれたのを知っていますか。\nいいえ、知りませんでした。",
+      "chinese": "你知道木村小姐生孩子了吗？\n不，不知道。"
+    },
+    {
+      "id": "g-038-0012",
+      "lessonNumber": 38,
+      "grammarPoint": "动词普通形のを知っていますか",
+      "japanese": "ミラーさんの住所を知っていますか。\nいいえ、知りません。",
+      "chinese": "你知道米勒的地址吗？\n不，不知道。"
+    },
+    {
+      "id": "g-038-0013",
+      "lessonNumber": 38,
+      "grammarPoint": "{{动词/い形容词}普通形/{{な形容词/名词1}普通形〜<s>だ</s>→〜な}}のは名词2です",
+      "japanese": "初めて会ったのはいつですか。\n3年まえです。",
+      "chinese": "第一次见面是在什么时候？\n3年前。"
+    },
+    {
+      "id": "g-038-0014",
+      "lessonNumber": 38,
+      "grammarPoint": "{{动词/い形容词}普通形/{{な形容词/名词1}普通形〜<s>だ</s>→〜な}}のは名词2です",
+      "japanese": "バンコクで生まれたんですか。\nいいえ、生まれたのはチェンマイです。",
+      "chinese": "你是在曼谷出生的吗？\n不是，我生在清迈。"
+    },
+    {
+      "id": "g-038-0015",
+      "lessonNumber": 38,
+      "grammarPoint": "{{动词/い形容词}普通形/{{な形容词/名词1}普通形〜<s>だ</s>→〜な}}のは名词2です",
+      "japanese": "父が生まれたのは北海道の小さな村です。",
+      "chinese": "父亲出生在北海道的一个小村庄。"
+    },
+    {
+      "id": "g-039-0001",
+      "lessonNumber": 39,
+      "grammarPoint": "{动词て形/动词ない形なくて/い形容词（〜<s>い</s>）→〜くて/な形容词［<s>な</s>］→で}、〜",
+      "japanese": "ニュースを聞いて、びっくりしました。",
+      "chinese": "听到新闻后吃了一惊。"
+    },
+    {
+      "id": "g-039-0002",
+      "lessonNumber": 39,
+      "grammarPoint": "{动词て形/动词ない形なくて/い形容词（〜<s>い</s>）→〜くて/な形容词［<s>な</s>］→で}、〜",
+      "japanese": "家族に会えなくて、寂しいです。",
+      "chinese": "见不到家里人，很寂寞。"
+    },
+    {
+      "id": "g-039-0003",
+      "lessonNumber": 39,
+      "grammarPoint": "{动词て形/动词ない形なくて/い形容词（〜<s>い</s>）→〜くて/な形容词［<s>な</s>］→で}、〜",
+      "japanese": "土曜日は都合が悪くて、行けません。",
+      "chinese": "星期六我有事，去不了。"
+    },
+    {
+      "id": "g-039-0004",
+      "lessonNumber": 39,
+      "grammarPoint": "{动词て形/动词ない形なくて/い形容词（〜<s>い</s>）→〜くて/な形容词［<s>な</s>］→で}、〜",
+      "japanese": "話が複雑で、よくわかりませんでした。",
+      "chinese": "故事情节很复杂，没太明白。"
+    },
+    {
+      "id": "g-039-0005",
+      "lessonNumber": 39,
+      "grammarPoint": "{动词て形/动词ない形なくて/い形容词（〜<s>い</s>）→〜くて/な形容词［<s>な</s>］→で}、〜",
+      "japanese": "事故があって、バスが遅れてしまいました。",
+      "chinese": "路上有事故，公共汽车晚点了。"
+    },
+    {
+      "id": "g-039-0006",
+      "lessonNumber": 39,
+      "grammarPoint": "{动词て形/动词ない形なくて/い形容词（〜<s>い</s>）→〜くて/な形容词［<s>な</s>］→で}、〜",
+      "japanese": "授業に遅れて、先生にしかられました。",
+      "chinese": "因为上课迟到，被老师批评了。"
+    },
+    {
+      "id": "g-039-0007",
+      "lessonNumber": 39,
+      "grammarPoint": "{动词て形/动词ない形なくて/い形容词（〜<s>い</s>）→〜くて/な形容词［<s>な</s>］→で}、〜",
+      "japanese": "危ないですから、機械に触らないでください。",
+      "chinese": "因为很危险，请不要触摸机器。"
+    },
+    {
+      "id": "g-039-0008",
+      "lessonNumber": 39,
+      "grammarPoint": "名词で",
+      "japanese": "地震でビルが倒れました。",
+      "chinese": "因为地震，大厦倒塌了。"
+    },
+    {
+      "id": "g-039-0009",
+      "lessonNumber": 39,
+      "grammarPoint": "名词で",
+      "japanese": "病気で会社を休みました。",
+      "chinese": "因病请假，没去公司。"
+    },
+    {
+      "id": "g-039-0010",
+      "lessonNumber": 39,
+      "grammarPoint": "{{动词/い形容词}普通形/{{な形容词/名词}普通形〜<s>だ</s>→〜な}}ので、〜",
+      "japanese": "日本語がわからないので、英語で話していただけませんか。",
+      "chinese": "我不懂日语，所以请您用英语说好吗？"
+    },
+    {
+      "id": "g-039-0011",
+      "lessonNumber": 39,
+      "grammarPoint": "{{动词/い形容词}普通形/{{な形容词/名词}普通形〜<s>だ</s>→〜な}}ので、〜",
+      "japanese": "用事があるので、お先に失礼します。",
+      "chinese": "因为有事，我先告辞了。"
+    },
+    {
+      "id": "g-039-0012",
+      "lessonNumber": 39,
+      "grammarPoint": "途中で",
+      "japanese": "実は来る途中で事故があって、バスが遅れてしまったんです。",
+      "chinese": "其实是因为在来的路上有事故，所以公共汽车晚点了。"
+    },
+    {
+      "id": "g-039-0013",
+      "lessonNumber": 39,
+      "grammarPoint": "途中で",
+      "japanese": "マラソンの途中で気分が悪くなりました。",
+      "chinese": "在马拉松比赛的中途，身体不舒服起来。"
+    },
+    {
+      "id": "g-040-0001",
+      "lessonNumber": 40,
+      "grammarPoint": "{{动词/い形容词}普通形/{{な形容词/名词}普通形〜<s>だ</s>}}か、〜",
+      "japanese": "JL107便は何時に到着するか、調べてください。",
+      "chinese": "请给我查一下JL107航班几点到。"
+    },
+    {
+      "id": "g-040-0002",
+      "lessonNumber": 40,
+      "grammarPoint": "{{动词/い形容词}普通形/{{な形容词/名词}普通形〜<s>だ</s>}}か、〜",
+      "japanese": "結婚のお祝いは何がいいか、話しています。",
+      "chinese": "我们在讨论结婚礼物送什么好。"
+    },
+    {
+      "id": "g-040-0003",
+      "lessonNumber": 40,
+      "grammarPoint": "{{动词/い形容词}普通形/{{な形容词/名词}普通形〜<s>だ</s>}}か、〜",
+      "japanese": "わたしたちが初めて会ったのはいつか、覚えていますか。",
+      "chinese": "你还记得我们第一次见面是什么时候吗？"
+    },
+    {
+      "id": "g-040-0004",
+      "lessonNumber": 40,
+      "grammarPoint": "{{动词/い形容词}普通形/{{な形容词/名词}普通形〜<s>だ</s>}}かどうか、〜",
+      "japanese": "忘年会に出席するかどうか、20日までに返事をください。",
+      "chinese": "能否出席辞旧迎新会，请在20号之前予以回答。"
+    },
+    {
+      "id": "g-040-0005",
+      "lessonNumber": 40,
+      "grammarPoint": "{{动词/い形容词}普通形/{{な形容词/名词}普通形〜<s>だ</s>}}かどうか、〜",
+      "japanese": "その話はほんとうかどうか、わかりません。",
+      "chinese": "不知道那个传闻是不是真的。"
+    },
+    {
+      "id": "g-040-0006",
+      "lessonNumber": 40,
+      "grammarPoint": "{{动词/い形容词}普通形/{{な形容词/名词}普通形〜<s>だ</s>}}かどうか、〜",
+      "japanese": "まちがいがないかどうか、調べてください。",
+      "chinese": "请查一下有没有错误。"
+    },
+    {
+      "id": "g-040-0007",
+      "lessonNumber": 40,
+      "grammarPoint": "动词て形みます",
+      "japanese": "もう一度考えてみます。",
+      "chinese": "我再考虑一下。"
+    },
+    {
+      "id": "g-040-0008",
+      "lessonNumber": 40,
+      "grammarPoint": "动词て形みます",
+      "japanese": "このズポンをはいてみてもいいですか。",
+      "chinese": "我能试一下这条裤子吗？"
+    },
+    {
+      "id": "g-040-0009",
+      "lessonNumber": 40,
+      "grammarPoint": "动词て形みます",
+      "japanese": "北海道へ行ってみたいです。",
+      "chinese": "我想去北海道看看。"
+    },
+    {
+      "id": "g-040-0010",
+      "lessonNumber": 40,
+      "grammarPoint": "い形容词（〜<s>い</s>）→〜さ",
+      "japanese": "山の高さはどうやって測るか、知っていますか。",
+      "chinese": "你知道山的高度是怎样测量的吗？"
+    },
+    {
+      "id": "g-040-0011",
+      "lessonNumber": 40,
+      "grammarPoint": "い形容词（〜<s>い</s>）→〜さ",
+      "japanese": "新しい橋の長さは3911メートルです。",
+      "chinese": "新建的桥全长3911米。"
+    },
+    {
+      "id": "g-040-0012",
+      "lessonNumber": 40,
+      "grammarPoint": "〜でしょうか",
+      "japanese": "ハンスは学校でどうでしょうか。",
+      "chinese": "汉斯在学校怎么样啊？"
+    },
+    {
+      "id": "g-041-0001",
+      "lessonNumber": 41,
+      "grammarPoint": "名词1（人）に名词2をいただきます",
+      "japanese": "わたしは社長にお土産をいただきました。",
+      "chinese": "我得到了总经理赠送的礼品。"
+    },
+    {
+      "id": "g-041-0002",
+      "lessonNumber": 41,
+      "grammarPoint": "［わたしに］名词をくださいます",
+      "japanese": "社長がわたしにお土産をくださいました。",
+      "chinese": "总经理送了礼物给我。"
+    },
+    {
+      "id": "g-041-0003",
+      "lessonNumber": 41,
+      "grammarPoint": "［わたしに］名词をくださいます",
+      "japanese": "娘は部長にお土産をいただきました。",
+      "chinese": "（我）女儿得到了部长赠送的礼物。"
+    },
+    {
+      "id": "g-041-0004",
+      "lessonNumber": 41,
+      "grammarPoint": "［わたしに］名词をくださいます",
+      "japanese": "部長が娘にお土産をくださいました。",
+      "chinese": "部长送了礼物给（我）女儿。"
+    },
+    {
+      "id": "g-041-0005",
+      "lessonNumber": 41,
+      "grammarPoint": "名词1に名词2をやります",
+      "japanese": "わたしは息子にお菓子をやりました（あげました）。",
+      "chinese": "我给了儿子点心。"
+    },
+    {
+      "id": "g-041-0006",
+      "lessonNumber": 41,
+      "grammarPoint": "名词1に名词2をやります",
+      "japanese": "わたしは犬にえさをやりました。",
+      "chinese": "我给狗喂食了。"
+    },
+    {
+      "id": "g-041-0007",
+      "lessonNumber": 41,
+      "grammarPoint": "动词て形いただきます",
+      "japanese": "わたしは課長に手紙のまちがいを直していただきました。",
+      "chinese": "我请科长给我改了信上的错误。"
+    },
+    {
+      "id": "g-041-0008",
+      "lessonNumber": 41,
+      "grammarPoint": "动词て形くださいます",
+      "japanese": "部長の奥さんが［わたしに］お茶を教えてくださいました。",
+      "chinese": "部长的夫人教我茶道了。"
+    },
+    {
+      "id": "g-041-0009",
+      "lessonNumber": 41,
+      "grammarPoint": "动词て形くださいます",
+      "japanese": "部長が［わたしを］駅まで送ってくださいました。",
+      "chinese": "部长把我送到了车站。"
+    },
+    {
+      "id": "g-041-0010",
+      "lessonNumber": 41,
+      "grammarPoint": "动词て形くださいます",
+      "japanese": "部長が［わたしの］レポートを直してくださいました。",
+      "chinese": "部长给我改了报告。"
+    },
+    {
+      "id": "g-041-0011",
+      "lessonNumber": 41,
+      "grammarPoint": "动词て形やります",
+      "japanese": "わたしは息子に紙飛行機を作ってやりました（あげました）。",
+      "chinese": "我给孩子做了架纸飞机。"
+    },
+    {
+      "id": "g-041-0012",
+      "lessonNumber": 41,
+      "grammarPoint": "动词て形やります",
+      "japanese": "わたしは犬を散歩に連れて行ってやりました。",
+      "chinese": "我带狗去散步了。"
+    },
+    {
+      "id": "g-041-0013",
+      "lessonNumber": 41,
+      "grammarPoint": "动词て形やります",
+      "japanese": "わたしは娘の宿題を見てやりました（あげました）。",
+      "chinese": "我给女儿改了作业。"
+    },
+    {
+      "id": "g-041-0014",
+      "lessonNumber": 41,
+      "grammarPoint": "动词て形くださいませんか",
+      "japanese": "コピー機の使い方を教えてくださいませんか。",
+      "chinese": "能教我一下复印机的用法吗？"
+    },
+    {
+      "id": "g-041-0015",
+      "lessonNumber": 41,
+      "grammarPoint": "动词て形くださいませんか",
+      "japanese": "コピー機の使い方を教えていただけませんか。",
+      "chinese": "能请您教我一下复印机的用法吗？"
+    },
+    {
+      "id": "g-041-0016",
+      "lessonNumber": 41,
+      "grammarPoint": "名词に动词",
+      "japanese": "田中さんが結婚祝いにこのお皿をくださいました。",
+      "chinese": "田中送给了我这个盘子作为结婚礼品。"
+    },
+    {
+      "id": "g-041-0017",
+      "lessonNumber": 41,
+      "grammarPoint": "名词に动词",
+      "japanese": "北海道旅行のお土産に人形を買いました。",
+      "chinese": "我买了人偶作为去北海道旅行的纪念品。"
+    },
+    {
+      "id": "g-042-0001",
+      "lessonNumber": 42,
+      "grammarPoint": "{动词字典形/名词の}ために、〜",
+      "japanese": "自分の店を持つために、貯金しています。",
+      "chinese": "为了将来有一家自己的店铺，正在存钱。"
+    },
+    {
+      "id": "g-042-0002",
+      "lessonNumber": 42,
+      "grammarPoint": "{动词字典形/名词の}ために、〜",
+      "japanese": "引っ越しのために、車を借ります。",
+      "chinese": "为搬家借辆车。"
+    },
+    {
+      "id": "g-042-0003",
+      "lessonNumber": 42,
+      "grammarPoint": "{动词字典形/名词の}ために、〜",
+      "japanese": "健康のために、毎朝走っています。",
+      "chinese": "为了健康，每天早上跑步。"
+    },
+    {
+      "id": "g-042-0004",
+      "lessonNumber": 42,
+      "grammarPoint": "{动词字典形/名词の}ために、〜",
+      "japanese": "家族のために、うちを建てます。",
+      "chinese": "为了家里人盖房子。"
+    },
+    {
+      "id": "g-042-0005",
+      "lessonNumber": 42,
+      "grammarPoint": "{动词字典形/名词の}ために、〜",
+      "japanese": "自分の店が持てるように、貯金しています。",
+      "chinese": "为了将来能够有一家自己的店而存钱。"
+    },
+    {
+      "id": "g-042-0006",
+      "lessonNumber": 42,
+      "grammarPoint": "{动词字典形/名词の}ために、〜",
+      "japanese": "弁護士になるために、法律を勉強しています。",
+      "chinese": "我为了当个律师，正在学习法律。"
+    },
+    {
+      "id": "g-042-0007",
+      "lessonNumber": 42,
+      "grammarPoint": "{动词字典形/名词の}ために、〜",
+      "japanese": "日本語が上手になるように、毎日勉強しています。",
+      "chinese": "我为了说好日语，每天都在学习"
+    },
+    {
+      "id": "g-042-0008",
+      "lessonNumber": 42,
+      "grammarPoint": "{动词字典形の/名词}に〜",
+      "japanese": "このはさみは花を切るのに使います。",
+      "chinese": "这把剪刀是用来剪花的。"
+    },
+    {
+      "id": "g-042-0009",
+      "lessonNumber": 42,
+      "grammarPoint": "{动词字典形の/名词}に〜",
+      "japanese": "このかばんは大きくて、旅行に便利です。",
+      "chinese": "这个包很大，旅行用很方便。"
+    },
+    {
+      "id": "g-042-0010",
+      "lessonNumber": 42,
+      "grammarPoint": "{动词字典形の/名词}に〜",
+      "japanese": "電話番号を調べるのに時間がかかりました。",
+      "chinese": "为了查电话号码，花了不少时间。"
+    },
+    {
+      "id": "g-042-0011",
+      "lessonNumber": 42,
+      "grammarPoint": "数量词は/も",
+      "japanese": "わたしは［ボーナスの］半分は貯金するつもりです。\nえっ、半分も貯金するんですか。",
+      "chinese": "我打算把［奖金的］一半儿存起来。\n啊，一半儿都存起来？"
+    },
+    {
+      "id": "g-042-0012",
+      "lessonNumber": 42,
+      "grammarPoint": "〜によって",
+      "japanese": "チキンラーメンは1958年に安藤百福さんによって発明されました。",
+      "chinese": "鸡肉拉面是1958年由安藤百福发明的。"
+    },
+    {
+      "id": "g-043-0001",
+      "lessonNumber": 43,
+      "grammarPoint": "动词ます形そうです",
+      "japanese": "今にも雨が降りそうです。",
+      "chinese": "好像马上就要下雨了。"
+    },
+    {
+      "id": "g-043-0002",
+      "lessonNumber": 43,
+      "grammarPoint": "动词ます形そうです",
+      "japanese": "もうすぐ桜が咲きそうです。",
+      "chinese": "樱花好像马上就要开了。"
+    },
+    {
+      "id": "g-043-0003",
+      "lessonNumber": 43,
+      "grammarPoint": "动词ます形そうです",
+      "japanese": "これから寒くなりそうです。",
+      "chinese": "天气好像要冷起来了。"
+    },
+    {
+      "id": "g-043-0004",
+      "lessonNumber": 43,
+      "grammarPoint": "{い形容词（〜<s>い</s>）/な形容词［<s>な</s>］}そうです",
+      "japanese": "この料理は辛そうです。",
+      "chinese": "这道菜看上去挺辣的。"
+    },
+    {
+      "id": "g-043-0005",
+      "lessonNumber": 43,
+      "grammarPoint": "{い形容词（〜<s>い</s>）/な形容词［<s>な</s>］}そうです",
+      "japanese": "彼女は頭がよさそうです。",
+      "chinese": "她好像很聪明。"
+    },
+    {
+      "id": "g-043-0006",
+      "lessonNumber": 43,
+      "grammarPoint": "{い形容词（〜<s>い</s>）/な形容词［<s>な</s>］}そうです",
+      "japanese": "この机は丈夫そうです。",
+      "chinese": "这张桌子看着很结实。"
+    },
+    {
+      "id": "g-043-0007",
+      "lessonNumber": 43,
+      "grammarPoint": "{い形容词（〜<s>い</s>）/な形容词［<s>な</s>］}そうです",
+      "japanese": "うれしそうですね。\nええ、実はきのう結婚を申し込まれたんです。",
+      "chinese": "（你）看起来很高兴啊。\n是啊，其实昨天有人向我求婚了。"
+    },
+    {
+      "id": "g-043-0008",
+      "lessonNumber": 43,
+      "grammarPoint": "动词て形来ます",
+      "japanese": "ちょっとたばこを買って来ます。",
+      "chinese": "我去买包烟回来。"
+    },
+    {
+      "id": "g-043-0009",
+      "lessonNumber": 43,
+      "grammarPoint": "动词て形来ます",
+      "japanese": "スーバーで牛乳を買って来ます。",
+      "chinese": "去超市买牛奶回来。"
+    },
+    {
+      "id": "g-043-0010",
+      "lessonNumber": 43,
+      "grammarPoint": "动词て形来ます",
+      "japanese": "台所からコップを取って来ます。",
+      "chinese": "去厨房拿个杯子来。"
+    },
+    {
+      "id": "g-043-0011",
+      "lessonNumber": 43,
+      "grammarPoint": "动词て形来ます",
+      "japanese": "郵便局へ行って来ます。",
+      "chinese": "我去趟邮局就回来。"
+    },
+    {
+      "id": "g-043-0012",
+      "lessonNumber": 43,
+      "grammarPoint": "动词て形来ます",
+      "japanese": "ちょっと出かけて来ます。",
+      "chinese": "我出去一下就回来。"
+    },
+    {
+      "id": "g-043-0013",
+      "lessonNumber": 43,
+      "grammarPoint": "动词て形くれませんか",
+      "japanese": "コンビニへ行って来ます。\nじゃ、お弁当を買って来てくれませんか。",
+      "chinese": "我去趟便利店就回来。\n那能帮我买个盒饭回来吗？"
+    },
+    {
+      "id": "g-044-0001",
+      "lessonNumber": 44,
+      "grammarPoint": "{动词ます形/い形容词（〜<s>い</s>）/な形容词［<s>な</s>］すぎます",
+      "japanese": "ゆうべお酒を飲みすぎました。",
+      "chinese": "昨晚喝多了。"
+    },
+    {
+      "id": "g-044-0002",
+      "lessonNumber": 44,
+      "grammarPoint": "{动词ます形/い形容词（〜<s>い</s>）/な形容词［<s>な</s>］すぎます",
+      "japanese": "このセーターは大きすぎます。",
+      "chinese": "这件毛衣太大了。"
+    },
+    {
+      "id": "g-044-0003",
+      "lessonNumber": 44,
+      "grammarPoint": "{动词ます形/い形容词（〜<s>い</s>）/な形容词［<s>な</s>］すぎます",
+      "japanese": "最近の車は操作が簡単すぎて、運転がおもしろくないです。",
+      "chinese": "最近的汽车操作起来太简单，开起来没什么意思。"
+    },
+    {
+      "id": "g-044-0004",
+      "lessonNumber": 44,
+      "grammarPoint": "{动词ます形/い形容词（〜<s>い</s>）/な形容词［<s>な</s>］すぎます",
+      "japanese": "いくら好きでも、飲みすぎると、体に悪いですよ。",
+      "chinese": "不管多爱喝酒，喝得太多的话，对身体也没有好处。"
+    },
+    {
+      "id": "g-044-0005",
+      "lessonNumber": 44,
+      "grammarPoint": "动词ます形{やすいです/にくいです}",
+      "japanese": "このバソコンは使いやすいです。",
+      "chinese": "这台电脑很好用。"
+    },
+    {
+      "id": "g-044-0006",
+      "lessonNumber": 44,
+      "grammarPoint": "动词ます形{やすいです/にくいです}",
+      "japanese": "東京は住みにくいです。",
+      "chinese": "东京不易居住。"
+    },
+    {
+      "id": "g-044-0007",
+      "lessonNumber": 44,
+      "grammarPoint": "动词ます形{やすいです/にくいです}",
+      "japanese": "白いシャツは汚れやすいです。",
+      "chinese": "白衬衫很容易脏。"
+    },
+    {
+      "id": "g-044-0008",
+      "lessonNumber": 44,
+      "grammarPoint": "动词ます形{やすいです/にくいです}",
+      "japanese": "雨の日は洗濯物が乾きにくいです。",
+      "chinese": "下雨天洗东西不容易干。"
+    },
+    {
+      "id": "g-044-0009",
+      "lessonNumber": 44,
+      "grammarPoint": "动词ます形{やすいです/にくいです}",
+      "japanese": "この薬は砂糖を入れると、飲みやすくなりますよ。",
+      "chinese": "这种药放点儿糖就容易入口了。"
+    },
+    {
+      "id": "g-044-0010",
+      "lessonNumber": 44,
+      "grammarPoint": "动词ます形{やすいです/にくいです}",
+      "japanese": "このコップは割れにくくて、安全ですよ。",
+      "chinese": "这个杯子不易碎，很安全。"
+    },
+    {
+      "id": "g-044-0011",
+      "lessonNumber": 44,
+      "grammarPoint": "名词1を{い形容词（〜<s>い</s>）→〜く/な形容词［<s>な</s>］→〜に/名词2に}します",
+      "japanese": "音を大きくします。",
+      "chinese": "把声音调大。"
+    },
+    {
+      "id": "g-044-0012",
+      "lessonNumber": 44,
+      "grammarPoint": "名词1を{い形容词（〜<s>い</s>）→〜く/な形容词［<s>な</s>］→〜に/名词2に}します",
+      "japanese": "部屋をきれいにします。",
+      "chinese": "把房间打扫干净。"
+    },
+    {
+      "id": "g-044-0013",
+      "lessonNumber": 44,
+      "grammarPoint": "名词1を{い形容词（〜<s>い</s>）→〜く/な形容词［<s>な</s>］→〜に/名词2に}します",
+      "japanese": "塩の量を半分にしました。",
+      "chinese": "把盐量减到一半。"
+    },
+    {
+      "id": "g-044-0014",
+      "lessonNumber": 44,
+      "grammarPoint": "名词にします",
+      "japanese": "部屋はシングルにしますか、ツインにしますか。",
+      "chinese": "房间是要单人间还是双人间？"
+    },
+    {
+      "id": "g-044-0015",
+      "lessonNumber": 44,
+      "grammarPoint": "名词にします",
+      "japanese": "会議はあしたにします。",
+      "chinese": "会议明天开。"
+    },
+    {
+      "id": "g-045-0001",
+      "lessonNumber": 45,
+      "grammarPoint": "{动词字典形/动词ない形ない/动词た形/い形容词（〜い）/な形容词な/名词の}場合は、〜",
+      "japanese": "会議にまに合わない場合は、連絡してください。",
+      "chinese": "如果赶不上开会的话，请联系一下。"
+    },
+    {
+      "id": "g-045-0002",
+      "lessonNumber": 45,
+      "grammarPoint": "{动词字典形/动词ない形ない/动词た形/い形容词（〜い）/な形容词な/名词の}場合は、〜",
+      "japanese": "時間に遅れた場合は、会場に入れません。",
+      "chinese": "如果晚了的话，就进不去会场了。"
+    },
+    {
+      "id": "g-045-0003",
+      "lessonNumber": 45,
+      "grammarPoint": "{动词字典形/动词ない形ない/动词た形/い形容词（〜い）/な形容词な/名词の}場合は、〜",
+      "japanese": "パソコンの調子が悪い場合は、どうしたらいいですか。",
+      "chinese": "电脑不好用时，该怎么办？"
+    },
+    {
+      "id": "g-045-0004",
+      "lessonNumber": 45,
+      "grammarPoint": "{动词字典形/动词ない形ない/动词た形/い形容词（〜い）/な形容词な/名词の}場合は、〜",
+      "japanese": "領収書が必要な場合は、言ってください。",
+      "chinese": "需要收据时，请说一声。"
+    },
+    {
+      "id": "g-045-0005",
+      "lessonNumber": 45,
+      "grammarPoint": "{动词字典形/动词ない形ない/动词た形/い形容词（〜い）/な形容词な/名词の}場合は、〜",
+      "japanese": "火事や地震の場合は、エレベーターを使わないでください。",
+      "chinese": "发生火灾和地震时，请不要使用电梯。"
+    },
+    {
+      "id": "g-045-0006",
+      "lessonNumber": 45,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}のに、〜",
+      "japanese": "約束をしたのに、彼女は来ませんでした。",
+      "chinese": "事先约好了，可她却没来。"
+    },
+    {
+      "id": "g-045-0007",
+      "lessonNumber": 45,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}のに、〜",
+      "japanese": "きょうは日曜日なのに、働かなければなりません。",
+      "chinese": "虽然今天是星期天，可还得工作。"
+    },
+    {
+      "id": "g-045-0008",
+      "lessonNumber": 45,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}のに、〜",
+      "japanese": "約束をしましたが、彼女は来ませんでした。",
+      "chinese": "约好了，但是她没来。"
+    },
+    {
+      "id": "g-045-0009",
+      "lessonNumber": 45,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}のに、〜",
+      "japanese": "きょうは日曜日ですが、働かなければなりません。",
+      "chinese": "今天是星期天，但是必须工作。"
+    },
+    {
+      "id": "g-045-0010",
+      "lessonNumber": 45,
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}のに、〜",
+      "japanese": "あした雨が降っても、サッカーをします。",
+      "chinese": "明天即使下雨，我也要去踢足球。"
+    },
+    {
+      "id": "g-046-0001",
+      "lessonNumber": 46,
+      "grammarPoint": "动词字典形ところです",
+      "japanese": "昼ごはんはもう食べましたか。\nいいえ、これから食べるところです。",
+      "chinese": "吃过午饭了吗？\n没有，正要吃呢。"
+    },
+    {
+      "id": "g-046-0002",
+      "lessonNumber": 46,
+      "grammarPoint": "动词字典形ところです",
+      "japanese": "会議はもう始まりましたか。\nいいえ、今から始まるところです。",
+      "chinese": "会议已经开始了吗？\n没有，正要开始。"
+    },
+    {
+      "id": "g-046-0003",
+      "lessonNumber": 46,
+      "grammarPoint": "动词字典形ところです",
+      "japanese": "もしもし田中ですが、今いいでしょうか。\nすみません。今から出かけるところなんです。",
+      "chinese": "喂喂，我是田中，现在方便吗？\n对不起，我正要出门。"
+    },
+    {
+      "id": "g-046-0004",
+      "lessonNumber": 46,
+      "grammarPoint": "动词て形いるところです",
+      "japanese": "故障の原因がわかりましたか。\nいいえ、調べているところです。",
+      "chinese": "故障的原因弄清楚了吗？\n没有，现在正在查呢。"
+    },
+    {
+      "id": "g-046-0005",
+      "lessonNumber": 46,
+      "grammarPoint": "动词た形ところです",
+      "japanese": "渡辺さんはいますか。\nあ、たった今帰ったところです。",
+      "chinese": "渡边小姐在吗？\n啊，她刚回去。"
+    },
+    {
+      "id": "g-046-0006",
+      "lessonNumber": 46,
+      "grammarPoint": "动词た形ところです",
+      "japanese": "たった今バスが出たところです。",
+      "chinese": "公共汽车刚走。"
+    },
+    {
+      "id": "g-046-0007",
+      "lessonNumber": 46,
+      "grammarPoint": "动词た形ばかりです",
+      "japanese": "さっき昼ごはんを食べたばかりです。",
+      "chinese": "我刚吃过午饭。"
+    },
+    {
+      "id": "g-046-0008",
+      "lessonNumber": 46,
+      "grammarPoint": "动词た形ばかりです",
+      "japanese": "木村さんは先月この会社に入ったばかりです。",
+      "chinese": "木村上个月刚进这家公司。"
+    },
+    {
+      "id": "g-046-0009",
+      "lessonNumber": 46,
+      "grammarPoint": "动词た形ばかりです",
+      "japanese": "このビデオは先週買ったばかりなのに、調子がおかしいです。",
+      "chinese": "这台摄像机上个星期刚买的，就有点儿毛病了。"
+    },
+    {
+      "id": "g-046-0010",
+      "lessonNumber": 46,
+      "grammarPoint": "{动词字典形/动词ない形ない/い形容词（〜い）/な形容词な/名词の}はずです",
+      "japanese": "ミラーさんはきょう来るでしょうか。\n来るはずですよ。きのう電話がありましたから。",
+      "chinese": "米勒今天会来吗？\n应该会来的。因为他昨天打来过电话。"
+    },
+    {
+      "id": "g-047-0001",
+      "lessonNumber": 47,
+      "grammarPoint": "普通形そうです",
+      "japanese": "天気予報によると、あしたは寒くなるそうです。",
+      "chinese": "据天气预报说，明天要降温。"
+    },
+    {
+      "id": "g-047-0002",
+      "lessonNumber": 47,
+      "grammarPoint": "普通形そうです",
+      "japanese": "クララさんは子どものとき、フランスに住んでいたそうです。",
+      "chinese": "听说克拉拉小姐小时候住在法国。"
+    },
+    {
+      "id": "g-047-0003",
+      "lessonNumber": 47,
+      "grammarPoint": "普通形そうです",
+      "japanese": "バリはとてもきれいだそうです。",
+      "chinese": "听说巴厘岛很漂亮。"
+    },
+    {
+      "id": "g-047-0004",
+      "lessonNumber": 47,
+      "grammarPoint": "普通形そうです",
+      "japanese": "雨が降りそうです。",
+      "chinese": "好像要下雨了。"
+    },
+    {
+      "id": "g-047-0005",
+      "lessonNumber": 47,
+      "grammarPoint": "普通形そうです",
+      "japanese": "雨が降るそうです。",
+      "chinese": "听说要下雨。"
+    },
+    {
+      "id": "g-047-0006",
+      "lessonNumber": 47,
+      "grammarPoint": "普通形そうです",
+      "japanese": "この料理はおいしそうです。",
+      "chinese": "这道菜看上去很好吃。"
+    },
+    {
+      "id": "g-047-0007",
+      "lessonNumber": 47,
+      "grammarPoint": "普通形そうです",
+      "japanese": "この料理はおいしいそうです。",
+      "chinese": "听说这道菜很好吃。"
+    },
+    {
+      "id": "g-047-0008",
+      "lessonNumber": 47,
+      "grammarPoint": "普通形そうです",
+      "japanese": "ミラーさんはあした京都へ行くそうです。",
+      "chinese": "听说米勒明天去京都。"
+    },
+    {
+      "id": "g-047-0009",
+      "lessonNumber": 47,
+      "grammarPoint": "普通形そうです",
+      "japanese": "ミラーさんはあした京都へ行くと言っていました。",
+      "chinese": "米勒说他明天去京都。"
+    },
+    {
+      "id": "g-047-0010",
+      "lessonNumber": 47,
+      "grammarPoint": "{{动词/い形容词}普通形/な形容词普通形〜<s>だ</s>→〜な/名词普通形〜<s>だ</s>→〜の}ようです",
+      "japanese": "人が大勢集まっていますね。\n事故のようですね。パトカーと救急車が来ていますよ。",
+      "chinese": "聚集了好多人啊。\n好像发生事故了。警车和急救车都来了。"
+    },
+    {
+      "id": "g-047-0011",
+      "lessonNumber": 47,
+      "grammarPoint": "{{动词/い形容词}普通形/な形容词普通形〜<s>だ</s>→〜な/名词普通形〜<s>だ</s>→〜の}ようです",
+      "japanese": "せきも出るし、頭も痛い。どうもかぜをひいたようだ。",
+      "chinese": "又咳嗽又头疼，好像是感冒了。"
+    },
+    {
+      "id": "g-047-0012",
+      "lessonNumber": 47,
+      "grammarPoint": "{{动词/い形容词}普通形/な形容词普通形〜<s>だ</s>→〜な/名词普通形〜<s>だ</s>→〜の}ようです",
+      "japanese": "ミラーさんは忙しそうです。",
+      "chinese": "米勒看上去很忙。"
+    },
+    {
+      "id": "g-047-0013",
+      "lessonNumber": 47,
+      "grammarPoint": "{{动词/い形容词}普通形/な形容词普通形〜<s>だ</s>→〜な/名词普通形〜<s>だ</s>→〜の}ようです",
+      "japanese": "ミラーさんは忙しいようです。",
+      "chinese": "米勒好像很忙。"
+    },
+    {
+      "id": "g-047-0014",
+      "lessonNumber": 47,
+      "grammarPoint": "声/音/におい/味がします",
+      "japanese": "にぎやかな声がしますね。",
+      "chinese": "声音很热闹。"
+    },
+    {
+      "id": "g-048-0001",
+      "lessonNumber": 48,
+      "grammarPoint": "名词（人）を使役动词（自动词）",
+      "japanese": "部長はミラーさんをアメリカへ出張させます。",
+      "chinese": "部长派米勒去美国出差。"
+    },
+    {
+      "id": "g-048-0002",
+      "lessonNumber": 48,
+      "grammarPoint": "名词（人）を使役动词（自动词）",
+      "japanese": "わたしは娘を自由に遊ばせました。",
+      "chinese": "我让女儿自由自在地玩耍。"
+    },
+    {
+      "id": "g-048-0003",
+      "lessonNumber": 48,
+      "grammarPoint": "名词（人）を使役动词（自动词）",
+      "japanese": "わたしは子どもに道の右側を歩かせます。",
+      "chinese": "我让孩子在道路的右侧走。"
+    },
+    {
+      "id": "g-048-0004",
+      "lessonNumber": 48,
+      "grammarPoint": "名词1（人）に名词2を使役动词（他动词）",
+      "japanese": "朝は忙しいですから、娘に朝ごはんの準備を手伝わせます。",
+      "chinese": "早上很忙，所以我让女儿帮着准备早餐。"
+    },
+    {
+      "id": "g-048-0005",
+      "lessonNumber": 48,
+      "grammarPoint": "名词1（人）に名词2を使役动词（他动词）",
+      "japanese": "先生は生徒に自由に意見を言わせました。",
+      "chinese": "老师让学生自由地发表意见。"
+    },
+    {
+      "id": "g-048-0006",
+      "lessonNumber": 48,
+      "grammarPoint": "使役动词的使用方法",
+      "japanese": "わたしは部長に説明していただきました。",
+      "chinese": "我请部长进行了说明。"
+    },
+    {
+      "id": "g-048-0007",
+      "lessonNumber": 48,
+      "grammarPoint": "使役动词的使用方法",
+      "japanese": "わたしは友達に説明してもらいました。",
+      "chinese": "我让朋友进行了说明。"
+    },
+    {
+      "id": "g-048-0008",
+      "lessonNumber": 48,
+      "grammarPoint": "使役动词て形いただけませんか",
+      "japanese": "いい先生を紹介していただけませんか。",
+      "chinese": "能帮我介绍一位好老师吗？"
+    },
+    {
+      "id": "g-048-0009",
+      "lessonNumber": 48,
+      "grammarPoint": "使役动词て形いただけませんか",
+      "japanese": "友達の結婚式があるので、早く帰らせていただけませんか。",
+      "chinese": "因为有朋友的婚礼，能允许我早走一会儿吗？"
+    },
+    {
+      "id": "g-049-0001",
+      "lessonNumber": 49,
+      "grammarPoint": "尊敬动词",
+      "japanese": "中村さんは7時に来られます。",
+      "chinese": "中村先生7点来。"
+    },
+    {
+      "id": "g-049-0002",
+      "lessonNumber": 49,
+      "grammarPoint": "尊敬动词",
+      "japanese": "お酒をやめられたんですか。",
+      "chinese": "您戒酒了吗？"
+    },
+    {
+      "id": "g-049-0003",
+      "lessonNumber": 49,
+      "grammarPoint": "お动词ます形になります",
+      "japanese": "社長はもうお帰りになりました。",
+      "chinese": "总经理已经回去了。"
+    },
+    {
+      "id": "g-049-0004",
+      "lessonNumber": 49,
+      "grammarPoint": "特殊尊敬语",
+      "japanese": "ワット先生は研究室にいらっしゃいます。",
+      "chinese": "瓦特老师在研究室。"
+    },
+    {
+      "id": "g-049-0005",
+      "lessonNumber": 49,
+      "grammarPoint": "特殊尊敬语",
+      "japanese": "どうぞ召し上がってください。",
+      "chinese": "请用餐吧。"
+    },
+    {
+      "id": "g-049-0006",
+      "lessonNumber": 49,
+      "grammarPoint": "お/ご〜ください",
+      "japanese": "どうぞお入りください。",
+      "chinese": "请进。"
+    },
+    {
+      "id": "g-049-0007",
+      "lessonNumber": 49,
+      "grammarPoint": "お/ご〜ください",
+      "japanese": "忘れ物にご注意ください。",
+      "chinese": "请注意别忘了东西。"
+    },
+    {
+      "id": "g-049-0008",
+      "lessonNumber": 49,
+      "grammarPoint": "お/ご〜ください",
+      "japanese": "またいらっしゃってください。",
+      "chinese": "欢迎再来。"
+    },
+    {
+      "id": "g-049-0009",
+      "lessonNumber": 49,
+      "grammarPoint": "名词、形容词、副词<br>お/ご〜",
+      "japanese": "部長の奥様もごいっしょにゴルフに行かれます。",
+      "chinese": "部长夫人也一起去打高尔夫球。"
+    },
+    {
+      "id": "g-049-0010",
+      "lessonNumber": 49,
+      "grammarPoint": "敬语与文体",
+      "japanese": "部長は何時にいらっしゃる？",
+      "chinese": "部长什么时候来？"
+    },
+    {
+      "id": "g-049-0011",
+      "lessonNumber": 49,
+      "grammarPoint": "〜まして",
+      "japanese": "ハンスがゆうべ熱を出しまして、けさもまだ下がらないんです。",
+      "chinese": "汉斯从昨天晚上开始发烧，到今天早上也还没退烧。"
+    },
+    {
+      "id": "g-049-0012",
+      "lessonNumber": 49,
+      "grammarPoint": "〜ますので",
+      "japanese": "きょうは学校を休ませますので、先生によろしくお伝えください。",
+      "chinese": "今天就不让他去学校了，请转告一下老师。"
+    },
+    {
+      "id": "g-050-0001",
+      "lessonNumber": 50,
+      "grammarPoint": "お动词（I/II 类）ます形します",
+      "japanese": "重そうですね。お持ちしましょうか。",
+      "chinese": "看着挺重的，我来帮您拿吧。"
+    },
+    {
+      "id": "g-050-0002",
+      "lessonNumber": 50,
+      "grammarPoint": "お动词（I/II 类）ます形します",
+      "japanese": "私が社長にスケジュールをお知らせします。",
+      "chinese": "我向总经理报告日程。"
+    },
+    {
+      "id": "g-050-0003",
+      "lessonNumber": 50,
+      "grammarPoint": "お动词（I/II 类）ます形します",
+      "japanese": "兄が車でお送りします。",
+      "chinese": "哥哥会用车送您。"
+    },
+    {
+      "id": "g-050-0004",
+      "lessonNumber": 50,
+      "grammarPoint": "ご动词（III 类）",
+      "japanese": "江戸東京博物館へご案内します。",
+      "chinese": "我带您去江户东京博物馆。"
+    },
+    {
+      "id": "g-050-0005",
+      "lessonNumber": 50,
+      "grammarPoint": "ご动词（III 类）",
+      "japanese": "きょうの予定をご説明します。",
+      "chinese": "我来说一下今天的安排。"
+    },
+    {
+      "id": "g-050-0006",
+      "lessonNumber": 50,
+      "grammarPoint": "特殊谦逊语",
+      "japanese": "社長の奥様にお目にかかりました。",
+      "chinese": "我见到总经理夫人了。"
+    },
+    {
+      "id": "g-050-0007",
+      "lessonNumber": 50,
+      "grammarPoint": "特殊谦逊语",
+      "japanese": "あしたはだれが手伝いに来てくれますか。\n私が伺います。",
+      "chinese": "明天谁来帮我一下？\n我来。"
+    },
+    {
+      "id": "g-050-0008",
+      "lessonNumber": 50,
+      "grammarPoint": "謙譲語 II",
+      "japanese": "私はミラーと申します。",
+      "chinese": "我叫米勒。"
+    },
+    {
+      "id": "g-050-0009",
+      "lessonNumber": 50,
+      "grammarPoint": "謙譲語 II",
+      "japanese": "アメリカから参りました。",
+      "chinese": "我是从美国来的。"
+    }
+  ],
+  "grammarPoints": [
+    {
+      "grammarPoint": "〜さん",
+      "lessonNumber": 1,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-001-0008",
+        "g-001-0009"
+      ]
+    },
+    {
+      "grammarPoint": "名词1の名词2",
+      "lessonNumber": 1,
+      "exampleCount": 8,
+      "exampleIds": [
+        "g-001-0007",
+        "g-002-0009",
+        "g-002-0010",
+        "g-002-0011",
+        "g-002-0012",
+        "g-002-0013",
+        "g-003-0008",
+        "g-037-0012"
+      ]
+    },
+    {
+      "grammarPoint": "名词1は名词2じゃ（では）ありません",
+      "lessonNumber": 1,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-001-0003"
+      ]
+    },
+    {
+      "grammarPoint": "名词1は名词2です",
+      "lessonNumber": 1,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-001-0001",
+        "g-001-0002"
+      ]
+    },
+    {
+      "grammarPoint": "名词1は名词2ですか（疑问句）",
+      "lessonNumber": 1,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-001-0004",
+        "g-001-0005",
+        "g-001-0010"
+      ]
+    },
+    {
+      "grammarPoint": "名词も",
+      "lessonNumber": 1,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-001-0006"
+      ]
+    },
+    {
+      "grammarPoint": "〜か、〜か",
+      "lessonNumber": 2,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-002-0008"
+      ]
+    },
+    {
+      "grammarPoint": "この名词/その名词/あの名词",
+      "lessonNumber": 2,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-002-0003",
+        "g-002-0004"
+      ]
+    },
+    {
+      "grammarPoint": "これ/それ/あれ",
+      "lessonNumber": 2,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-002-0001",
+        "g-002-0002"
+      ]
+    },
+    {
+      "grammarPoint": "そうです",
+      "lessonNumber": 2,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-002-0005",
+        "g-002-0006",
+        "g-002-0007"
+      ]
+    },
+    {
+      "grammarPoint": "そうですか",
+      "lessonNumber": 2,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-002-0014"
+      ]
+    },
+    {
+      "grammarPoint": "お〜",
+      "lessonNumber": 3,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-003-0009"
+      ]
+    },
+    {
+      "grammarPoint": "どこ/どちら",
+      "lessonNumber": 3,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-003-0004",
+        "g-003-0005",
+        "g-003-0006",
+        "g-003-0007"
+      ]
+    },
+    {
+      "grammarPoint": "名词は场所です",
+      "lessonNumber": 3,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-003-0001",
+        "g-003-0002",
+        "g-003-0003"
+      ]
+    },
+    {
+      "grammarPoint": "ね",
+      "lessonNumber": 4,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-004-0018",
+        "g-004-0019"
+      ]
+    },
+    {
+      "grammarPoint": "今‐時‐分です",
+      "lessonNumber": 4,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-004-0001"
+      ]
+    },
+    {
+      "grammarPoint": "动词ます/动词ません/动词ました/动词ませんでした",
+      "lessonNumber": 4,
+      "exampleCount": 6,
+      "exampleIds": [
+        "g-004-0002",
+        "g-004-0003",
+        "g-004-0004",
+        "g-004-0005",
+        "g-004-0006",
+        "g-004-0007"
+      ]
+    },
+    {
+      "grammarPoint": "名词1から名词2まで",
+      "lessonNumber": 4,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-004-0012",
+        "g-004-0013",
+        "g-004-0014",
+        "g-004-0015",
+        "g-004-0016"
+      ]
+    },
+    {
+      "grammarPoint": "名词1と名词2",
+      "lessonNumber": 4,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-004-0017"
+      ]
+    },
+    {
+      "grammarPoint": "名词（时间）に动词",
+      "lessonNumber": 4,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-004-0008",
+        "g-004-0009",
+        "g-004-0010",
+        "g-004-0011"
+      ]
+    },
+    {
+      "grammarPoint": "〜よ",
+      "lessonNumber": 5,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-005-0014",
+        "g-005-0015",
+        "g-005-0016"
+      ]
+    },
+    {
+      "grammarPoint": "いつ",
+      "lessonNumber": 5,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-005-0012",
+        "g-005-0013"
+      ]
+    },
+    {
+      "grammarPoint": "そうですね",
+      "lessonNumber": 5,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-005-0017",
+        "g-008-0016"
+      ]
+    },
+    {
+      "grammarPoint": "どこ［へ］も行きません/行きませんでした",
+      "lessonNumber": 5,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-005-0004",
+        "g-005-0005",
+        "g-005-0006"
+      ]
+    },
+    {
+      "grammarPoint": "名词（交通工具）で行きます/来ます/帰ります",
+      "lessonNumber": 5,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-005-0007",
+        "g-005-0008",
+        "g-005-0009"
+      ]
+    },
+    {
+      "grammarPoint": "名词（人/动物）と动词",
+      "lessonNumber": 5,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-005-0010",
+        "g-005-0011"
+      ]
+    },
+    {
+      "grammarPoint": "名词（场所）へ行きます/来ます/帰ります",
+      "lessonNumber": 5,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-005-0001",
+        "g-005-0002",
+        "g-005-0003"
+      ]
+    },
+    {
+      "grammarPoint": "〜か",
+      "lessonNumber": 6,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-006-0015"
+      ]
+    },
+    {
+      "grammarPoint": "なん和なに",
+      "lessonNumber": 6,
+      "exampleCount": 7,
+      "exampleIds": [
+        "g-006-0004",
+        "g-006-0005",
+        "g-006-0006",
+        "g-006-0007",
+        "g-006-0008",
+        "g-006-0009",
+        "g-006-0010"
+      ]
+    },
+    {
+      "grammarPoint": "何をしますか",
+      "lessonNumber": 6,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-006-0002",
+        "g-006-0003"
+      ]
+    },
+    {
+      "grammarPoint": "动词ましょう",
+      "lessonNumber": 6,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-006-0013",
+        "g-006-0014"
+      ]
+    },
+    {
+      "grammarPoint": "动词ませんか",
+      "lessonNumber": 6,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-006-0012"
+      ]
+    },
+    {
+      "grammarPoint": "名词を动词（他动词）",
+      "lessonNumber": 6,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-006-0001"
+      ]
+    },
+    {
+      "grammarPoint": "名词（场所）で动词",
+      "lessonNumber": 6,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-006-0011"
+      ]
+    },
+    {
+      "grammarPoint": "もう动词ました",
+      "lessonNumber": 7,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-007-0013"
+      ]
+    },
+    {
+      "grammarPoint": "助词的省略",
+      "lessonNumber": 7,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-007-0014",
+        "g-007-0015"
+      ]
+    },
+    {
+      "grammarPoint": "名词(工具/手段)で动词",
+      "lessonNumber": 7,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-007-0001",
+        "g-007-0002"
+      ]
+    },
+    {
+      "grammarPoint": "名词1(人)に名词2をあげます等",
+      "lessonNumber": 7,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-007-0005",
+        "g-007-0006",
+        "g-007-0007"
+      ]
+    },
+    {
+      "grammarPoint": "名词1(人)に名词2をもらいます等",
+      "lessonNumber": 7,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-007-0008",
+        "g-007-0009",
+        "g-007-0010",
+        "g-007-0011",
+        "g-007-0012"
+      ]
+    },
+    {
+      "grammarPoint": "词/句は〜語で何ですか",
+      "lessonNumber": 7,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-007-0003",
+        "g-007-0004"
+      ]
+    },
+    {
+      "grammarPoint": "〜が、〜",
+      "lessonNumber": 8,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-008-0009"
+      ]
+    },
+    {
+      "grammarPoint": "とても/あまり",
+      "lessonNumber": 8,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-008-0010",
+        "g-008-0011",
+        "g-008-0012",
+        "g-008-0013"
+      ]
+    },
+    {
+      "grammarPoint": "な形容词な名词<br>い形容词(〜い)名词",
+      "lessonNumber": 8,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-008-0005",
+        "g-008-0006",
+        "g-008-0007",
+        "g-008-0008"
+      ]
+    },
+    {
+      "grammarPoint": "名词1はどんな名词2ですか",
+      "lessonNumber": 8,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-008-0015"
+      ]
+    },
+    {
+      "grammarPoint": "名词はどうですか",
+      "lessonNumber": 8,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-008-0014"
+      ]
+    },
+    {
+      "grammarPoint": "名词はな形容词［<s>な</s>］です<br>名词はい形容词(〜い)です",
+      "lessonNumber": 8,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-008-0001",
+        "g-008-0002",
+        "g-008-0003",
+        "g-008-0004"
+      ]
+    },
+    {
+      "grammarPoint": "〜から、〜",
+      "lessonNumber": 9,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-009-0012",
+        "g-009-0013"
+      ]
+    },
+    {
+      "grammarPoint": "どうして",
+      "lessonNumber": 9,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-009-0014",
+        "g-009-0015"
+      ]
+    },
+    {
+      "grammarPoint": "どんな名词",
+      "lessonNumber": 9,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-009-0004"
+      ]
+    },
+    {
+      "grammarPoint": "よく/だいたい/たくさん/少し/あまり/全然",
+      "lessonNumber": 9,
+      "exampleCount": 7,
+      "exampleIds": [
+        "g-009-0005",
+        "g-009-0006",
+        "g-009-0007",
+        "g-009-0008",
+        "g-009-0009",
+        "g-009-0010",
+        "g-009-0011"
+      ]
+    },
+    {
+      "grammarPoint": "名词があります/わかります<br>名词が好きです/嫌いです/上手です/下手です",
+      "lessonNumber": 9,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-009-0001",
+        "g-009-0002",
+        "g-009-0003"
+      ]
+    },
+    {
+      "grammarPoint": "アジアストアですか",
+      "lessonNumber": 10,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-010-0021"
+      ]
+    },
+    {
+      "grammarPoint": "名词1や名词2",
+      "lessonNumber": 10,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-010-0019",
+        "g-010-0020"
+      ]
+    },
+    {
+      "grammarPoint": "名词1（物/人/场所）の名词2（位置）",
+      "lessonNumber": 10,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-010-0015",
+        "g-010-0016",
+        "g-010-0017",
+        "g-010-0018"
+      ]
+    },
+    {
+      "grammarPoint": "名词があります/います",
+      "lessonNumber": 10,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-010-0001",
+        "g-010-0002",
+        "g-010-0003",
+        "g-010-0004",
+        "g-010-0005"
+      ]
+    },
+    {
+      "grammarPoint": "名词は场所にあります/います",
+      "lessonNumber": 10,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-010-0010",
+        "g-010-0011",
+        "g-010-0012",
+        "g-010-0013",
+        "g-010-0014"
+      ]
+    },
+    {
+      "grammarPoint": "场所に名词があります/います",
+      "lessonNumber": 10,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-010-0006",
+        "g-010-0007",
+        "g-010-0008",
+        "g-010-0009"
+      ]
+    },
+    {
+      "grammarPoint": "数量词だけ/名词だけ",
+      "lessonNumber": 11,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-011-0012",
+        "g-011-0013"
+      ]
+    },
+    {
+      "grammarPoint": "数量词的用法",
+      "lessonNumber": 11,
+      "exampleCount": 10,
+      "exampleIds": [
+        "g-011-0001",
+        "g-011-0002",
+        "g-011-0003",
+        "g-011-0004",
+        "g-011-0005",
+        "g-011-0006",
+        "g-011-0007",
+        "g-011-0008",
+        "g-011-0009",
+        "g-011-0010"
+      ]
+    },
+    {
+      "grammarPoint": "数量词（期间）に～回动词",
+      "lessonNumber": 11,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-011-0011"
+      ]
+    },
+    {
+      "grammarPoint": "い形容词句的时态：肯定・否定",
+      "lessonNumber": 12,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-012-0003",
+        "g-012-0004"
+      ]
+    },
+    {
+      "grammarPoint": "名词1と名词2とどちらが形容词ですか<br>名词1/名词2のほうが形容词です",
+      "lessonNumber": 12,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-012-0006",
+        "g-012-0007",
+        "g-012-0008",
+        "g-012-0009"
+      ]
+    },
+    {
+      "grammarPoint": "名词1は名词2より形容词です",
+      "lessonNumber": 12,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-012-0005"
+      ]
+    },
+    {
+      "grammarPoint": "名词1［の中］で{何/どれ/だれ/いつ}がいちばん形容词ですか<br>名词2がいちばん形容词です",
+      "lessonNumber": 12,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-012-0010",
+        "g-012-0011",
+        "g-012-0012",
+        "g-012-0013"
+      ]
+    },
+    {
+      "grammarPoint": "名词句、な形容词句的时态：肯定・否定",
+      "lessonNumber": 12,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-012-0001",
+        "g-012-0002"
+      ]
+    },
+    {
+      "grammarPoint": "形容词の（代替名词使用的「の」）",
+      "lessonNumber": 12,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-012-0014"
+      ]
+    },
+    {
+      "grammarPoint": "「ご」表示敬意。",
+      "lessonNumber": 13,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-013-0014"
+      ]
+    },
+    {
+      "grammarPoint": "どこか/何か",
+      "lessonNumber": 13,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-013-0012",
+        "g-013-0013"
+      ]
+    },
+    {
+      "grammarPoint": "动词ます形たいです",
+      "lessonNumber": 13,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-013-0004",
+        "g-013-0005",
+        "g-013-0006",
+        "g-013-0007"
+      ]
+    },
+    {
+      "grammarPoint": "名词が欲しいです",
+      "lessonNumber": 13,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-013-0001",
+        "g-013-0002",
+        "g-013-0003"
+      ]
+    },
+    {
+      "grammarPoint": "名词（场所）へ{动词ます形/名词}に行きます/来ます/帰ります",
+      "lessonNumber": 13,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-013-0008",
+        "g-013-0009",
+        "g-013-0010",
+        "g-013-0011"
+      ]
+    },
+    {
+      "grammarPoint": "すみませんが",
+      "lessonNumber": 14,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-014-0011",
+        "g-014-0012"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形います",
+      "lessonNumber": 14,
+      "exampleCount": 16,
+      "exampleIds": [
+        "g-014-0004",
+        "g-014-0005",
+        "g-015-0005",
+        "g-015-0006",
+        "g-015-0007",
+        "g-015-0008",
+        "g-015-0009",
+        "g-015-0010",
+        "g-015-0011",
+        "g-015-0012",
+        "g-015-0013",
+        "g-028-0003",
+        "g-028-0004",
+        "g-029-0001",
+        "g-029-0002",
+        "g-029-0003"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形ください",
+      "lessonNumber": 14,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-014-0001",
+        "g-014-0002",
+        "g-014-0003"
+      ]
+    },
+    {
+      "grammarPoint": "动词ます形ましょうか",
+      "lessonNumber": 14,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-014-0006",
+        "g-014-0007",
+        "g-014-0008",
+        "g-022-0014"
+      ]
+    },
+    {
+      "grammarPoint": "名词が动词",
+      "lessonNumber": 14,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-014-0009",
+        "g-014-0010"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形はいけません",
+      "lessonNumber": 15,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-015-0004"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形もいいですか",
+      "lessonNumber": 15,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-015-0001",
+        "g-015-0002",
+        "g-015-0003"
+      ]
+    },
+    {
+      "grammarPoint": "名词1に名词2を动词",
+      "lessonNumber": 15,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-015-0017",
+        "g-015-0018"
+      ]
+    },
+    {
+      "grammarPoint": "名词に动词",
+      "lessonNumber": 15,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-015-0014",
+        "g-015-0015",
+        "g-015-0016",
+        "g-041-0016",
+        "g-041-0017"
+      ]
+    },
+    {
+      "grammarPoint": "どうやって",
+      "lessonNumber": 16,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-016-0016"
+      ]
+    },
+    {
+      "grammarPoint": "どれ/どの名词",
+      "lessonNumber": 16,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-016-0017",
+        "g-016-0018"
+      ]
+    },
+    {
+      "grammarPoint": "动词1て形から、动词2",
+      "lessonNumber": 16,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-016-0009",
+        "g-016-0010"
+      ]
+    },
+    {
+      "grammarPoint": "名词1は名词2が形容词",
+      "lessonNumber": 16,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-016-0011",
+        "g-016-0012",
+        "g-016-0013"
+      ]
+    },
+    {
+      "grammarPoint": "名词を动词",
+      "lessonNumber": 16,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-016-0014",
+        "g-016-0015"
+      ]
+    },
+    {
+      "grammarPoint": "连接两个以上句子的方法",
+      "lessonNumber": 16,
+      "exampleCount": 8,
+      "exampleIds": [
+        "g-016-0001",
+        "g-016-0002",
+        "g-016-0003",
+        "g-016-0004",
+        "g-016-0005",
+        "g-016-0006",
+        "g-016-0007",
+        "g-016-0008"
+      ]
+    },
+    {
+      "grammarPoint": "动词ない形ないでください",
+      "lessonNumber": 17,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-017-0001",
+        "g-017-0002"
+      ]
+    },
+    {
+      "grammarPoint": "动词ない形なくてもいいです",
+      "lessonNumber": 17,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-017-0004"
+      ]
+    },
+    {
+      "grammarPoint": "动词ない形なければなりません",
+      "lessonNumber": 17,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-017-0003"
+      ]
+    },
+    {
+      "grammarPoint": "名词（时间）までに动词",
+      "lessonNumber": 17,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-017-0007",
+        "g-017-0008",
+        "g-017-0009"
+      ]
+    },
+    {
+      "grammarPoint": "宾语的主题化",
+      "lessonNumber": 17,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-017-0005",
+        "g-017-0006"
+      ]
+    },
+    {
+      "grammarPoint": "{动词1字典形/名词の/数量词（期间）}まえに、动词2",
+      "lessonNumber": 18,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-018-0007",
+        "g-018-0008",
+        "g-018-0009",
+        "g-018-0010"
+      ]
+    },
+    {
+      "grammarPoint": "{名词/动词字典形こと}ができます",
+      "lessonNumber": 18,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-018-0001",
+        "g-018-0002",
+        "g-018-0003",
+        "g-018-0004"
+      ]
+    },
+    {
+      "grammarPoint": "ぜひ",
+      "lessonNumber": 18,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-018-0012",
+        "g-018-0013"
+      ]
+    },
+    {
+      "grammarPoint": "なかなか",
+      "lessonNumber": 18,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-018-0011"
+      ]
+    },
+    {
+      "grammarPoint": "わたしの趣味は{名词/动词字典形こと}です",
+      "lessonNumber": 18,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-018-0005",
+        "g-018-0006"
+      ]
+    },
+    {
+      "grammarPoint": "{い形容词（～<s>い</s>）→～く/な形容词［<s>な</s>］→～に/名词に}なります",
+      "lessonNumber": 19,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-019-0006",
+        "g-019-0007",
+        "g-019-0008"
+      ]
+    },
+    {
+      "grammarPoint": "动词1た形り、动词2た形りします",
+      "lessonNumber": 19,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-019-0003",
+        "g-019-0004",
+        "g-019-0005"
+      ]
+    },
+    {
+      "grammarPoint": "动词た形ことがあります",
+      "lessonNumber": 19,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-019-0001",
+        "g-019-0002"
+      ]
+    },
+    {
+      "grammarPoint": "简体的会话",
+      "lessonNumber": 20,
+      "exampleCount": 9,
+      "exampleIds": [
+        "g-020-0001",
+        "g-020-0002",
+        "g-020-0003",
+        "g-020-0004",
+        "g-020-0005",
+        "g-020-0006",
+        "g-020-0007",
+        "g-020-0008",
+        "g-020-0009"
+      ]
+    },
+    {
+      "grammarPoint": "{“句子”/普通形}と思います",
+      "lessonNumber": 21,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-021-0007",
+        "g-021-0008",
+        "g-021-0009",
+        "g-021-0010"
+      ]
+    },
+    {
+      "grammarPoint": "{动词普通形/い形容词普通形/な形容词普通形〜<s>だ</s>/名词普通形〜<s>だ</s>}でしょう?",
+      "lessonNumber": 21,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-021-0011",
+        "g-021-0012"
+      ]
+    },
+    {
+      "grammarPoint": "动词ない形ないと……",
+      "lessonNumber": 21,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-021-0016"
+      ]
+    },
+    {
+      "grammarPoint": "名词1（场所）で名词2があります",
+      "lessonNumber": 21,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-021-0013"
+      ]
+    },
+    {
+      "grammarPoint": "名词でも动词",
+      "lessonNumber": 21,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-021-0015"
+      ]
+    },
+    {
+      "grammarPoint": "名词（场所）で",
+      "lessonNumber": 21,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-021-0014"
+      ]
+    },
+    {
+      "grammarPoint": "普通形と思います",
+      "lessonNumber": 21,
+      "exampleCount": 6,
+      "exampleIds": [
+        "g-021-0001",
+        "g-021-0002",
+        "g-021-0003",
+        "g-021-0004",
+        "g-021-0005",
+        "g-021-0006"
+      ]
+    },
+    {
+      "grammarPoint": "动词字典形時間/約束/用事",
+      "lessonNumber": 22,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-022-0011",
+        "g-022-0012",
+        "g-022-0013"
+      ]
+    },
+    {
+      "grammarPoint": "名词修饰句节",
+      "lessonNumber": 22,
+      "exampleCount": 10,
+      "exampleIds": [
+        "g-022-0001",
+        "g-022-0002",
+        "g-022-0003",
+        "g-022-0004",
+        "g-022-0005",
+        "g-022-0006",
+        "g-022-0007",
+        "g-022-0008",
+        "g-022-0009",
+        "g-022-0010"
+      ]
+    },
+    {
+      "grammarPoint": "{动词字典形/动词た形}とき、〜（主句）",
+      "lessonNumber": 23,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-023-0008",
+        "g-023-0009"
+      ]
+    },
+    {
+      "grammarPoint": "{动词字典形/动词ない形ない/い形容词（～い）/な形容词な/名词の}とき、〜（主句）",
+      "lessonNumber": 23,
+      "exampleCount": 7,
+      "exampleIds": [
+        "g-023-0001",
+        "g-023-0002",
+        "g-023-0003",
+        "g-023-0004",
+        "g-023-0005",
+        "g-023-0006",
+        "g-023-0007"
+      ]
+    },
+    {
+      "grammarPoint": "动词字典形と、〜（主句）",
+      "lessonNumber": 23,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-023-0010",
+        "g-023-0011",
+        "g-023-0012"
+      ]
+    },
+    {
+      "grammarPoint": "名词が形容词",
+      "lessonNumber": 23,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-023-0013"
+      ]
+    },
+    {
+      "grammarPoint": "名词を移动动词",
+      "lessonNumber": 23,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-023-0014",
+        "g-023-0015",
+        "g-023-0016"
+      ]
+    },
+    {
+      "grammarPoint": "くれます",
+      "lessonNumber": 24,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-024-0001",
+        "g-024-0002",
+        "g-024-0003"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形{あげます/もらいます/くれます}",
+      "lessonNumber": 24,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-024-0004",
+        "g-024-0005",
+        "g-024-0006",
+        "g-024-0007",
+        "g-024-0008"
+      ]
+    },
+    {
+      "grammarPoint": "名词1は名词2が动词",
+      "lessonNumber": 24,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-024-0009"
+      ]
+    },
+    {
+      "grammarPoint": "{动词て形/动词ない形なくて/い形容词（<s>い</s>）→～くて/な形容词［<s>な</s>］→～で/名词で}も、～（主句）",
+      "lessonNumber": 25,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-025-0008",
+        "g-025-0009",
+        "g-025-0010",
+        "g-025-0011"
+      ]
+    },
+    {
+      "grammarPoint": "もし",
+      "lessonNumber": 25,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-025-0012"
+      ]
+    },
+    {
+      "grammarPoint": "从属句中的主语",
+      "lessonNumber": 25,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-025-0013",
+        "g-025-0014",
+        "g-025-0015"
+      ]
+    },
+    {
+      "grammarPoint": "动词た形ら、～（主句）",
+      "lessonNumber": 25,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-025-0006",
+        "g-025-0007"
+      ]
+    },
+    {
+      "grammarPoint": "普通形过去ら、～（主句）",
+      "lessonNumber": 25,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-025-0001",
+        "g-025-0002",
+        "g-025-0003",
+        "g-025-0004",
+        "g-025-0005"
+      ]
+    },
+    {
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}んです",
+      "lessonNumber": 26,
+      "exampleCount": 10,
+      "exampleIds": [
+        "g-026-0001",
+        "g-026-0002",
+        "g-026-0003",
+        "g-026-0004",
+        "g-026-0005",
+        "g-026-0006",
+        "g-026-0007",
+        "g-026-0008",
+        "g-026-0009",
+        "g-026-0010"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形いただけませんか",
+      "lessonNumber": 26,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-026-0011"
+      ]
+    },
+    {
+      "grammarPoint": "名词（对象）は{好きです/嫌いです/上手です/下手です/あります等等}",
+      "lessonNumber": 26,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-026-0014"
+      ]
+    },
+    {
+      "grammarPoint": "疑问词动词た形らいいですか",
+      "lessonNumber": 26,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-026-0012",
+        "g-026-0013"
+      ]
+    },
+    {
+      "grammarPoint": "しか",
+      "lessonNumber": 27,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-027-0013",
+        "g-027-0014"
+      ]
+    },
+    {
+      "grammarPoint": "できます",
+      "lessonNumber": 27,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-027-0011",
+        "g-027-0012"
+      ]
+    },
+    {
+      "grammarPoint": "可以使用可能动词的句子",
+      "lessonNumber": 27,
+      "exampleCount": 6,
+      "exampleIds": [
+        "g-027-0001",
+        "g-027-0002",
+        "g-027-0003",
+        "g-027-0004",
+        "g-027-0005",
+        "g-027-0006"
+      ]
+    },
+    {
+      "grammarPoint": "名词は（对比）",
+      "lessonNumber": 27,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-027-0015",
+        "g-027-0016"
+      ]
+    },
+    {
+      "grammarPoint": "用来提示带有助词的词语的「は」",
+      "lessonNumber": 27,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-027-0017",
+        "g-027-0018",
+        "g-027-0019"
+      ]
+    },
+    {
+      "grammarPoint": "見えます和聞こえます",
+      "lessonNumber": 27,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-027-0007",
+        "g-027-0008",
+        "g-027-0009",
+        "g-027-0010"
+      ]
+    },
+    {
+      "grammarPoint": "それで",
+      "lessonNumber": 28,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-028-0010",
+        "g-028-0011"
+      ]
+    },
+    {
+      "grammarPoint": "动词1ます形ながら动词2",
+      "lessonNumber": 28,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-028-0001",
+        "g-028-0002"
+      ]
+    },
+    {
+      "grammarPoint": "普通形し、普通形し、～",
+      "lessonNumber": 28,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-028-0005",
+        "g-028-0006",
+        "g-028-0007",
+        "g-028-0008",
+        "g-028-0009"
+      ]
+    },
+    {
+      "grammarPoint": "～とき＋助词",
+      "lessonNumber": 28,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-028-0012",
+        "g-028-0013"
+      ]
+    },
+    {
+      "grammarPoint": "ありました",
+      "lessonNumber": 29,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-029-0015"
+      ]
+    },
+    {
+      "grammarPoint": "それ/その/そう",
+      "lessonNumber": 29,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-029-0010",
+        "g-029-0011",
+        "g-029-0012",
+        "g-029-0013",
+        "g-029-0014"
+      ]
+    },
+    {
+      "grammarPoint": "どこかで/どこかに",
+      "lessonNumber": 29,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-029-0016",
+        "g-029-0017"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形しまいました/しまいます",
+      "lessonNumber": 29,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-029-0004",
+        "g-029-0005",
+        "g-029-0006",
+        "g-029-0007",
+        "g-029-0008"
+      ]
+    },
+    {
+      "grammarPoint": "名词（场所）に行きます/来ます/帰ります",
+      "lessonNumber": 29,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-029-0009"
+      ]
+    },
+    {
+      "grammarPoint": "とか",
+      "lessonNumber": 30,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-030-0014"
+      ]
+    },
+    {
+      "grammarPoint": "まだ＋肯定",
+      "lessonNumber": 30,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-030-0012",
+        "g-030-0013"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形あります",
+      "lessonNumber": 30,
+      "exampleCount": 6,
+      "exampleIds": [
+        "g-030-0001",
+        "g-030-0002",
+        "g-030-0003",
+        "g-030-0004",
+        "g-030-0005",
+        "g-030-0006"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形おきます",
+      "lessonNumber": 30,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-030-0007",
+        "g-030-0008",
+        "g-030-0009",
+        "g-030-0010",
+        "g-030-0011"
+      ]
+    },
+    {
+      "grammarPoint": "格助词＋も",
+      "lessonNumber": 30,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-030-0015",
+        "g-030-0016"
+      ]
+    },
+    {
+      "grammarPoint": "{动词字典形/动词ない形ない}つもりです",
+      "lessonNumber": 31,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-031-0007",
+        "g-031-0008"
+      ]
+    },
+    {
+      "grammarPoint": "{动词字典形/名词の}予定です",
+      "lessonNumber": 31,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-031-0009",
+        "g-031-0010"
+      ]
+    },
+    {
+      "grammarPoint": "まだ动词て形いません",
+      "lessonNumber": 31,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-031-0011",
+        "g-031-0012"
+      ]
+    },
+    {
+      "grammarPoint": "帰ります-帰り",
+      "lessonNumber": 31,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-031-0013",
+        "g-031-0014"
+      ]
+    },
+    {
+      "grammarPoint": "意向形的用法",
+      "lessonNumber": 31,
+      "exampleCount": 6,
+      "exampleIds": [
+        "g-031-0001",
+        "g-031-0002",
+        "g-031-0003",
+        "g-031-0004",
+        "g-031-0005",
+        "g-031-0006"
+      ]
+    },
+    {
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>}かもしれません",
+      "lessonNumber": 32,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-032-0006"
+      ]
+    },
+    {
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>}でしょう",
+      "lessonNumber": 32,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-032-0004",
+        "g-032-0005"
+      ]
+    },
+    {
+      "grammarPoint": "{动词た形/动词ない形ない}ほうがいいです",
+      "lessonNumber": 32,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-032-0001",
+        "g-032-0002",
+        "g-032-0003"
+      ]
+    },
+    {
+      "grammarPoint": "何か心配なこと",
+      "lessonNumber": 32,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-032-0010",
+        "g-032-0011"
+      ]
+    },
+    {
+      "grammarPoint": "动词ます形ましょう",
+      "lessonNumber": 32,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-032-0007"
+      ]
+    },
+    {
+      "grammarPoint": "数量词で",
+      "lessonNumber": 32,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-032-0008",
+        "g-032-0009"
+      ]
+    },
+    {
+      "grammarPoint": "XはYという意味です",
+      "lessonNumber": 33,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-033-0016",
+        "g-033-0017"
+      ]
+    },
+    {
+      "grammarPoint": "{“句子”/普通形}と伝えていただけませんか",
+      "lessonNumber": 33,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-033-0020",
+        "g-033-0021"
+      ]
+    },
+    {
+      "grammarPoint": "{“句子”/普通形}と言っていました",
+      "lessonNumber": 33,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-033-0018",
+        "g-033-0019"
+      ]
+    },
+    {
+      "grammarPoint": "命令形和禁止形的用法",
+      "lessonNumber": 33,
+      "exampleCount": 13,
+      "exampleIds": [
+        "g-033-0001",
+        "g-033-0002",
+        "g-033-0003",
+        "g-033-0004",
+        "g-033-0005",
+        "g-033-0006",
+        "g-033-0007",
+        "g-033-0008",
+        "g-033-0009",
+        "g-033-0010",
+        "g-033-0011",
+        "g-033-0012",
+        "g-033-0013"
+      ]
+    },
+    {
+      "grammarPoint": "～と書いてあります/～と読みます",
+      "lessonNumber": 33,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-033-0014",
+        "g-033-0015"
+      ]
+    },
+    {
+      "grammarPoint": "{动词1た形/名词の}あとで、动词2",
+      "lessonNumber": 34,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-034-0006",
+        "g-034-0007"
+      ]
+    },
+    {
+      "grammarPoint": "{动词1た形/名词の}とおりに、动词2",
+      "lessonNumber": 34,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-034-0001",
+        "g-034-0002",
+        "g-034-0003",
+        "g-034-0004",
+        "g-034-0005"
+      ]
+    },
+    {
+      "grammarPoint": "{动词1て形/动词1ない形ないで}动词2",
+      "lessonNumber": 34,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-034-0008",
+        "g-034-0009",
+        "g-034-0010"
+      ]
+    },
+    {
+      "grammarPoint": "假定形、～",
+      "lessonNumber": 35,
+      "exampleCount": 10,
+      "exampleIds": [
+        "g-035-0001",
+        "g-035-0002",
+        "g-035-0003",
+        "g-035-0004",
+        "g-035-0005",
+        "g-035-0006",
+        "g-035-0007",
+        "g-035-0008",
+        "g-035-0009",
+        "g-035-0010"
+      ]
+    },
+    {
+      "grammarPoint": "名词なら、～",
+      "lessonNumber": 35,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-035-0013"
+      ]
+    },
+    {
+      "grammarPoint": "疑问句动词假定形いいですか",
+      "lessonNumber": 35,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-035-0011",
+        "g-035-0012"
+      ]
+    },
+    {
+      "grammarPoint": "～はありませんか（否定疑问句）",
+      "lessonNumber": 35,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-035-0014"
+      ]
+    },
+    {
+      "grammarPoint": "{动词1字典形/动词1ない形ない}ように、动词2",
+      "lessonNumber": 36,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-036-0001",
+        "g-036-0002"
+      ]
+    },
+    {
+      "grammarPoint": "{动词字典形/动词ない形ない}ようにします",
+      "lessonNumber": 36,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-036-0007",
+        "g-036-0008",
+        "g-036-0009",
+        "g-036-0010",
+        "g-036-0011"
+      ]
+    },
+    {
+      "grammarPoint": "动词字典形ようになります",
+      "lessonNumber": 36,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-036-0003",
+        "g-036-0004",
+        "g-036-0005",
+        "g-036-0006"
+      ]
+    },
+    {
+      "grammarPoint": "早い→早く&nbsp;上手な→上手に",
+      "lessonNumber": 36,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-036-0012"
+      ]
+    },
+    {
+      "grammarPoint": "この/その/あの名词（位置）",
+      "lessonNumber": 37,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-037-0013"
+      ]
+    },
+    {
+      "grammarPoint": "名词1（人1）は名词2（人2）に名词3を被动动词",
+      "lessonNumber": 37,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-037-0004",
+        "g-037-0005",
+        "g-037-0006"
+      ]
+    },
+    {
+      "grammarPoint": "名词1（人1）は名词2（人2）に被动动词",
+      "lessonNumber": 37,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-037-0001",
+        "g-037-0002",
+        "g-037-0003"
+      ]
+    },
+    {
+      "grammarPoint": "名词から/名词でつくります",
+      "lessonNumber": 37,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-037-0010",
+        "g-037-0011"
+      ]
+    },
+    {
+      "grammarPoint": "名词（物/事）が/は被动动词",
+      "lessonNumber": 37,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-037-0007",
+        "g-037-0008",
+        "g-037-0009"
+      ]
+    },
+    {
+      "grammarPoint": "{{动词/い形容词}普通形/{{な形容词/名词1}普通形〜<s>だ</s>→〜な}}のは名词2です",
+      "lessonNumber": 38,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-038-0013",
+        "g-038-0014",
+        "g-038-0015"
+      ]
+    },
+    {
+      "grammarPoint": "动词字典形のが形容词です",
+      "lessonNumber": 38,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-038-0004",
+        "g-038-0005",
+        "g-038-0006"
+      ]
+    },
+    {
+      "grammarPoint": "动词字典形のは形容词です",
+      "lessonNumber": 38,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-038-0001",
+        "g-038-0002",
+        "g-038-0003"
+      ]
+    },
+    {
+      "grammarPoint": "动词字典形のを忘れました",
+      "lessonNumber": 38,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-038-0007",
+        "g-038-0008",
+        "g-038-0009"
+      ]
+    },
+    {
+      "grammarPoint": "动词普通形のを知っていますか",
+      "lessonNumber": 38,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-038-0010",
+        "g-038-0011",
+        "g-038-0012"
+      ]
+    },
+    {
+      "grammarPoint": "{{动词/い形容词}普通形/{{な形容词/名词}普通形〜<s>だ</s>→〜な}}ので、〜",
+      "lessonNumber": 39,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-039-0010",
+        "g-039-0011"
+      ]
+    },
+    {
+      "grammarPoint": "{动词て形/动词ない形なくて/い形容词（〜<s>い</s>）→〜くて/な形容词［<s>な</s>］→で}、〜",
+      "lessonNumber": 39,
+      "exampleCount": 7,
+      "exampleIds": [
+        "g-039-0001",
+        "g-039-0002",
+        "g-039-0003",
+        "g-039-0004",
+        "g-039-0005",
+        "g-039-0006",
+        "g-039-0007"
+      ]
+    },
+    {
+      "grammarPoint": "名词で",
+      "lessonNumber": 39,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-039-0008",
+        "g-039-0009"
+      ]
+    },
+    {
+      "grammarPoint": "途中で",
+      "lessonNumber": 39,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-039-0012",
+        "g-039-0013"
+      ]
+    },
+    {
+      "grammarPoint": "{{动词/い形容词}普通形/{{な形容词/名词}普通形〜<s>だ</s>}}か、〜",
+      "lessonNumber": 40,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-040-0001",
+        "g-040-0002",
+        "g-040-0003"
+      ]
+    },
+    {
+      "grammarPoint": "{{动词/い形容词}普通形/{{な形容词/名词}普通形〜<s>だ</s>}}かどうか、〜",
+      "lessonNumber": 40,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-040-0004",
+        "g-040-0005",
+        "g-040-0006"
+      ]
+    },
+    {
+      "grammarPoint": "〜でしょうか",
+      "lessonNumber": 40,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-040-0012"
+      ]
+    },
+    {
+      "grammarPoint": "い形容词（〜<s>い</s>）→〜さ",
+      "lessonNumber": 40,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-040-0010",
+        "g-040-0011"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形みます",
+      "lessonNumber": 40,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-040-0007",
+        "g-040-0008",
+        "g-040-0009"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形いただきます",
+      "lessonNumber": 41,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-041-0007"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形くださいます",
+      "lessonNumber": 41,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-041-0008",
+        "g-041-0009",
+        "g-041-0010"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形くださいませんか",
+      "lessonNumber": 41,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-041-0014",
+        "g-041-0015"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形やります",
+      "lessonNumber": 41,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-041-0011",
+        "g-041-0012",
+        "g-041-0013"
+      ]
+    },
+    {
+      "grammarPoint": "名词1に名词2をやります",
+      "lessonNumber": 41,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-041-0005",
+        "g-041-0006"
+      ]
+    },
+    {
+      "grammarPoint": "名词1（人）に名词2をいただきます",
+      "lessonNumber": 41,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-041-0001"
+      ]
+    },
+    {
+      "grammarPoint": "［わたしに］名词をくださいます",
+      "lessonNumber": 41,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-041-0002",
+        "g-041-0003",
+        "g-041-0004"
+      ]
+    },
+    {
+      "grammarPoint": "{动词字典形/名词の}ために、〜",
+      "lessonNumber": 42,
+      "exampleCount": 7,
+      "exampleIds": [
+        "g-042-0001",
+        "g-042-0002",
+        "g-042-0003",
+        "g-042-0004",
+        "g-042-0005",
+        "g-042-0006",
+        "g-042-0007"
+      ]
+    },
+    {
+      "grammarPoint": "{动词字典形の/名词}に〜",
+      "lessonNumber": 42,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-042-0008",
+        "g-042-0009",
+        "g-042-0010"
+      ]
+    },
+    {
+      "grammarPoint": "〜によって",
+      "lessonNumber": 42,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-042-0012"
+      ]
+    },
+    {
+      "grammarPoint": "数量词は/も",
+      "lessonNumber": 42,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-042-0011"
+      ]
+    },
+    {
+      "grammarPoint": "{い形容词（〜<s>い</s>）/な形容词［<s>な</s>］}そうです",
+      "lessonNumber": 43,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-043-0004",
+        "g-043-0005",
+        "g-043-0006",
+        "g-043-0007"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形くれませんか",
+      "lessonNumber": 43,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-043-0013"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形来ます",
+      "lessonNumber": 43,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-043-0008",
+        "g-043-0009",
+        "g-043-0010",
+        "g-043-0011",
+        "g-043-0012"
+      ]
+    },
+    {
+      "grammarPoint": "动词ます形そうです",
+      "lessonNumber": 43,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-043-0001",
+        "g-043-0002",
+        "g-043-0003"
+      ]
+    },
+    {
+      "grammarPoint": "{动词ます形/い形容词（〜<s>い</s>）/な形容词［<s>な</s>］すぎます",
+      "lessonNumber": 44,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-044-0001",
+        "g-044-0002",
+        "g-044-0003",
+        "g-044-0004"
+      ]
+    },
+    {
+      "grammarPoint": "动词ます形{やすいです/にくいです}",
+      "lessonNumber": 44,
+      "exampleCount": 6,
+      "exampleIds": [
+        "g-044-0005",
+        "g-044-0006",
+        "g-044-0007",
+        "g-044-0008",
+        "g-044-0009",
+        "g-044-0010"
+      ]
+    },
+    {
+      "grammarPoint": "名词1を{い形容词（〜<s>い</s>）→〜く/な形容词［<s>な</s>］→〜に/名词2に}します",
+      "lessonNumber": 44,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-044-0011",
+        "g-044-0012",
+        "g-044-0013"
+      ]
+    },
+    {
+      "grammarPoint": "名词にします",
+      "lessonNumber": 44,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-044-0014",
+        "g-044-0015"
+      ]
+    },
+    {
+      "grammarPoint": "{{动词/い形容词}普通形/{な形容词/名词}普通形〜<s>だ</s>→〜な}のに、〜",
+      "lessonNumber": 45,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-045-0006",
+        "g-045-0007",
+        "g-045-0008",
+        "g-045-0009",
+        "g-045-0010"
+      ]
+    },
+    {
+      "grammarPoint": "{动词字典形/动词ない形ない/动词た形/い形容词（〜い）/な形容词な/名词の}場合は、〜",
+      "lessonNumber": 45,
+      "exampleCount": 5,
+      "exampleIds": [
+        "g-045-0001",
+        "g-045-0002",
+        "g-045-0003",
+        "g-045-0004",
+        "g-045-0005"
+      ]
+    },
+    {
+      "grammarPoint": "{动词字典形/动词ない形ない/い形容词（〜い）/な形容词な/名词の}はずです",
+      "lessonNumber": 46,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-046-0010"
+      ]
+    },
+    {
+      "grammarPoint": "动词た形ところです",
+      "lessonNumber": 46,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-046-0005",
+        "g-046-0006"
+      ]
+    },
+    {
+      "grammarPoint": "动词た形ばかりです",
+      "lessonNumber": 46,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-046-0007",
+        "g-046-0008",
+        "g-046-0009"
+      ]
+    },
+    {
+      "grammarPoint": "动词て形いるところです",
+      "lessonNumber": 46,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-046-0004"
+      ]
+    },
+    {
+      "grammarPoint": "动词字典形ところです",
+      "lessonNumber": 46,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-046-0001",
+        "g-046-0002",
+        "g-046-0003"
+      ]
+    },
+    {
+      "grammarPoint": "{{动词/い形容词}普通形/な形容词普通形〜<s>だ</s>→〜な/名词普通形〜<s>だ</s>→〜の}ようです",
+      "lessonNumber": 47,
+      "exampleCount": 4,
+      "exampleIds": [
+        "g-047-0010",
+        "g-047-0011",
+        "g-047-0012",
+        "g-047-0013"
+      ]
+    },
+    {
+      "grammarPoint": "声/音/におい/味がします",
+      "lessonNumber": 47,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-047-0014"
+      ]
+    },
+    {
+      "grammarPoint": "普通形そうです",
+      "lessonNumber": 47,
+      "exampleCount": 9,
+      "exampleIds": [
+        "g-047-0001",
+        "g-047-0002",
+        "g-047-0003",
+        "g-047-0004",
+        "g-047-0005",
+        "g-047-0006",
+        "g-047-0007",
+        "g-047-0008",
+        "g-047-0009"
+      ]
+    },
+    {
+      "grammarPoint": "使役动词て形いただけませんか",
+      "lessonNumber": 48,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-048-0008",
+        "g-048-0009"
+      ]
+    },
+    {
+      "grammarPoint": "使役动词的使用方法",
+      "lessonNumber": 48,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-048-0006",
+        "g-048-0007"
+      ]
+    },
+    {
+      "grammarPoint": "名词1（人）に名词2を使役动词（他动词）",
+      "lessonNumber": 48,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-048-0004",
+        "g-048-0005"
+      ]
+    },
+    {
+      "grammarPoint": "名词（人）を使役动词（自动词）",
+      "lessonNumber": 48,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-048-0001",
+        "g-048-0002",
+        "g-048-0003"
+      ]
+    },
+    {
+      "grammarPoint": "〜まして",
+      "lessonNumber": 49,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-049-0011"
+      ]
+    },
+    {
+      "grammarPoint": "〜ますので",
+      "lessonNumber": 49,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-049-0012"
+      ]
+    },
+    {
+      "grammarPoint": "お/ご〜ください",
+      "lessonNumber": 49,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-049-0006",
+        "g-049-0007",
+        "g-049-0008"
+      ]
+    },
+    {
+      "grammarPoint": "お动词ます形になります",
+      "lessonNumber": 49,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-049-0003"
+      ]
+    },
+    {
+      "grammarPoint": "名词、形容词、副词<br>お/ご〜",
+      "lessonNumber": 49,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-049-0009"
+      ]
+    },
+    {
+      "grammarPoint": "尊敬动词",
+      "lessonNumber": 49,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-049-0001",
+        "g-049-0002"
+      ]
+    },
+    {
+      "grammarPoint": "敬语与文体",
+      "lessonNumber": 49,
+      "exampleCount": 1,
+      "exampleIds": [
+        "g-049-0010"
+      ]
+    },
+    {
+      "grammarPoint": "特殊尊敬语",
+      "lessonNumber": 49,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-049-0004",
+        "g-049-0005"
+      ]
+    },
+    {
+      "grammarPoint": "お动词（I/II 类）ます形します",
+      "lessonNumber": 50,
+      "exampleCount": 3,
+      "exampleIds": [
+        "g-050-0001",
+        "g-050-0002",
+        "g-050-0003"
+      ]
+    },
+    {
+      "grammarPoint": "ご动词（III 类）",
+      "lessonNumber": 50,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-050-0004",
+        "g-050-0005"
+      ]
+    },
+    {
+      "grammarPoint": "特殊谦逊语",
+      "lessonNumber": 50,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-050-0006",
+        "g-050-0007"
+      ]
+    },
+    {
+      "grammarPoint": "謙譲語 II",
+      "lessonNumber": 50,
+      "exampleCount": 2,
+      "exampleIds": [
+        "g-050-0008",
+        "g-050-0009"
+      ]
+    }
+  ]
+}

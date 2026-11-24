@@ -1,0 +1,25 @@
+# Anki source files (large, copyright)
+*.apkg
+
+# macOS
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Editor / tooling
+.vscode/
+.idea/
+*.log
+
+# Claude Code local state
+.claude/settings.local.json
