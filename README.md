@@ -102,4 +102,20 @@ React 19 · TypeScript · Vite · Tailwind v4 · Chrome MV3 · Scriptable (iOS) 
 
 ---
 
-Built as a personal tool while working through Minna no Nihongo. The Anki source files are excluded from this repo for size and copyright reasons.
+## Content attribution
+
+The vocabulary and grammar example sentences in `vocabulary.json` and `grammar.json` are derived from the *Minna no Nihongo* (《大家的日本语》) textbook series, published by **3A Network** (株式会社スリーエーネットワーク). This includes textbook characters (e.g. Mike Miller, Mr. Santos) and example sentences that appear in the book.
+
+This project is a personal study tool, not a replacement for the textbook — you still need the real book to actually learn. The data is included here so the tool runs out of the box for other learners who already own a copy.
+
+**If you represent 3A Network and would like the textbook-derived content removed, please open an issue on this repo and I'll take it down promptly.** No pushback — the goal here is a learning aid, not redistribution.
+
+The source `.apkg` files themselves are excluded from this repo (see `.gitignore`).
+
+## License
+
+The **code** in this repository is MIT-licensed (see [LICENSE](./LICENSE)) — fork, learn from it, build on it. The license covers only the code I wrote; it does not grant rights to the Minna no Nihongo textbook content described above, which remains the property of its publisher.
+
+---
+
+Built as a personal tool while working through Minna no Nihongo.
