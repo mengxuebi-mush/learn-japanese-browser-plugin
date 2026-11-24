@@ -1,5 +1,9 @@
 # Japanese Review Tool
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
+> A Chrome new-tab extension (plus iOS lock-screen widget) that turns idle moments into Japanese review. Zero LLM API cost — practice buttons deep-link to Claude chat.
+
 A lightweight spaced-review tool for learners of *Minna no Nihongo* (《大家的日本语》). It turns two high-frequency moments — opening a new browser tab and glancing at the iPhone lock screen — into tiny, frictionless Japanese review sessions.
 
 **The clever bit:** zero LLM API calls. Every "practice this with AI" button is a deep link to a Claude chat with a pre-filled prompt. The tool handles exposure and launch; Claude handles the conversation.
@@ -58,15 +62,25 @@ japaneseTool/
     └── core/                  # Shared: sampler, storage, types
 ```
 
-## Run the Chrome extension locally
+## Install (developer mode)
 
-```bash
-cd apps/chrome-extension
-npm install
-npm run build
-```
+Not published to the Chrome Web Store yet — load it unpacked:
 
-Then in Chrome: `chrome://extensions` → Developer mode on → "Load unpacked" → pick `apps/chrome-extension/dist`. Open a new tab.
+1. Clone and build:
+   ```bash
+   git clone git@github.com:mengxuebi-mush/learn-japanese-browser-plugin.git
+   cd learn-japanese-browser-plugin/apps/chrome-extension
+   npm install
+   npm run build
+   ```
+   Requires Node 18+.
+
+2. In Chrome, open `chrome://extensions`
+3. Toggle **Developer mode** (top-right)
+4. Click **Load unpacked** and select the `apps/chrome-extension/dist` folder
+5. Open a new tab — the review cards replace Chrome's default new-tab page
+
+To update after pulling changes: `npm run build` again, then hit the refresh icon on the extension card at `chrome://extensions`.
 
 ## Prompt templates
 
